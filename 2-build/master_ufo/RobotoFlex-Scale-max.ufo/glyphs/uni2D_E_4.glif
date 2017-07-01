@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DE4" format="1">
+  <advance width="0"/>
+  <unicode hex="2DE4"/>
+  <outline>
+    <contour>
+      <point x="-1558" y="2806" type="line"/>
+      <point x="-1244" y="2806" type="line"/>
+      <point x="-1208" y="3094" type="line"/>
+      <point x="-1414" y="3094" type="line"/>
+      <point x="-1644" y="3508" type="line"/>
+      <point x="-1994" y="3508" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1410" y="2868" type="line"/>
+      <point x="-1624" y="3052" type="line"/>
+      <point x="-2028" y="2402" type="line"/>
+      <point x="-1658" y="2402" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1008" y="3508" type="line"/>
+      <point x="-1312" y="3508" type="line"/>
+      <point x="-1312" y="2402" type="line"/>
+      <point x="-1008" y="2402" type="line"/>
+    </contour>
+    <contour>
+      <point x="-324" y="3508" type="line"/>
+      <point x="-674" y="3508" type="line"/>
+      <point x="-902" y="3094" type="line"/>
+      <point x="-1132" y="3094" type="line"/>
+      <point x="-1096" y="2806" type="line"/>
+      <point x="-760" y="2806" type="line"/>
+    </contour>
+    <contour>
+      <point x="-662" y="2402" type="line"/>
+      <point x="-290" y="2402" type="line"/>
+      <point x="-694" y="3052" type="line"/>
+      <point x="-908" y="2868" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1160" y="2340" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

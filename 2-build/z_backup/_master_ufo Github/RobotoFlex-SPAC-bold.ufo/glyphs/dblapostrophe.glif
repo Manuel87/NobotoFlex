@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblapostrophe" format="1">
+  <advance width="734"/>
+  <unicode hex="02EE"/>
+  <outline>
+    <contour>
+      <point x="357" y="1560" type="line"/>
+      <point x="96" y="1560" type="line"/>
+      <point x="96" y="1367" type="line" smooth="yes"/>
+      <point x="96" y="1228"/>
+      <point x="64" y="1135"/>
+      <point x="20" y="1054" type="curve"/>
+      <point x="174" y="974" type="line"/>
+      <point x="269" y="1062"/>
+      <point x="357" y="1225"/>
+      <point x="357" y="1366" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="714" y="1560" type="line"/>
+      <point x="453" y="1560" type="line"/>
+      <point x="453" y="1367" type="line" smooth="yes"/>
+      <point x="453" y="1228"/>
+      <point x="421" y="1135"/>
+      <point x="377" y="1054" type="curve"/>
+      <point x="531" y="974" type="line"/>
+      <point x="626" y="1062"/>
+      <point x="714" y="1225"/>
+      <point x="714" y="1366" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z.smcp" format="1">
+  <advance width="933"/>
+  <outline>
+    <contour>
+      <point x="912" y="54" type="line"/>
+      <point x="38" y="54" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="912" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="884" y="1123" type="line"/>
+      <point x="884" y="1165" type="line"/>
+      <point x="846" y="1165" type="line"/>
+      <point x="20" y="46" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="859" y="1165" type="line"/>
+      <point x="53" y="1165" type="line"/>
+      <point x="53" y="1111" type="line"/>
+      <point x="859" y="1111" type="line"/>
+    </contour>
+    <contour>
+      <point x="993" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="993" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="464" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="993" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="464" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

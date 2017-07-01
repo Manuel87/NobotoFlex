@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0416.smcp" format="1">
+  <advance width="3270"/>
+  <outline>
+    <contour>
+      <point x="1912" y="2330" type="line"/>
+      <point x="1358" y="2330" type="line"/>
+      <point x="1358" y="0" type="line"/>
+      <point x="1912" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="3160" y="2330" type="line"/>
+      <point x="2514" y="2330" type="line"/>
+      <point x="2086" y="1420" type="line"/>
+      <point x="1754" y="1420" type="line"/>
+      <point x="1776" y="888" type="line"/>
+      <point x="2400" y="888" type="line"/>
+    </contour>
+    <contour>
+      <point x="2540" y="0" type="line"/>
+      <point x="3222" y="0" type="line"/>
+      <point x="2510" y="1334" type="line"/>
+      <point x="2054" y="994" type="line"/>
+    </contour>
+    <contour>
+      <point x="856" y="888" type="line"/>
+      <point x="1494" y="888" type="line"/>
+      <point x="1516" y="1420" type="line"/>
+      <point x="1184" y="1420" type="line"/>
+      <point x="756" y="2330" type="line"/>
+      <point x="110" y="2330" type="line"/>
+    </contour>
+    <contour>
+      <point x="1214" y="994" type="line"/>
+      <point x="768" y="1332" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="730" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1638" y="2640" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="3270" y="2640" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="585"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="256" y="246" type="line"/>
+      <point x="71" y="246" type="line"/>
+      <point x="71" y="76" type="line" smooth="yes"/>
+      <point x="71" y="-39"/>
+      <point x="39" y="-136"/>
+      <point x="-24" y="-230" type="curve"/>
+      <point x="81" y="-302" type="line"/>
+      <point x="192" y="-207"/>
+      <point x="256" y="-49"/>
+      <point x="256" y="79" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="551" y="246" type="line"/>
+      <point x="366" y="246" type="line"/>
+      <point x="366" y="76" type="line" smooth="yes"/>
+      <point x="366" y="-39"/>
+      <point x="335" y="-136"/>
+      <point x="272" y="-230" type="curve"/>
+      <point x="377" y="-302" type="line"/>
+      <point x="488" y="-207"/>
+      <point x="551" y="-49"/>
+      <point x="551" y="79" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

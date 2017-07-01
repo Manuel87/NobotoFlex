@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D34" format="1">
+  <advance width="1008"/>
+  <unicode hex="1D34"/>
+  <outline>
+    <contour>
+      <point x="865" y="1312" type="line"/>
+      <point x="140" y="1312" type="line"/>
+      <point x="140" y="1258" type="line"/>
+      <point x="865" y="1258" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="1828" type="line"/>
+      <point x="120" y="1828" type="line"/>
+      <point x="120" y="751" type="line"/>
+      <point x="174" y="751" type="line"/>
+    </contour>
+    <contour>
+      <point x="888" y="1828" type="line"/>
+      <point x="834" y="1828" type="line"/>
+      <point x="834" y="751" type="line"/>
+      <point x="888" y="751" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

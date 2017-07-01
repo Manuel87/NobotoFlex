@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1550"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="499" y="413" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="451" y="100" type="line"/>
+      <point x="714" y="913" type="line"/>
+      <point x="790" y="1182" type="line"/>
+      <point x="742" y="1182" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="1182" type="line"/>
+      <point x="83" y="1182" type="line"/>
+      <point x="397" y="100" type="line"/>
+      <point x="446" y="100" type="line"/>
+      <point x="366" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="1173" y="413" type="line"/>
+      <point x="1092" y="100" type="line"/>
+      <point x="1141" y="100" type="line"/>
+      <point x="1456" y="1182" type="line"/>
+      <point x="1393" y="1182" type="line"/>
+    </contour>
+    <contour>
+      <point x="797" y="1182" type="line"/>
+      <point x="749" y="1182" type="line"/>
+      <point x="820" y="913" type="line"/>
+      <point x="1087" y="100" type="line"/>
+      <point x="1138" y="100" type="line"/>
+      <point x="1039" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="767" y="1393" type="move" name="marktop"/>
+    </contour>
+    <contour>
+      <point x="1550" y="1393" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="767" y="1393" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1550" y="1700" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1550" y="-307" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="769" y="110" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

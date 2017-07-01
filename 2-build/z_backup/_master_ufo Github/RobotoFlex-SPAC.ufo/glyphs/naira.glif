@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="naira" format="1">
+  <advance width="1409"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="1429" y="889" type="line"/>
+      <point x="-20" y="889" type="line"/>
+      <point x="-20" y="835" type="line"/>
+      <point x="1429" y="835" type="line"/>
+    </contour>
+    <contour>
+      <point x="1429" y="589" type="line"/>
+      <point x="-20" y="589" type="line"/>
+      <point x="-20" y="535" type="line"/>
+      <point x="1429" y="535" type="line"/>
+    </contour>
+    <component base="N" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.cn" format="1">
+  <advance width="1030"/>
+  <outline>
+    <contour>
+      <point x="265" y="874" type="line"/>
+      <point x="249" y="1082" type="line"/>
+      <point x="80" y="1082" type="line"/>
+      <point x="80" y="-416" type="line"/>
+      <point x="265" y="-416" type="line"/>
+    </contour>
+    <contour>
+      <point x="995" y="590" type="line"/>
+      <point x="995" y="946"/>
+      <point x="845" y="1102"/>
+      <point x="572" y="1102" type="curve" smooth="yes"/>
+      <point x="310" y="1102"/>
+      <point x="185" y="913"/>
+      <point x="154" y="607" type="curve"/>
+      <point x="154" y="454" type="line"/>
+      <point x="183" y="161"/>
+      <point x="310" y="-20"/>
+      <point x="575" y="-20" type="curve" smooth="yes"/>
+      <point x="843" y="-20"/>
+      <point x="995" y="147"/>
+      <point x="995" y="489" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="810" y="489" type="line"/>
+      <point x="810" y="248"/>
+      <point x="720" y="132"/>
+      <point x="520" y="132" type="curve" smooth="yes"/>
+      <point x="337" y="132"/>
+      <point x="256" y="250"/>
+      <point x="217" y="379" type="curve"/>
+      <point x="217" y="681" type="line"/>
+      <point x="247" y="818"/>
+      <point x="332" y="945"/>
+      <point x="518" y="945" type="curve" smooth="yes"/>
+      <point x="720" y="945"/>
+      <point x="810" y="831"/>
+      <point x="810" y="590" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

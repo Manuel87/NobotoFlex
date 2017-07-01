@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0449" format="1">
+  <advance width="1472"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="1508" y="54" type="line"/>
+      <point x="1339" y="54" type="line"/>
+      <point x="1339" y="0" type="line"/>
+      <point x="1454" y="0" type="line"/>
+      <point x="1454" y="-321" type="line"/>
+      <point x="1508" y="-321" type="line"/>
+    </contour>
+    <component base="uni0448"/>
+    <contour>
+      <point x="752" y="1269" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1532" y="1269" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

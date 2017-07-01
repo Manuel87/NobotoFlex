@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="1">
+  <advance width="541"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="406" y="249" type="line"/>
+      <point x="154" y="249" type="line"/>
+      <point x="154" y="63" type="line"/>
+      <point x="154" y="-67"/>
+      <point x="122" y="-154"/>
+      <point x="78" y="-230" type="curve"/>
+      <point x="222" y="-310" type="line"/>
+      <point x="317" y="-226"/>
+      <point x="405" y="-72"/>
+      <point x="405" y="62" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

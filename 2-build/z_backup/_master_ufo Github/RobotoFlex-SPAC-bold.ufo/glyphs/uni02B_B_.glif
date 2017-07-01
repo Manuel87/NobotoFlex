@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BB" format="1">
+  <advance width="377"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <contour>
+      <point x="20" y="1006" type="line"/>
+      <point x="281" y="1006" type="line"/>
+      <point x="281" y="1207" type="line" smooth="yes"/>
+      <point x="281" y="1346"/>
+      <point x="313" y="1439"/>
+      <point x="357" y="1520" type="curve"/>
+      <point x="203" y="1600" type="line"/>
+      <point x="108" y="1512"/>
+      <point x="20" y="1349"/>
+      <point x="20" y="1208" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

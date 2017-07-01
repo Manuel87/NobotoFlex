@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78A" format="1">
+  <advance width="587"/>
+  <unicode hex="A78A"/>
+  <outline>
+    <contour>
+      <point x="567" y="857" type="line"/>
+      <point x="20" y="857" type="line"/>
+      <point x="20" y="804" type="line"/>
+      <point x="567" y="804" type="line"/>
+    </contour>
+    <contour>
+      <point x="567" y="557" type="line"/>
+      <point x="20" y="557" type="line"/>
+      <point x="20" y="504" type="line"/>
+      <point x="567" y="504" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

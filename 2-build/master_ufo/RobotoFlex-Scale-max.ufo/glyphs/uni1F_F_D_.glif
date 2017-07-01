@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FFD" format="1">
+  <advance width="1020"/>
+  <unicode hex="1FFD"/>
+  <outline>
+    <contour>
+      <point x="196" y="2318" type="line"/>
+      <point x="418" y="2950" type="line"/>
+      <point x="840" y="2950" type="line"/>
+      <point x="840" y="2908" type="line"/>
+      <point x="380" y="2270" type="line"/>
+      <point x="196" y="2270" type="line"/>
+    </contour>
+    <contour>
+      <point x="816" y="2910" type="move" name="_tonos"/>
+    </contour>
+    <contour>
+      <point x="290" y="2364" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

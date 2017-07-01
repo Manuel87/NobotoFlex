@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C78.cn" format="1">
+  <advance width="1292"/>
+  <outline>
+    <contour>
+      <point x="861" y="329" type="line"/>
+      <point x="845" y="85"/>
+      <point x="938" y="-20"/>
+      <point x="1119" y="-20" type="curve" smooth="yes"/>
+      <point x="1241" y="-20"/>
+      <point x="1306" y="60"/>
+      <point x="1352" y="197" type="curve"/>
+      <point x="1352" y="197"/>
+      <point x="1208" y="312"/>
+      <point x="1208" y="312" type="curve"/>
+      <point x="1189" y="231"/>
+      <point x="1156" y="190"/>
+      <point x="1106" y="190" type="curve" smooth="yes"/>
+      <point x="1049" y="190"/>
+      <point x="1013" y="231"/>
+      <point x="994" y="294" type="curve"/>
+    </contour>
+    <component base="e.cn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

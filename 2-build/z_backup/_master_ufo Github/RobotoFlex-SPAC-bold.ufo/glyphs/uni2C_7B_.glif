@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C7B" format="1">
+  <advance width="911"/>
+  <unicode hex="2C7B"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+      <point x="663" y="258" type="line"/>
+      <point x="0" y="258" type="line"/>
+    </contour>
+    <contour>
+      <point x="542" y="0" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="864" y="1082" type="line"/>
+      <point x="542" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="397" type="line"/>
+      <point x="663" y="397" type="line"/>
+      <point x="663" y="656" type="line"/>
+      <point x="86" y="656" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="824" type="line"/>
+      <point x="663" y="824" type="line"/>
+      <point x="663" y="1082" type="line"/>
+      <point x="0" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

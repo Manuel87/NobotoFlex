@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02D0" format="1">
+  <advance width="487"/>
+  <unicode hex="02D0"/>
+  <outline>
+    <contour>
+      <point x="63" y="1082" type="curve"/>
+      <point x="63" y="1082"/>
+      <point x="230" y="800"/>
+      <point x="230" y="800" type="curve"/>
+      <point x="230" y="800"/>
+      <point x="255" y="800"/>
+      <point x="255" y="800" type="curve"/>
+      <point x="255" y="800"/>
+      <point x="424" y="1082"/>
+      <point x="424" y="1082" type="curve"/>
+      <point x="424" y="1082"/>
+      <point x="63" y="1082"/>
+    </contour>
+    <contour>
+      <point x="63" y="0" type="curve"/>
+      <point x="63" y="0"/>
+      <point x="424" y="0"/>
+      <point x="424" y="0" type="curve"/>
+      <point x="424" y="0"/>
+      <point x="255" y="282"/>
+      <point x="255" y="282" type="curve"/>
+      <point x="255" y="282"/>
+      <point x="230" y="282"/>
+      <point x="230" y="282" type="curve"/>
+      <point x="230" y="282"/>
+      <point x="63" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>221</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

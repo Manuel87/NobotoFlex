@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caronnosp" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-1428" y="3050" type="line"/>
+      <point x="-1902" y="3050" type="line"/>
+      <point x="-1902" y="3018" type="line"/>
+      <point x="-1348" y="2504" type="line"/>
+      <point x="-972" y="2504" type="line"/>
+      <point x="-418" y="3016" type="line"/>
+      <point x="-418" y="3050" type="line"/>
+      <point x="-892" y="3050" type="line"/>
+      <point x="-1160" y="2772" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

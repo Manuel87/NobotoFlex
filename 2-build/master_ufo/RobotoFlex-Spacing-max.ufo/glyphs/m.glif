@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="2196"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="525" y="868" type="line"/>
+      <point x="515" y="1082" type="line"/>
+      <point x="339" y="1082" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="582" type="line"/>
+      <point x="488" y="777"/>
+      <point x="556" y="945"/>
+      <point x="774" y="945" type="curve" smooth="yes"/>
+      <point x="914" y="945"/>
+      <point x="1005" y="880"/>
+      <point x="1005" y="712" type="curve" smooth="yes"/>
+      <point x="1005" y="0" type="line"/>
+      <point x="1190" y="0" type="line"/>
+      <point x="1190" y="721" type="line" smooth="yes"/>
+      <point x="1190" y="992"/>
+      <point x="1042" y="1102"/>
+      <point x="840" y="1102" type="curve" smooth="yes"/>
+      <point x="551" y="1102"/>
+      <point x="403" y="882"/>
+      <point x="401" y="585" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1188" y="684" type="line"/>
+      <point x="1189" y="825"/>
+      <point x="1277" y="945"/>
+      <point x="1440" y="945" type="curve" smooth="yes"/>
+      <point x="1581" y="946"/>
+      <point x="1672" y="894"/>
+      <point x="1672" y="713" type="curve" smooth="yes"/>
+      <point x="1672" y="0" type="line"/>
+      <point x="1857" y="0" type="line"/>
+      <point x="1857" y="711" type="line" smooth="yes"/>
+      <point x="1857" y="984"/>
+      <point x="1726" y="1102"/>
+      <point x="1494" y="1102" type="curve" smooth="yes"/>
+      <point x="1218" y="1102"/>
+      <point x="1067" y="882"/>
+      <point x="1064" y="646" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1111" y="1290" type="move" name="marktop"/>
+    </contour>
+    <contour>
+      <point x="1996" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1111" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1996" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1996" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1097" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

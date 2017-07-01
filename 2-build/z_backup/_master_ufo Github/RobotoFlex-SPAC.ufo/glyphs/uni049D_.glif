@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049D" format="1">
+  <advance width="943"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="111" y="1082" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="850" type="line"/>
+      <point x="338" y="250" type="line"/>
+      <point x="393" y="250" type="line"/>
+      <point x="393" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="822" y="1082" type="line"/>
+      <point x="504" y="582" type="line"/>
+      <point x="147" y="582" type="line"/>
+      <point x="144" y="529" type="line"/>
+      <point x="532" y="529" type="line"/>
+      <point x="900" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="533" type="line"/>
+      <point x="882" y="0" type="line"/>
+      <point x="964" y="0" type="line"/>
+      <point x="523" y="584" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

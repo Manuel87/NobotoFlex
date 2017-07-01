@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rdescend" format="1">
+  <advance width="565"/>
+  <unicode hex="027C"/>
+  <outline>
+    <contour>
+      <point x="166" y="894" type="line"/>
+      <point x="166" y="1082" type="line"/>
+      <point x="112" y="1082" type="line"/>
+      <point x="112" y="-416" type="line"/>
+      <point x="166" y="-416" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="1091" type="line"/>
+      <point x="578" y="1097"/>
+      <point x="552" y="1102"/>
+      <point x="519" y="1102" type="curve"/>
+      <point x="249" y="1102"/>
+      <point x="119" y="881"/>
+      <point x="119" y="577" type="curve"/>
+      <point x="155" y="580" type="line"/>
+      <point x="155" y="835"/>
+      <point x="276" y="1049"/>
+      <point x="519" y="1049" type="curve"/>
+      <point x="544" y="1049"/>
+      <point x="568" y="1046"/>
+      <point x="589" y="1043" type="curve"/>
+    </contour>
+    <contour>
+      <point x="387" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="387" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="625" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

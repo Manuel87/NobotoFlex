@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.smcp" format="1">
+  <advance width="1612"/>
+  <outline>
+    <contour>
+      <point x="988" y="150" type="line"/>
+      <point x="872" y="38" type="line"/>
+      <point x="1187" y="-202" type="line"/>
+      <point x="1312" y="-91" type="line"/>
+    </contour>
+    <contour>
+      <point x="1309" y="615" type="line"/>
+      <point x="1309" y="967"/>
+      <point x="1106" y="1181"/>
+      <point x="799" y="1181" type="curve" smooth="yes"/>
+      <point x="498" y="1181"/>
+      <point x="290" y="967"/>
+      <point x="290" y="615" type="curve"/>
+      <point x="290" y="549" type="line"/>
+      <point x="290" y="197"/>
+      <point x="500" y="-16"/>
+      <point x="800" y="-16" type="curve" smooth="yes"/>
+      <point x="1108" y="-16"/>
+      <point x="1309" y="197"/>
+      <point x="1309" y="549" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1126" y="549" type="line"/>
+      <point x="1126" y="285"/>
+      <point x="1007" y="139"/>
+      <point x="800" y="139" type="curve" smooth="yes"/>
+      <point x="602" y="139"/>
+      <point x="474" y="285"/>
+      <point x="474" y="549" type="curve" smooth="yes"/>
+      <point x="474" y="617" type="line" smooth="yes"/>
+      <point x="474" y="880"/>
+      <point x="600" y="1025"/>
+      <point x="799" y="1025" type="curve" smooth="yes"/>
+      <point x="1005" y="1025"/>
+      <point x="1126" y="880"/>
+      <point x="1126" y="617" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1412" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1412" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="799" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1412" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="799" y="-10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

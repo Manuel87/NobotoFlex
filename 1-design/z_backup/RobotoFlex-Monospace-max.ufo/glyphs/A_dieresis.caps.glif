@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis.caps" format="1">
+  <advance width="1223"/>
+  <outline>
+    <component base="A.caps"/>
+    <component base="dieresis.case" xOffset="162" yOffset="319"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

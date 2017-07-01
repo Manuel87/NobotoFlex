@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rfishhook" format="1">
+  <advance width="559"/>
+  <unicode hex="027E"/>
+  <outline>
+    <contour>
+      <point x="226" y="100" type="line"/>
+      <point x="226" y="853" type="line" smooth="yes"/>
+      <point x="226" y="1040"/>
+      <point x="269" y="1147"/>
+      <point x="417" y="1147" type="curve" smooth="yes"/>
+      <point x="454" y="1147"/>
+      <point x="495" y="1137"/>
+      <point x="516" y="1129" type="curve"/>
+      <point x="529" y="1181" type="line"/>
+      <point x="490" y="1194"/>
+      <point x="458" y="1201"/>
+      <point x="417" y="1201" type="curve" smooth="yes"/>
+      <point x="238" y="1201"/>
+      <point x="172" y="1078"/>
+      <point x="172" y="853" type="curve" smooth="yes"/>
+      <point x="172" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="1390" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="201" y="100" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="559" y="1390" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

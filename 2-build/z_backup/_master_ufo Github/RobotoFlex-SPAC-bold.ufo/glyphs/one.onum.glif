@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.onum" format="1">
+  <advance width="1063"/>
+  <outline>
+    <contour>
+      <point x="735" y="1164" type="line"/>
+      <point x="704" y="1164" type="line"/>
+      <point x="77" y="943" type="line"/>
+      <point x="77" y="687" type="line"/>
+      <point x="413" y="784" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="735" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

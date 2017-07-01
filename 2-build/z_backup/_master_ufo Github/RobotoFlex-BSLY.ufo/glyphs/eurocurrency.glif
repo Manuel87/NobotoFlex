@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eurocurrency" format="1">
+  <advance width="1389"/>
+  <unicode hex="20A0"/>
+  <outline>
+    <contour>
+      <point x="545" y="648" type="line"/>
+      <point x="304" y="648"/>
+      <point x="154" y="817"/>
+      <point x="154" y="1071" type="curve" smooth="yes"/>
+      <point x="154" y="1161" type="line" smooth="yes"/>
+      <point x="154" y="1414"/>
+      <point x="303" y="1583"/>
+      <point x="544" y="1583" type="curve" smooth="yes"/>
+      <point x="787" y="1583"/>
+      <point x="920" y="1474"/>
+      <point x="920" y="1263" type="curve"/>
+      <point x="974" y="1263" type="line"/>
+      <point x="974" y="1513"/>
+      <point x="808" y="1637"/>
+      <point x="544" y="1637" type="curve" smooth="yes"/>
+      <point x="268" y="1637"/>
+      <point x="100" y="1443"/>
+      <point x="100" y="1160" type="curve" smooth="yes"/>
+      <point x="100" y="1071" type="line" smooth="yes"/>
+      <point x="100" y="788"/>
+      <point x="269" y="593"/>
+      <point x="545" y="593" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1314" y="154" type="line"/>
+      <point x="568" y="154" type="line"/>
+      <point x="568" y="100" type="line"/>
+      <point x="1314" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="1102" type="line"/>
+      <point x="544" y="1102" type="line"/>
+      <point x="544" y="100" type="line"/>
+      <point x="598" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="1227" y="647" type="line"/>
+      <point x="568" y="647" type="line"/>
+      <point x="568" y="593" type="line"/>
+      <point x="1227" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="1314" y="1102" type="line"/>
+      <point x="568" y="1102" type="line"/>
+      <point x="568" y="1048" type="line"/>
+      <point x="1314" y="1048" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

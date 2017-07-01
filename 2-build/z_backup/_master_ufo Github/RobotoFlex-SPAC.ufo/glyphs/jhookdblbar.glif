@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jhookdblbar" format="1">
+  <advance width="708"/>
+  <unicode hex="0284"/>
+  <outline>
+    <component base="esh"/>
+    <component base="crossbar" xOffset="37" yOffset="-722"/>
+    <contour>
+      <point x="530" y="1700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="165" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="768" y="1700" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

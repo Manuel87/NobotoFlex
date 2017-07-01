@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.caps" format="1">
+  <advance width="1001"/>
+  <outline>
+    <contour>
+      <point x="357" y="770" type="line"/>
+      <point x="357" y="720" type="line"/>
+      <point x="472" y="720" type="line"/>
+      <point x="739" y="720"/>
+      <point x="915" y="881"/>
+      <point x="915" y="1081" type="curve"/>
+      <point x="915" y="1326"/>
+      <point x="754" y="1476"/>
+      <point x="504" y="1476" type="curve" smooth="yes"/>
+      <point x="270" y="1476"/>
+      <point x="74" y="1323"/>
+      <point x="74" y="1074" type="curve"/>
+      <point x="128" y="1074" type="line"/>
+      <point x="128" y="1290"/>
+      <point x="294" y="1422"/>
+      <point x="504" y="1422" type="curve" smooth="yes"/>
+      <point x="752" y="1422"/>
+      <point x="861" y="1268"/>
+      <point x="861" y="1085" type="curve"/>
+      <point x="861" y="917"/>
+      <point x="723" y="770"/>
+      <point x="468" y="770" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="357" y="714" type="line"/>
+      <point x="468" y="714" type="line" smooth="yes"/>
+      <point x="716" y="714"/>
+      <point x="893" y="620"/>
+      <point x="893" y="382" type="curve" smooth="yes"/>
+      <point x="893" y="165"/>
+      <point x="755" y="34"/>
+      <point x="513" y="34" type="curve" smooth="yes"/>
+      <point x="276" y="34"/>
+      <point x="97" y="189"/>
+      <point x="97" y="405" type="curve"/>
+      <point x="43" y="405" type="line"/>
+      <point x="43" y="111"/>
+      <point x="294" y="-20"/>
+      <point x="513" y="-20" type="curve" smooth="yes"/>
+      <point x="764" y="-20"/>
+      <point x="947" y="128"/>
+      <point x="947" y="386" type="curve" smooth="yes"/>
+      <point x="947" y="629"/>
+      <point x="764" y="763"/>
+      <point x="472" y="763" type="curve" smooth="yes"/>
+      <point x="357" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1658</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

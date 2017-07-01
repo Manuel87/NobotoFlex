@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O.cn" format="1">
+  <advance width="1364"/>
+  <outline>
+    <contour>
+      <point x="1221" y="1017" type="line"/>
+      <point x="1221" y="1373"/>
+      <point x="1016" y="1576"/>
+      <point x="681" y="1576" type="curve" smooth="yes"/>
+      <point x="347" y="1576"/>
+      <point x="143" y="1373"/>
+      <point x="143" y="1017" type="curve"/>
+      <point x="143" y="639" type="line"/>
+      <point x="143" y="283"/>
+      <point x="349" y="79"/>
+      <point x="683" y="79" type="curve" smooth="yes"/>
+      <point x="1018" y="79"/>
+      <point x="1221" y="283"/>
+      <point x="1221" y="639" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1167" y="639" type="line"/>
+      <point x="1167" y="320"/>
+      <point x="997" y="133"/>
+      <point x="683" y="133" type="curve" smooth="yes"/>
+      <point x="371" y="133"/>
+      <point x="198" y="320"/>
+      <point x="198" y="639" type="curve" smooth="yes"/>
+      <point x="198" y="1019" type="line" smooth="yes"/>
+      <point x="198" y="1336"/>
+      <point x="369" y="1522"/>
+      <point x="681" y="1522" type="curve" smooth="yes"/>
+      <point x="995" y="1522"/>
+      <point x="1167" y="1336"/>
+      <point x="1167" y="1019" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7AC" format="1">
+  <advance width="1393"/>
+  <unicode hex="A7AC"/>
+  <outline>
+    <contour>
+      <point x="1059" y="956" type="line"/>
+      <point x="1029" y="718" type="line"/>
+      <point x="1029" y="-486" type="line" smooth="yes"/>
+      <point x="1029" y="-677"/>
+      <point x="923" y="-775"/>
+      <point x="724" y="-775" type="curve" smooth="yes"/>
+      <point x="593" y="-775"/>
+      <point x="465" y="-726"/>
+      <point x="355" y="-628" type="curve"/>
+      <point x="250" y="-748" type="line"/>
+      <point x="381" y="-886"/>
+      <point x="551" y="-936"/>
+      <point x="722" y="-936" type="curve" smooth="yes"/>
+      <point x="1040" y="-936"/>
+      <point x="1221" y="-766"/>
+      <point x="1221" y="-477" type="curve" smooth="yes"/>
+      <point x="1221" y="956" type="line"/>
+    </contour>
+    <contour>
+      <point x="1083" y="-135" type="line"/>
+      <point x="1028" y="-264"/>
+      <point x="881" y="-363"/>
+      <point x="687" y="-363" type="curve" smooth="yes"/>
+      <point x="428" y="-363"/>
+      <point x="311" y="-130"/>
+      <point x="311" y="155" type="curve" smooth="yes"/>
+      <point x="311" y="302" type="line" smooth="yes"/>
+      <point x="311" y="610"/>
+      <point x="446" y="818"/>
+      <point x="704" y="818" type="curve" smooth="yes"/>
+      <point x="892" y="818"/>
+      <point x="1043" y="735"/>
+      <point x="1084" y="615" type="curve"/>
+      <point x="1165" y="727" type="line"/>
+      <point x="1083" y="879"/>
+      <point x="930" y="976"/>
+      <point x="704" y="976" type="curve" smooth="yes"/>
+      <point x="344" y="976"/>
+      <point x="119" y="708"/>
+      <point x="119" y="300" type="curve" smooth="yes"/>
+      <point x="119" y="155" type="line" smooth="yes"/>
+      <point x="119" y="-253"/>
+      <point x="344" y="-520"/>
+      <point x="687" y="-520" type="curve" smooth="yes"/>
+      <point x="922" y="-520"/>
+      <point x="1072" y="-425"/>
+      <point x="1157" y="-281" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:11 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

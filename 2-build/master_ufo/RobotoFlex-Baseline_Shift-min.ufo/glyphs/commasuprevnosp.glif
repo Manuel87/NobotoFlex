@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commasuprevnosp" format="1">
+  <advance width="0"/>
+  <unicode hex="0314"/>
+  <outline>
+    <contour>
+      <point x="-720" y="1060" type="line"/>
+      <point x="-537" y="1060" type="line"/>
+      <point x="-537" y="875" type="line" smooth="yes"/>
+      <point x="-537" y="760"/>
+      <point x="-504" y="663"/>
+      <point x="-441" y="569" type="curve"/>
+      <point x="-546" y="497" type="line"/>
+      <point x="-657" y="592"/>
+      <point x="-720" y="750"/>
+      <point x="-720" y="878" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-556" y="571" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-556" y="1184" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-580" y="778" type="move" name="parent_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:11 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

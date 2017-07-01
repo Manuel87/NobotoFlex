@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051E" format="1">
+  <advance width="1300"/>
+  <unicode hex="051E"/>
+  <outline>
+    <contour>
+      <point x="1034" y="995" type="line"/>
+      <point x="619" y="1411" type="line"/>
+      <point x="581" y="1373" type="line"/>
+      <point x="995" y="957" type="line"/>
+    </contour>
+    <component base="K.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 10:04:52 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

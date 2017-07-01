@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1AB4" format="1">
+  <advance width="0"/>
+  <unicode hex="1AB4"/>
+  <outline>
+    <component base="dotbelow" xOffset="-251" yOffset="1563"/>
+    <component base="dotbelow" xOffset="261" yOffset="1563"/>
+    <component base="dotbelow" xOffset="4" yOffset="1863"/>
+    <contour>
+      <point x="-1192" y="2340" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

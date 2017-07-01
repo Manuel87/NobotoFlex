@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C8" format="1">
+  <advance width="1001"/>
+  <unicode hex="04C8"/>
+  <outline>
+    <contour>
+      <point x="112" y="1082" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="529" type="line"/>
+      <point x="835" y="529" type="line"/>
+      <point x="835" y="-89" type="line" smooth="yes"/>
+      <point x="835" y="-277"/>
+      <point x="752" y="-383"/>
+      <point x="604" y="-383" type="curve" smooth="yes"/>
+      <point x="567" y="-383"/>
+      <point x="525" y="-373"/>
+      <point x="505" y="-365" type="curve"/>
+      <point x="492" y="-417" type="line"/>
+      <point x="531" y="-430"/>
+      <point x="563" y="-437"/>
+      <point x="604" y="-437" type="curve" smooth="yes"/>
+      <point x="783" y="-437"/>
+      <point x="890" y="-314"/>
+      <point x="890" y="-89" type="curve" smooth="yes"/>
+      <point x="890" y="1082" type="line"/>
+      <point x="835" y="1082" type="line"/>
+      <point x="835" y="583" type="line"/>
+      <point x="166" y="583" type="line"/>
+      <point x="166" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

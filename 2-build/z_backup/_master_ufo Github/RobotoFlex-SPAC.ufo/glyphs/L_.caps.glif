@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L.caps" format="1">
+  <advance width="937"/>
+  <outline>
+    <contour>
+      <point x="942" y="54" type="line"/>
+      <point x="160" y="54" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="942" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="1456" type="line"/>
+      <point x="140" y="1456" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="997" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="565" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="997" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="997" y="1549" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="508" y="1455" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="172" y="1549" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="541" y="755" type="move" name="dot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

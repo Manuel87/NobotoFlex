@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilon1revclosed" format="1">
+  <advance width="521"/>
+  <unicode hex="025E"/>
+  <outline>
+    <contour>
+      <point x="268" y="262" type="line"/>
+      <point x="389" y="262"/>
+      <point x="458" y="323"/>
+      <point x="458" y="398" type="curve"/>
+      <point x="458" y="497"/>
+      <point x="383" y="551"/>
+      <point x="271" y="551" type="curve" smooth="yes"/>
+      <point x="154" y="551"/>
+      <point x="46" y="480"/>
+      <point x="46" y="278" type="curve"/>
+      <point x="107" y="278" type="line"/>
+      <point x="107" y="435"/>
+      <point x="181" y="501"/>
+      <point x="271" y="501" type="curve" smooth="yes"/>
+      <point x="358" y="501"/>
+      <point x="397" y="455"/>
+      <point x="397" y="398" type="curve"/>
+      <point x="397" y="340"/>
+      <point x="362" y="302"/>
+      <point x="263" y="302" type="curve" smooth="yes"/>
+      <point x="199" y="302" type="line"/>
+      <point x="199" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="290" type="line"/>
+      <point x="199" y="251" type="line"/>
+      <point x="263" y="251" type="line" smooth="yes"/>
+      <point x="360" y="251"/>
+      <point x="406" y="221"/>
+      <point x="406" y="148" type="curve" smooth="yes"/>
+      <point x="406" y="85"/>
+      <point x="357" y="41"/>
+      <point x="271" y="41" type="curve" smooth="yes"/>
+      <point x="170" y="41"/>
+      <point x="107" y="120"/>
+      <point x="107" y="278" type="curve"/>
+      <point x="46" y="278" type="line"/>
+      <point x="46" y="59"/>
+      <point x="161" y="-9"/>
+      <point x="271" y="-9" type="curve" smooth="yes"/>
+      <point x="384" y="-9"/>
+      <point x="468" y="49"/>
+      <point x="468" y="149" type="curve" smooth="yes"/>
+      <point x="468" y="239"/>
+      <point x="401" y="290"/>
+      <point x="268" y="290" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="521" y="645" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="270" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="270" y="645" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="387" y="321" type="move" name="rhotichook"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

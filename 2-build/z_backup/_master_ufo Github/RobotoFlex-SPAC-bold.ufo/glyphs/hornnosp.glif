@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hornnosp" format="1">
+  <advance width="0"/>
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="-178" y="1600" type="line"/>
+      <point x="-439" y="1600" type="line"/>
+      <point x="-439" y="1299"/>
+      <point x="-459" y="1224"/>
+      <point x="-515" y="1086" type="curve"/>
+      <point x="-361" y="1006" type="line"/>
+      <point x="-266" y="1094"/>
+      <point x="-178" y="1257"/>
+      <point x="-178" y="1398" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 09:48:00 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

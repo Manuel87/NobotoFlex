@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lsmallcap" format="1">
+  <advance width="900"/>
+  <unicode hex="029F"/>
+  <outline>
+    <contour>
+      <point x="859" y="150" type="line"/>
+      <point x="280" y="150" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="859" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="1082" type="line"/>
+      <point x="140" y="1082" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="541" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="900" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.779</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

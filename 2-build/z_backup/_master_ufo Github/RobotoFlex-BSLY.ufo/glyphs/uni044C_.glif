@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044C" format="1">
+  <advance width="1080"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="200" y="770" type="line"/>
+      <point x="200" y="716" type="line"/>
+      <point x="580" y="716" type="line"/>
+      <point x="816" y="716"/>
+      <point x="913" y="579"/>
+      <point x="913" y="437" type="curve"/>
+      <point x="913" y="289"/>
+      <point x="816" y="154"/>
+      <point x="580" y="154" type="curve"/>
+      <point x="235" y="154" type="line"/>
+      <point x="235" y="1182" type="line"/>
+      <point x="181" y="1182" type="line"/>
+      <point x="181" y="100" type="line"/>
+      <point x="580" y="100" type="line"/>
+      <point x="830" y="100"/>
+      <point x="967" y="241"/>
+      <point x="967" y="435" type="curve"/>
+      <point x="967" y="627"/>
+      <point x="830" y="770"/>
+      <point x="580" y="770" type="curve"/>
+    </contour>
+    <contour>
+      <point x="290" y="989" type="move" name="cross"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

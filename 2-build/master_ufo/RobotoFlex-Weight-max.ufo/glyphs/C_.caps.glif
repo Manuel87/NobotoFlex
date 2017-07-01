@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C.caps" format="1">
+  <advance width="1307"/>
+  <outline>
+    <contour>
+      <point x="918" y="476" type="line"/>
+      <point x="911" y="325"/>
+      <point x="830" y="256"/>
+      <point x="669" y="256" type="curve" smooth="yes"/>
+      <point x="479" y="256"/>
+      <point x="411" y="371"/>
+      <point x="411" y="665" type="curve" smooth="yes"/>
+      <point x="411" y="736" type="line" smooth="yes"/>
+      <point x="411" y="1031"/>
+      <point x="493" y="1145"/>
+      <point x="667" y="1145" type="curve" smooth="yes"/>
+      <point x="849" y="1145"/>
+      <point x="913" y="1066"/>
+      <point x="920" y="914" type="curve"/>
+      <point x="1254" y="914" type="line"/>
+      <point x="1228" y="1203"/>
+      <point x="1035" y="1420"/>
+      <point x="667" y="1420" type="curve" smooth="yes"/>
+      <point x="306" y="1420"/>
+      <point x="71" y="1158"/>
+      <point x="71" y="734" type="curve"/>
+      <point x="71" y="665" type="line"/>
+      <point x="71" y="241"/>
+      <point x="293" y="-19"/>
+      <point x="669" y="-19" type="curve" smooth="yes"/>
+      <point x="1021" y="-19"/>
+      <point x="1237" y="184"/>
+      <point x="1252" y="476" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1307" y="1540" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1307" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="673" y="1540" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1307" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="669" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:57 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

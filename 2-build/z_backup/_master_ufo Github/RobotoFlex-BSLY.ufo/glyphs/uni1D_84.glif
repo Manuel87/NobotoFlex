@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D84" format="1">
+  <advance width="969"/>
+  <unicode hex="1D84"/>
+  <outline>
+    <contour>
+      <point x="902" y="154" type="line"/>
+      <point x="902" y="11" type="line" smooth="yes"/>
+      <point x="902" y="-176"/>
+      <point x="859" y="-283"/>
+      <point x="711" y="-283" type="curve" smooth="yes"/>
+      <point x="674" y="-283"/>
+      <point x="633" y="-273"/>
+      <point x="612" y="-265" type="curve"/>
+      <point x="599" y="-317" type="line"/>
+      <point x="638" y="-330"/>
+      <point x="670" y="-337"/>
+      <point x="711" y="-337" type="curve" smooth="yes"/>
+      <point x="890" y="-337"/>
+      <point x="956" y="-214"/>
+      <point x="956" y="11" type="curve" smooth="yes"/>
+      <point x="956" y="154" type="line"/>
+    </contour>
+    <component base="k"/>
+    <contour>
+      <point x="544" y="1700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="518" y="-347" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="969" y="1700" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

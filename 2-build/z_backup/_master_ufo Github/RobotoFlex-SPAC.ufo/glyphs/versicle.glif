@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="versicle" format="1">
+  <advance width="1103"/>
+  <unicode hex="2123"/>
+  <outline>
+    <contour>
+      <point x="951" y="1570" type="line"/>
+      <point x="627" y="1730" type="line"/>
+      <point x="605" y="1680" type="line"/>
+      <point x="883" y="1544" type="line"/>
+      <point x="166" y="-351" type="line"/>
+      <point x="221" y="-351" type="line"/>
+    </contour>
+    <component base="V"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB47" format="1">
+  <advance width="392"/>
+  <unicode hex="AB47"/>
+  <outline>
+    <contour>
+      <point x="265" y="912" type="line"/>
+      <point x="260" y="1082" type="line"/>
+      <point x="80" y="1082" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="1075" type="line"/>
+      <point x="249" y="1010"/>
+      <point x="185" y="830"/>
+      <point x="185" y="624" type="curve"/>
+      <point x="237" y="654" type="line"/>
+      <point x="249" y="769"/>
+      <point x="299" y="860"/>
+      <point x="392" y="900" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

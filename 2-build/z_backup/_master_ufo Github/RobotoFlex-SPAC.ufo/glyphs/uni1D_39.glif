@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D39" format="1">
+  <advance width="1123"/>
+  <unicode hex="1D39"/>
+  <outline>
+    <contour>
+      <point x="62" y="1728" type="line"/>
+      <point x="537" y="651" type="line"/>
+      <point x="583" y="651" type="line"/>
+      <point x="1059" y="1728" type="line"/>
+      <point x="998" y="1728" type="line"/>
+      <point x="560" y="728" type="line"/>
+      <point x="123" y="1728" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="1728" type="line"/>
+      <point x="60" y="651" type="line"/>
+      <point x="114" y="651" type="line"/>
+      <point x="114" y="1171" type="line"/>
+      <point x="114" y="1728" type="line"/>
+    </contour>
+    <contour>
+      <point x="1009" y="1728" type="line"/>
+      <point x="1009" y="1171" type="line"/>
+      <point x="1009" y="651" type="line"/>
+      <point x="1063" y="651" type="line"/>
+      <point x="1063" y="1728" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

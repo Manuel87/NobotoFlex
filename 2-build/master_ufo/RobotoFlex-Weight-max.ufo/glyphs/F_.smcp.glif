@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F.smcp" format="1">
+  <advance width="954"/>
+  <outline>
+    <contour>
+      <point x="422" y="1165" type="line"/>
+      <point x="87" y="1165" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="878" y="698" type="line"/>
+      <point x="334" y="698" type="line"/>
+      <point x="334" y="429" type="line"/>
+      <point x="878" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="926" y="1165" type="line"/>
+      <point x="334" y="1165" type="line"/>
+      <point x="334" y="893" type="line"/>
+      <point x="926" y="893" type="line"/>
+    </contour>
+    <contour>
+      <point x="954" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="954" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="284" y="224" type="move" name="cross"/>
+    </contour>
+    <contour>
+      <point x="581" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="954" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="471" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

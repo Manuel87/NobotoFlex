@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.smcp" format="1">
+  <advance width="1329"/>
+  <outline>
+    <contour>
+      <point x="1189" y="1456" type="line"/>
+      <point x="1135" y="1456" type="line"/>
+      <point x="1135" y="95" type="line"/>
+      <point x="195" y="1456" type="line"/>
+      <point x="140" y="1456" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="1365" type="line"/>
+      <point x="1135" y="0" type="line"/>
+      <point x="1189" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1389" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1389" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="666" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1389" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1189" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="666" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

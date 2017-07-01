@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o.cn" format="1">
+  <advance width="573"/>
+  <outline>
+    <contour>
+      <point x="53" y="242" type="line"/>
+      <point x="53" y="79"/>
+      <point x="147" y="-10"/>
+      <point x="287" y="-10" type="curve" smooth="yes"/>
+      <point x="427" y="-10"/>
+      <point x="520" y="79"/>
+      <point x="520" y="242" type="curve"/>
+      <point x="520" y="299" type="line"/>
+      <point x="520" y="462"/>
+      <point x="427" y="551"/>
+      <point x="286" y="551" type="curve" smooth="yes"/>
+      <point x="147" y="551"/>
+      <point x="53" y="462"/>
+      <point x="53" y="299" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114" y="299" type="line"/>
+      <point x="114" y="421"/>
+      <point x="176" y="501"/>
+      <point x="286" y="501" type="curve" smooth="yes"/>
+      <point x="397" y="501"/>
+      <point x="459" y="421"/>
+      <point x="459" y="299" type="curve"/>
+      <point x="459" y="242" type="line"/>
+      <point x="459" y="119"/>
+      <point x="403" y="40"/>
+      <point x="287" y="40" type="curve" smooth="yes"/>
+      <point x="176" y="40"/>
+      <point x="114" y="119"/>
+      <point x="114" y="242" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

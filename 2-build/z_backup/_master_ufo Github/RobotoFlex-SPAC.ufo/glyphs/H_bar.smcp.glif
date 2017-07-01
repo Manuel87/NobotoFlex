@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar.smcp" format="1">
+  <advance width="1117"/>
+  <outline>
+    <contour>
+      <point x="973" y="604" type="line"/>
+      <point x="141" y="604" type="line"/>
+      <point x="141" y="550" type="line"/>
+      <point x="973" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="1165" type="line"/>
+      <point x="110" y="1165" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1007" y="1165" type="line"/>
+      <point x="953" y="1165" type="line"/>
+      <point x="953" y="0" type="line"/>
+      <point x="1007" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1099" y="925" type="line"/>
+      <point x="18" y="925" type="line"/>
+      <point x="18" y="871" type="line"/>
+      <point x="1099" y="871" type="line"/>
+    </contour>
+    <contour>
+      <point x="1178" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="555" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1178" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1178" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="555" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-23" y="1166" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="1007" y="0" type="move" name="right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA758.cn" format="1">
+  <advance width="1603"/>
+  <outline>
+    <contour>
+      <point x="894" y="163" type="line"/>
+      <point x="853" y="125" type="line"/>
+      <point x="1152" y="-163" type="line"/>
+      <point x="1191" y="-128" type="line"/>
+    </contour>
+    <contour>
+      <point x="1381" y="917" type="line"/>
+      <point x="1504" y="751"/>
+      <point x="1591" y="609"/>
+      <point x="1370" y="388" type="curve"/>
+      <point x="822" y="-167" type="line"/>
+      <point x="862" y="-206" type="line"/>
+      <point x="1396" y="335" type="line" smooth="yes"/>
+      <point x="1597" y="539"/>
+      <point x="1627" y="688"/>
+      <point x="1425" y="952" type="curve"/>
+    </contour>
+    <component base="O.cn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

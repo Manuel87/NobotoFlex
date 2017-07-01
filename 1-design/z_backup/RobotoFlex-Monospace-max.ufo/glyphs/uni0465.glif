@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0465" format="1">
+  <advance width="1518"/>
+  <unicode hex="0465"/>
+  <outline>
+    <contour>
+      <point x="1100" y="588" type="line"/>
+      <point x="200" y="588" type="line"/>
+      <point x="200" y="534" type="line"/>
+      <point x="1100" y="534" type="line"/>
+    </contour>
+    <component base="c" xOffset="442"/>
+    <component base="idotless" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

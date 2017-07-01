@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="1037"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="1049" y="269" type="line"/>
+      <point x="138" y="269" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="1049" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1033" y="1456" type="line"/>
+      <point x="187" y="1456" type="line"/>
+      <point x="187" y="1185" type="line"/>
+      <point x="1033" y="1185" type="line"/>
+    </contour>
+    <contour>
+      <point x="793" y="745" type="line"/>
+      <point x="287" y="1456" type="line"/>
+      <point x="13" y="1456" type="line"/>
+      <point x="13" y="1306" type="line"/>
+      <point x="439" y="739" type="line"/>
+      <point x="13" y="151" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="793" y="732" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

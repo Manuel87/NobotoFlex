@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R.caps" format="1">
+  <advance width="1406"/>
+  <outline>
+    <contour>
+      <point x="205" y="1556" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="1502" type="line"/>
+      <point x="691" y="1502" type="line" smooth="yes"/>
+      <point x="962" y="1502"/>
+      <point x="1138" y="1358"/>
+      <point x="1138" y="1111" type="curve" smooth="yes"/>
+      <point x="1138" y="916"/>
+      <point x="1005" y="724"/>
+      <point x="743" y="724" type="curve" smooth="yes"/>
+      <point x="214" y="724" type="line"/>
+      <point x="216" y="670" type="line"/>
+      <point x="802" y="670" type="line"/>
+      <point x="834" y="682" type="line"/>
+      <point x="1031" y="711"/>
+      <point x="1191" y="884"/>
+      <point x="1191" y="1111" type="curve" smooth="yes"/>
+      <point x="1191" y="1400"/>
+      <point x="981" y="1556"/>
+      <point x="691" y="1556" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1198" y="0" type="line"/>
+      <point x="1255" y="0" type="line"/>
+      <point x="1255" y="15" type="line"/>
+      <point x="843" y="690" type="line"/>
+      <point x="779" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="1406" y="1712" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1406" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="635" y="1712" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1406" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="635" y="11" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-29 17:19:27 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

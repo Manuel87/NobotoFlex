@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0482" format="1">
+  <advance width="1221"/>
+  <unicode hex="0482"/>
+  <outline>
+    <contour>
+      <point x="791" y="939" type="line"/>
+      <point x="1079" y="769" type="line"/>
+      <point x="1122" y="836" type="line"/>
+      <point x="829" y="1007" type="line"/>
+      <point x="1080" y="1442" type="line"/>
+      <point x="981" y="1442" type="line"/>
+      <point x="763" y="1056" type="line"/>
+      <point x="472" y="1227" type="line"/>
+      <point x="432" y="1157" type="line"/>
+      <point x="722" y="986" type="line"/>
+      <point x="487" y="566" type="line"/>
+      <point x="194" y="737" type="line"/>
+      <point x="156" y="669" type="line"/>
+      <point x="445" y="498" type="line"/>
+      <point x="220" y="100" type="line"/>
+      <point x="322" y="100" type="line"/>
+      <point x="513" y="449" type="line"/>
+      <point x="804" y="279" type="line"/>
+      <point x="843" y="347" type="line"/>
+      <point x="554" y="519" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

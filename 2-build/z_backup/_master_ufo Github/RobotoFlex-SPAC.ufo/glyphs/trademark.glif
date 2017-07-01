@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1127"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="968" y="919" type="line"/>
+      <point x="1023" y="919" type="line"/>
+      <point x="1023" y="1456" type="line"/>
+      <point x="954" y="1456" type="line"/>
+      <point x="778" y="997" type="line"/>
+      <point x="602" y="1456" type="line"/>
+      <point x="533" y="1456" type="line"/>
+      <point x="533" y="919" type="line"/>
+      <point x="588" y="919" type="line"/>
+      <point x="588" y="1370" type="line"/>
+      <point x="752" y="919" type="line"/>
+      <point x="804" y="919" type="line"/>
+      <point x="968" y="1356" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="1456" type="line"/>
+      <point x="51" y="1456" type="line"/>
+      <point x="51" y="1399" type="line"/>
+      <point x="221" y="1399" type="line"/>
+      <point x="221" y="919" type="line"/>
+      <point x="277" y="919" type="line"/>
+      <point x="277" y="1399" type="line"/>
+      <point x="447" y="1399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

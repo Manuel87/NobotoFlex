@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="1">
+  <advance width="858"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="456" y="69" type="line"/>
+      <point x="402" y="69" type="line"/>
+      <point x="402" y="-415" type="line"/>
+      <point x="456" y="-415" type="line"/>
+    </contour>
+    <contour>
+      <point x="484" y="229" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="875" y="1082" type="line"/>
+      <point x="817" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="1082" type="line"/>
+      <point x="-17" y="1082" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="375" y="229" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="31" type="move" name="cross"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

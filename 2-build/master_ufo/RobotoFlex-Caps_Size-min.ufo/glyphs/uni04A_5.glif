@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A5" format="1">
+  <advance width="1460"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="1386" y="1082" type="line"/>
+      <point x="920" y="1082" type="line"/>
+      <point x="920" y="929" type="line"/>
+      <point x="1386" y="929" type="line"/>
+    </contour>
+    <component base="uni043D" xOffset="-11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

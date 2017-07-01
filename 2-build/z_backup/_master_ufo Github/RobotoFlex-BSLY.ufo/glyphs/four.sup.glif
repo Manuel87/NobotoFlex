@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.sup" format="1">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="689" y="353" type="line"/>
+      <point x="135" y="353" type="line"/>
+      <point x="445" y="756" type="line"/>
+      <point x="527" y="889" type="line"/>
+      <point x="482" y="889" type="line"/>
+      <point x="65" y="336" type="line"/>
+      <point x="66" y="304" type="line"/>
+      <point x="689" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="542" y="889" type="line"/>
+      <point x="489" y="889" type="line"/>
+      <point x="489" y="100" type="line"/>
+      <point x="542" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

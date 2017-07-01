@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L.smcp" format="1">
+  <advance width="958"/>
+  <outline>
+    <contour>
+      <point x="914" y="658" type="line"/>
+      <point x="297" y="658" type="line"/>
+      <point x="297" y="500" type="line"/>
+      <point x="914" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="1665" type="line"/>
+      <point x="139" y="1665" type="line"/>
+      <point x="139" y="500" type="line"/>
+      <point x="331" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="958" y="2100" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="532" y="508" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="958" y="93" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="958" y="1867" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="526" y="1664" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="232" y="1867" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="515" y="1143" type="move" name="dot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

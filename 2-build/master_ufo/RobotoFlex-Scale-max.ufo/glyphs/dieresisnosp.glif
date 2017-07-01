@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisnosp" format="1">
+  <advance width="0"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="-2052" y="2732" type="curve" smooth="yes"/>
+      <point x="-2052" y="2590"/>
+      <point x="-1940" y="2480"/>
+      <point x="-1780" y="2480" type="curve" smooth="yes"/>
+      <point x="-1622" y="2480"/>
+      <point x="-1510" y="2590"/>
+      <point x="-1510" y="2732" type="curve" smooth="yes"/>
+      <point x="-1510" y="2872"/>
+      <point x="-1622" y="2984"/>
+      <point x="-1780" y="2984" type="curve" smooth="yes"/>
+      <point x="-1940" y="2984"/>
+      <point x="-2052" y="2872"/>
+    </contour>
+    <contour>
+      <point x="-1092" y="2730" type="curve" smooth="yes"/>
+      <point x="-1092" y="2588"/>
+      <point x="-980" y="2480"/>
+      <point x="-822" y="2480" type="curve" smooth="yes"/>
+      <point x="-662" y="2480"/>
+      <point x="-550" y="2588"/>
+      <point x="-550" y="2730" type="curve" smooth="yes"/>
+      <point x="-550" y="2872"/>
+      <point x="-662" y="2982"/>
+      <point x="-822" y="2982" type="curve" smooth="yes"/>
+      <point x="-980" y="2982"/>
+      <point x="-1092" y="2872"/>
+    </contour>
+    <contour>
+      <point x="-1300" y="2580" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-1300" y="3200" type="move" name="mkmktop"/>
+    </contour>
+    <contour>
+      <point x="-1300" y="2732" type="move" name="parent_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ghook.cn" format="1">
+  <advance width="1345"/>
+  <outline>
+    <contour>
+      <point x="1235" y="981" type="line"/>
+      <point x="1235" y="1180" type="line" smooth="yes"/>
+      <point x="1235" y="1309"/>
+      <point x="1347" y="1325"/>
+      <point x="1436" y="1325" type="curve" smooth="yes"/>
+      <point x="1469" y="1325"/>
+      <point x="1497" y="1321"/>
+      <point x="1530" y="1316" type="curve"/>
+      <point x="1530" y="1585" type="line"/>
+      <point x="1475" y="1598"/>
+      <point x="1430" y="1602"/>
+      <point x="1375" y="1602" type="curve" smooth="yes"/>
+      <point x="1126" y="1602"/>
+      <point x="965" y="1453"/>
+      <point x="965" y="1180" type="curve" smooth="yes"/>
+      <point x="965" y="981" type="line"/>
+    </contour>
+    <component base="G.cn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

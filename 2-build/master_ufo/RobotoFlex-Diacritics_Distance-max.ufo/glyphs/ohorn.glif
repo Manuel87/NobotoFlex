@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="1">
+  <advance width="1170"/>
+  <unicode hex="01A1"/>
+  <outline>
+    <contour>
+      <point x="1061" y="1201" type="line"/>
+      <point x="1061" y="1058"/>
+      <point x="1039" y="962"/>
+      <point x="889" y="962" type="curve"/>
+      <point x="889" y="845" type="line"/>
+      <point x="1129" y="845"/>
+      <point x="1210" y="981"/>
+      <point x="1210" y="1201" type="curve"/>
+    </contour>
+    <component base="o"/>
+    <contour>
+      <point x="582" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="582" y="-10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1170" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

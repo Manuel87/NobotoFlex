@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="472"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="179" y="806" type="curve" smooth="yes"/>
+      <point x="179" y="775"/>
+      <point x="203" y="751"/>
+      <point x="234" y="751" type="curve" smooth="yes"/>
+      <point x="265" y="751"/>
+      <point x="290" y="775"/>
+      <point x="290" y="806" type="curve" smooth="yes"/>
+      <point x="290" y="837"/>
+      <point x="265" y="862"/>
+      <point x="234" y="862" type="curve" smooth="yes"/>
+      <point x="203" y="862"/>
+      <point x="179" y="837"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

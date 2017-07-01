@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0485" format="1">
+  <advance width="0"/>
+  <unicode hex="0485"/>
+  <outline>
+    <contour>
+      <point x="-505" y="1299" type="line"/>
+      <point x="-423" y="1367" type="line"/>
+      <point x="-482" y="1482" type="line"/>
+      <point x="-481" y="1622" type="line"/>
+      <point x="-670" y="1622" type="line"/>
+      <point x="-670" y="1500" type="line"/>
+    </contour>
+    <contour>
+      <point x="-547" y="1280" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

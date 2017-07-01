@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE.smcp" format="1">
+  <advance width="1433"/>
+  <outline>
+    <contour>
+      <point x="1425" y="54" type="line"/>
+      <point x="716" y="54" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="1425" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1338" y="630" type="line"/>
+      <point x="716" y="630" type="line"/>
+      <point x="716" y="576" type="line"/>
+      <point x="1338" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="1425" y="1165" type="line"/>
+      <point x="716" y="1165" type="line"/>
+      <point x="716" y="1111" type="line"/>
+      <point x="1425" y="1111" type="line"/>
+    </contour>
+    <contour>
+      <point x="708" y="1125" type="line"/>
+      <point x="720" y="1165" type="line"/>
+      <point x="673" y="1165" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="26" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="400" type="line"/>
+      <point x="205" y="400" type="line"/>
+      <point x="205" y="346" type="line"/>
+      <point x="724" y="346" type="line"/>
+    </contour>
+    <contour>
+      <point x="746" y="1165" type="line"/>
+      <point x="692" y="1165" type="line"/>
+      <point x="692" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="806" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="806" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1493" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

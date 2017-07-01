@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat_uni1ABE" format="1">
+  <advance width="1290"/>
+  <outline>
+    <contour>
+      <point x="668" y="248" type="line"/>
+      <point x="701" y="0" type="line"/>
+      <point x="991" y="0" type="line"/>
+      <point x="991" y="1536" type="line"/>
+      <point x="668" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="-3" y="528" type="line"/>
+      <point x="-3" y="213"/>
+      <point x="145" y="-20"/>
+      <point x="417" y="-20" type="curve" smooth="yes"/>
+      <point x="668" y="-20"/>
+      <point x="788" y="227"/>
+      <point x="829" y="520" type="curve"/>
+      <point x="829" y="545" type="line"/>
+      <point x="788" y="858"/>
+      <point x="668" y="1102"/>
+      <point x="419" y="1102" type="curve" smooth="yes"/>
+      <point x="145" y="1102"/>
+      <point x="-3" y="878"/>
+      <point x="-3" y="549" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="319" y="549" type="line"/>
+      <point x="319" y="717"/>
+      <point x="367" y="842"/>
+      <point x="501" y="842" type="curve" smooth="yes"/>
+      <point x="635" y="842"/>
+      <point x="699" y="748"/>
+      <point x="699" y="572" type="curve" smooth="yes"/>
+      <point x="699" y="493" type="line" smooth="yes"/>
+      <point x="699" y="339"/>
+      <point x="634" y="240"/>
+      <point x="499" y="240" type="curve" smooth="yes"/>
+      <point x="363" y="240"/>
+      <point x="319" y="366"/>
+      <point x="319" y="528" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1137" y="1406" type="line"/>
+      <point x="416" y="1406" type="line"/>
+      <point x="416" y="1215" type="line"/>
+      <point x="1137" y="1215" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="1119" type="curve"/>
+      <point x="401" y="1198" type="line"/>
+      <point x="359" y="1216"/>
+      <point x="313" y="1245"/>
+      <point x="313" y="1312" type="curve" smooth="yes"/>
+      <point x="313" y="1375"/>
+      <point x="355" y="1403"/>
+      <point x="401" y="1423" type="curve"/>
+      <point x="380" y="1501" type="line"/>
+      <point x="297" y="1483"/>
+      <point x="206" y="1414"/>
+      <point x="206" y="1311" type="curve" smooth="yes"/>
+      <point x="206" y="1205"/>
+      <point x="297" y="1138"/>
+    </contour>
+    <contour>
+      <point x="1150" y="1198" type="curve"/>
+      <point x="1171" y="1119" type="line"/>
+      <point x="1254" y="1138"/>
+      <point x="1345" y="1205"/>
+      <point x="1345" y="1311" type="curve" smooth="yes"/>
+      <point x="1345" y="1416"/>
+      <point x="1254" y="1483"/>
+      <point x="1171" y="1501" type="curve"/>
+      <point x="1150" y="1423" type="line"/>
+      <point x="1196" y="1403"/>
+      <point x="1238" y="1376"/>
+      <point x="1238" y="1312" type="curve" smooth="yes"/>
+      <point x="1238" y="1245"/>
+      <point x="1192" y="1216"/>
+    </contour>
+    <contour>
+      <point x="519" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="770" y="1306" type="move" name="cross"/>
+    </contour>
+    <contour>
+      <point x="1093" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="519" y="0" type="move" name="markbottom"/>
+    </contour>
+    <contour>
+      <point x="1093" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1252" y="1600" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1110" y="1536" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="419" y="1600" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

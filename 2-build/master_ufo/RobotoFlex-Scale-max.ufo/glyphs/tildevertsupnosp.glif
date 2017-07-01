@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildevertsupnosp" format="1">
+  <advance width="0"/>
+  <unicode hex="033E"/>
+  <outline>
+    <contour>
+      <point x="-1406" y="2234" type="line"/>
+      <point x="-1106" y="2234"/>
+      <point x="-918" y="2322"/>
+      <point x="-918" y="2522" type="curve" smooth="yes"/>
+      <point x="-918" y="2712"/>
+      <point x="-1054" y="2868"/>
+      <point x="-1054" y="3000" type="curve" smooth="yes"/>
+      <point x="-1054" y="3056"/>
+      <point x="-1010" y="3100"/>
+      <point x="-924" y="3100" type="curve"/>
+      <point x="-924" y="3382" type="line"/>
+      <point x="-1190" y="3382"/>
+      <point x="-1398" y="3310"/>
+      <point x="-1398" y="3096" type="curve" smooth="yes"/>
+      <point x="-1398" y="2916"/>
+      <point x="-1260" y="2730"/>
+      <point x="-1260" y="2626" type="curve" smooth="yes"/>
+      <point x="-1260" y="2576"/>
+      <point x="-1284" y="2518"/>
+      <point x="-1406" y="2518" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-1168" y="2192" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-1168" y="3528" type="move" name="mkmktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kturn" format="1">
+  <advance width="503"/>
+  <unicode hex="029E"/>
+  <outline>
+    <contour>
+      <point x="364" y="-208" type="line"/>
+      <point x="425" y="-208" type="line"/>
+      <point x="425" y="541" type="line"/>
+      <point x="364" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="307" y="204" type="line"/>
+      <point x="394" y="297" type="line"/>
+      <point x="385" y="354" type="line"/>
+      <point x="277" y="251" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="541" type="line"/>
+      <point x="5" y="541" type="line"/>
+      <point x="269" y="209" type="line"/>
+      <point x="302" y="259" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="645" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="245" y="-223" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="503" y="645" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

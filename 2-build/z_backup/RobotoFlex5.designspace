@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="54" maximum="322" minimum="54" name="weight" tag="wght">
+            <labelname xml:lang="en">Weight</labelname>
+        </axis>
+        <axis default="456" maximum="456" minimum="165" name="height" tag="hgth">
+            <labelname xml:lang="en">Height</labelname>
+        </axis>
+        <axis default="456" maximum="456" minimum="0" name="capsheight" tag="YCPS">
+            <labelname xml:lang="en">- Caps</labelname>
+        </axis>
+        <axis default="456" maximum="1000" minimum="456" name="ascenderheight" tag="YASC">
+            <labelname xml:lang="en">- Ascender</labelname>
+        </axis>
+        <axis default="0" maximum="100" minimum="0" name="diactritics" tag="DCTS">
+            <labelname xml:lang="en">- Diactritics</labelname>
+        </axis>
+    </axes>
+	<sources>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Default.ufo" name="RobotoFlex-Default.ufo" stylename="Default">
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="54" />
+                <dimension name="height" xvalue="456" />
+                <dimension name="capsheight" xvalue="456" />
+                <dimension name="ascenderheight" xvalue="456" />
+                <dimension name="diactritics" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Weight-max.ufo" name="RobotoFlex-Weight-max.ufo" stylename="weight-max">
+            <location>
+                <dimension name="weight" xvalue="322" />
+                <dimension name="height" xvalue="456" />
+                <dimension name="capsheight" xvalue="456" />
+                <dimension name="ascenderheight" xvalue="456" />
+                <dimension name="diactritics" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Height-min.ufo" name="RobotoFlex-Height-min.ufo" stylename="hght">
+            <location>
+                <dimension name="weight" xvalue="54" />
+                <dimension name="height" xvalue="165" />
+                <dimension name="capsheight" xvalue="456" />
+                <dimension name="ascenderheight" xvalue="456" />
+                <dimension name="diactritics" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Caps_Height-min.ufo" name="RobotoFlex-Caps_Height-min.ufo" stylename="YCPS">
+            <location>
+                <dimension name="weight" xvalue="54" />
+                <dimension name="height" xvalue="456" />
+                <dimension name="capsheight" xvalue="0" />
+                <dimension name="ascenderheight" xvalue="456" />
+                <dimension name="diactritics" xvalue="0" />
+
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Ascenders_Height-max.ufo" name="RobotoFlex-Ascenders_Height-max.ufo" stylename="YASC">
+            <location>
+                <dimension name="weight" xvalue="54" />
+                <dimension name="height" xvalue="456" />
+                <dimension name="capsheight" xvalue="456" />
+                <dimension name="ascenderheight" xvalue="1000" />
+                <dimension name="diactritics" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Diacritics_Distance-max.ufo" name="RobotoFlex-Diacritics_Distance-max.ufo" stylename="DCTS">
+            <location>
+                <dimension name="weight" xvalue="54" />
+                <dimension name="height" xvalue="456" />
+                <dimension name="capsheight" xvalue="456" />
+                <dimension name="ascenderheight" xvalue="456" />
+                <dimension name="diactritics" xvalue="100" />
+            </location>
+        </source>
+	</sources>
+	<instances>
+    <instance familyname="RobotoFlex" stylename="Regular">
+      <info />
+      <kerning />
+      <location>
+        <dimension name="weight" xvalue="185" />
+        <dimension name="height" xvalue="456" />
+        <dimension name="capsheight" xvalue="456" />
+        <dimension name="ascenderheight" xvalue="600" />
+        <dimension name="diactritics" xvalue="0" />
+      </location>
+    </instance>
+    <instance familyname="RobotoFlex" stylename="Test">
+      <info />
+      <kerning />
+      <location>
+        <dimension name="weight" xvalue="200" />
+        <dimension name="height" xvalue="456" />
+        <dimension name="capsheight" xvalue="456" />
+        <dimension name="ascenderheight" xvalue="600" />
+        <dimension name="diactritics" xvalue="50" />
+
+      </location>
+    </instance>
+    <instance familyname="RobotoFlex" stylename="MonoFullProblem">
+      <info />
+      <kerning />
+      <location>
+        <dimension name="weight" xvalue="185" />
+        <dimension name="height" xvalue="456" />
+        <dimension name="capsheight" xvalue="456" />
+        <dimension name="ascenderheight" xvalue="600" />
+        <dimension name="diactritics" xvalue="0" />
+      </location>
+    </instance>
+  </instances>
+</designspace>

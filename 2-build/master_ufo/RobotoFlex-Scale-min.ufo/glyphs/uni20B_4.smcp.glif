@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B4.smcp" format="1">
+  <advance width="544"/>
+  <outline>
+    <contour>
+      <point x="325" y="363" type="line"/>
+      <point x="376" y="390"/>
+      <point x="392" y="422"/>
+      <point x="392" y="459" type="curve" smooth="yes"/>
+      <point x="392" y="503"/>
+      <point x="356" y="541"/>
+      <point x="276" y="541" type="curve" smooth="yes"/>
+      <point x="191" y="541"/>
+      <point x="151" y="503"/>
+      <point x="151" y="440" type="curve"/>
+      <point x="90" y="440" type="line"/>
+      <point x="90" y="538"/>
+      <point x="161" y="591"/>
+      <point x="276" y="591" type="curve" smooth="yes"/>
+      <point x="387" y="591"/>
+      <point x="453" y="539"/>
+      <point x="453" y="458" type="curve" smooth="yes"/>
+      <point x="453" y="417"/>
+      <point x="424" y="375"/>
+      <point x="378" y="345" type="curve"/>
+    </contour>
+    <contour>
+      <point x="211" y="232" type="line"/>
+      <point x="156" y="211"/>
+      <point x="136" y="176"/>
+      <point x="136" y="132" type="curve" smooth="yes"/>
+      <point x="136" y="79"/>
+      <point x="184" y="42"/>
+      <point x="273" y="42" type="curve" smooth="yes"/>
+      <point x="337" y="42"/>
+      <point x="408" y="65"/>
+      <point x="408" y="143" type="curve"/>
+      <point x="469" y="143" type="line"/>
+      <point x="469" y="30"/>
+      <point x="370" y="-8"/>
+      <point x="273" y="-8" type="curve" smooth="yes"/>
+      <point x="150" y="-8"/>
+      <point x="75" y="41"/>
+      <point x="75" y="132" type="curve" smooth="yes"/>
+      <point x="75" y="180"/>
+      <point x="107" y="225"/>
+      <point x="150" y="243" type="curve"/>
+    </contour>
+    <contour>
+      <point x="506" y="220" type="line"/>
+      <point x="38" y="220" type="line"/>
+      <point x="38" y="266" type="line"/>
+      <point x="506" y="266" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="331" type="line"/>
+      <point x="38" y="331" type="line"/>
+      <point x="38" y="376" type="line"/>
+      <point x="506" y="376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

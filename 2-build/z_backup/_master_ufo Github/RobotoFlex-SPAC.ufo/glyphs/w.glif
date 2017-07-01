@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1498"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="475" y="313" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="690" y="813" type="line"/>
+      <point x="766" y="1082" type="line"/>
+      <point x="718" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="1082" type="line"/>
+      <point x="59" y="1082" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="342" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="1149" y="313" type="line"/>
+      <point x="1068" y="0" type="line"/>
+      <point x="1117" y="0" type="line"/>
+      <point x="1432" y="1082" type="line"/>
+      <point x="1369" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="773" y="1082" type="line"/>
+      <point x="725" y="1082" type="line"/>
+      <point x="796" y="813" type="line"/>
+      <point x="1063" y="0" type="line"/>
+      <point x="1114" y="0" type="line"/>
+      <point x="1015" y="313" type="line"/>
+    </contour>
+    <contour>
+      <point x="743" y="1293" type="move" name="marktop"/>
+    </contour>
+    <contour>
+      <point x="1526" y="1293" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="743" y="1293" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1526" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1526" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="745" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

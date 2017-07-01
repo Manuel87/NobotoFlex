@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1171"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="669" y="1156" type="line"/>
+      <point x="627" y="1165" type="line"/>
+      <point x="503" y="1165" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="951" y="0" type="line"/>
+      <point x="1149" y="0" type="line"/>
+      <point x="669" y="1165" type="line"/>
+      <point x="546" y="1165" type="line"/>
+      <point x="504" y="1156" type="line"/>
+    </contour>
+    <contour>
+      <point x="953" y="446" type="line"/>
+      <point x="239" y="446" type="line"/>
+      <point x="239" y="287" type="line"/>
+      <point x="953" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="1110" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="599" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1171" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1171" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1171" y="1309" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="590" y="1309" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="329" y="1163" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="1146" y="0" type="move" name="right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>7</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:02 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

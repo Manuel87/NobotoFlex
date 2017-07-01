@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="1040"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="761" y="1082" type="line"/>
+      <point x="761" y="250" type="line"/>
+      <point x="779" y="0" type="line"/>
+      <point x="946" y="0" type="line"/>
+      <point x="946" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="794" y="503" type="line"/>
+      <point x="794" y="286"/>
+      <point x="737" y="131"/>
+      <point x="500" y="131" type="curve" smooth="yes"/>
+      <point x="378" y="131"/>
+      <point x="279" y="185"/>
+      <point x="279" y="460" type="curve"/>
+      <point x="163" y="460" type="line"/>
+      <point x="200" y="170" type="line"/>
+      <point x="255" y="35"/>
+      <point x="355" y="-21"/>
+      <point x="508" y="-21" type="curve" smooth="yes"/>
+      <point x="758" y="-21"/>
+      <point x="863" y="202"/>
+      <point x="863" y="505" type="curve"/>
+    </contour>
+    <contour>
+      <point x="95" y="1082" type="line"/>
+      <point x="95" y="-416" type="line"/>
+      <point x="279" y="-416" type="line"/>
+      <point x="279" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>202</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>547</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

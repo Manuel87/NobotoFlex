@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dtopbar" format="1">
+  <advance width="1155"/>
+  <unicode hex="018C"/>
+  <outline>
+    <contour>
+      <point x="882" y="1536" type="line"/>
+      <point x="309" y="1536" type="line"/>
+      <point x="309" y="1384" type="line"/>
+      <point x="882" y="1384" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:16 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

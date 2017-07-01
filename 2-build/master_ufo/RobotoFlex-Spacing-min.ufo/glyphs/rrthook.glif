@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rrthook" format="1">
+  <advance width="574"/>
+  <unicode hex="027D"/>
+  <outline>
+    <contour>
+      <point x="81" y="323" type="line"/>
+      <point x="81" y="-135" type="line" smooth="yes"/>
+      <point x="81" y="-330"/>
+      <point x="215" y="-437"/>
+      <point x="380" y="-437" type="curve" smooth="yes"/>
+      <point x="413" y="-437"/>
+      <point x="453" y="-432"/>
+      <point x="481" y="-424" type="curve"/>
+      <point x="479" y="-297" type="line"/>
+      <point x="464" y="-301"/>
+      <point x="437" y="-303"/>
+      <point x="420" y="-303" type="curve" smooth="yes"/>
+      <point x="322" y="-303"/>
+      <point x="266" y="-257"/>
+      <point x="266" y="-135" type="curve" smooth="yes"/>
+      <point x="266" y="323" type="line"/>
+    </contour>
+    <component base="r"/>
+    <contour>
+      <point x="634" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="408" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="281" y="-309" type="move" name="parenthesses.w1"/>
+    </contour>
+    <contour>
+      <point x="408" y="-447" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

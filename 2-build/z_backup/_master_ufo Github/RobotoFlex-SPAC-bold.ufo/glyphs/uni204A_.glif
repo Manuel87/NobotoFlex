@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni204A" format="1">
+  <advance width="912"/>
+  <unicode hex="204A"/>
+  <outline>
+    <contour>
+      <point x="36" y="822" type="line"/>
+      <point x="539" y="822" type="line"/>
+      <point x="539" y="-417" type="line"/>
+      <point x="861" y="-417" type="line"/>
+      <point x="861" y="1082" type="line"/>
+      <point x="36" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotdblsubnosp_uni1ABD" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-952" y="-468" type="curve"/>
+      <point x="-948" y="-435" type="line"/>
+      <point x="-1026" y="-409"/>
+      <point x="-1087" y="-340"/>
+      <point x="-1087" y="-253" type="curve" smooth="yes"/>
+      <point x="-1087" y="-170"/>
+      <point x="-1032" y="-101"/>
+      <point x="-948" y="-74" type="curve"/>
+      <point x="-952" y="-42" type="line"/>
+      <point x="-1053" y="-74"/>
+      <point x="-1127" y="-159"/>
+      <point x="-1127" y="-253" type="curve" smooth="yes"/>
+      <point x="-1127" y="-356"/>
+      <point x="-1053" y="-436"/>
+    </contour>
+    <contour>
+      <point x="-278" y="-468" type="line"/>
+      <point x="-177" y="-436"/>
+      <point x="-103" y="-356"/>
+      <point x="-103" y="-253" type="curve" smooth="yes"/>
+      <point x="-103" y="-159"/>
+      <point x="-177" y="-74"/>
+      <point x="-278" y="-42" type="curve"/>
+      <point x="-282" y="-74" type="line"/>
+      <point x="-198" y="-101"/>
+      <point x="-143" y="-170"/>
+      <point x="-143" y="-253" type="curve" smooth="yes"/>
+      <point x="-143" y="-340"/>
+      <point x="-204" y="-409"/>
+      <point x="-282" y="-435" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-900" y="-218" type="curve" smooth="yes"/>
+      <point x="-900" y="-249"/>
+      <point x="-876" y="-273"/>
+      <point x="-845" y="-273" type="curve" smooth="yes"/>
+      <point x="-814" y="-273"/>
+      <point x="-789" y="-249"/>
+      <point x="-789" y="-218" type="curve" smooth="yes"/>
+      <point x="-789" y="-187"/>
+      <point x="-814" y="-162"/>
+      <point x="-845" y="-162" type="curve" smooth="yes"/>
+      <point x="-876" y="-162"/>
+      <point x="-900" y="-187"/>
+    </contour>
+    <contour>
+      <point x="-455" y="-218" type="curve" smooth="yes"/>
+      <point x="-455" y="-249"/>
+      <point x="-431" y="-273"/>
+      <point x="-400" y="-273" type="curve" smooth="yes"/>
+      <point x="-369" y="-273"/>
+      <point x="-344" y="-249"/>
+      <point x="-344" y="-218" type="curve" smooth="yes"/>
+      <point x="-344" y="-187"/>
+      <point x="-369" y="-162"/>
+      <point x="-400" y="-162" type="curve" smooth="yes"/>
+      <point x="-431" y="-162"/>
+      <point x="-455" y="-187"/>
+    </contour>
+    <contour>
+      <point x="-622" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-622" y="0" type="move" name="_markbottom"/>
+    </contour>
+    <contour>
+      <point x="-622" y="-273" type="move" name="mkmkbottom_acc"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

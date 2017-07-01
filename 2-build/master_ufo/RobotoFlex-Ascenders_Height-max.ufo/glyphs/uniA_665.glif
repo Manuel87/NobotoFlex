@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA665" format="1">
+  <advance width="1503"/>
+  <unicode hex="A665"/>
+  <outline>
+    <contour>
+      <point x="1494" y="1082" type="line"/>
+      <point x="685" y="1082" type="line"/>
+      <point x="685" y="929" type="line"/>
+      <point x="1494" y="929" type="line"/>
+    </contour>
+    <component base="uni043B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:19 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

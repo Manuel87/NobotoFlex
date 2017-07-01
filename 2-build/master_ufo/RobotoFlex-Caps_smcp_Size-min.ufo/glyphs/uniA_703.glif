@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA703" format="1">
+  <advance width="588"/>
+  <unicode hex="A703"/>
+  <outline>
+    <contour>
+      <point x="510" y="862" type="line"/>
+      <point x="115" y="862" type="line"/>
+      <point x="115" y="760" type="line"/>
+      <point x="510" y="760" type="line"/>
+    </contour>
+    <component base="uniA700" xOffset="1" yOffset="1337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:08 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

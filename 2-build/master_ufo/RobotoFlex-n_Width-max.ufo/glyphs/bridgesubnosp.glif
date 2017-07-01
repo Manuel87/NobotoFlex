@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bridgesubnosp" format="1">
+  <advance width="0"/>
+  <unicode hex="032A"/>
+  <outline>
+    <contour>
+      <point x="-375" y="-228" type="line"/>
+      <point x="-801" y="-228" type="line"/>
+      <point x="-801" y="-110" type="line"/>
+      <point x="-375" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="-782" y="-464" type="line"/>
+      <point x="-923" y="-464" type="line"/>
+      <point x="-923" y="-110" type="line"/>
+      <point x="-782" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="-249" y="-464" type="line"/>
+      <point x="-390" y="-464" type="line"/>
+      <point x="-390" y="-110" type="line"/>
+      <point x="-249" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="-584" y="-464" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-584" y="0" type="move" name="_markbottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:05 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

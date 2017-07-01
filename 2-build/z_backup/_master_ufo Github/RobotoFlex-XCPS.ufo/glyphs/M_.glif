@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1374"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="169" y="1456" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="1202" y="1456" type="line"/>
+      <point x="1143" y="1456" type="line"/>
+      <point x="685" y="79" type="line"/>
+      <point x="227" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="1456" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="207" y="703" type="line"/>
+      <point x="205" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1167" y="1456" type="line"/>
+      <point x="1165" y="703" type="line"/>
+      <point x="1165" y="0" type="line"/>
+      <point x="1219" y="0" type="line"/>
+      <point x="1219" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1374" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1374" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="694" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1374" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1219" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="700" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 11:42:05 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

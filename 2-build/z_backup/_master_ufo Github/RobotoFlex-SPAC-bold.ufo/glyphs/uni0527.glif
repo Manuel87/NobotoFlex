@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0527" format="1">
+  <advance width="1235"/>
+  <unicode hex="0527"/>
+  <outline>
+    <contour>
+      <point x="1234" y="223" type="line"/>
+      <point x="996" y="223" type="line"/>
+      <point x="996" y="672" type="line" smooth="yes"/>
+      <point x="996" y="986"/>
+      <point x="849" y="1102"/>
+      <point x="635" y="1102" type="curve" smooth="yes"/>
+      <point x="520" y="1102"/>
+      <point x="424" y="1051"/>
+      <point x="355" y="966" type="curve"/>
+      <point x="355" y="1536" type="line"/>
+      <point x="33" y="1536" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="769" type="line"/>
+      <point x="385" y="814"/>
+      <point x="434" y="842"/>
+      <point x="513" y="842" type="curve" smooth="yes"/>
+      <point x="614" y="842"/>
+      <point x="673" y="806"/>
+      <point x="673" y="674" type="curve" smooth="yes"/>
+      <point x="673" y="0" type="line"/>
+      <point x="912" y="0" type="line"/>
+      <point x="912" y="-356" type="line"/>
+      <point x="1234" y="-356" type="line"/>
+    </contour>
+    <contour>
+      <point x="1093" y="1693" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1093" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1093" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

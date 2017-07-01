@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2B5C" format="1">
+  <advance width="2518"/>
+  <unicode hex="2B5C"/>
+  <outline>
+    <contour>
+      <point x="1264" y="0" type="line"/>
+      <point x="2034" y="2862" type="line"/>
+      <point x="1698" y="2956" type="line"/>
+      <point x="904" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1082" y="2310" type="line"/>
+      <point x="2012" y="2844" type="line"/>
+      <point x="1930" y="3148" type="line"/>
+      <point x="1190" y="2724" type="line"/>
+    </contour>
+    <contour>
+      <point x="2358" y="2410" type="line"/>
+      <point x="1930" y="3148" type="line"/>
+      <point x="1718" y="2914" type="line"/>
+      <point x="2248" y="1996" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="348" type="curve"/>
+      <point x="160" y="348"/>
+      <point x="160" y="0"/>
+      <point x="160" y="0" type="curve"/>
+      <point x="160" y="0"/>
+      <point x="1138" y="0"/>
+      <point x="1138" y="0" type="curve"/>
+      <point x="1138" y="0"/>
+      <point x="1138" y="348"/>
+      <point x="1138" y="348" type="curve"/>
+      <point x="1138" y="348"/>
+      <point x="160" y="348"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

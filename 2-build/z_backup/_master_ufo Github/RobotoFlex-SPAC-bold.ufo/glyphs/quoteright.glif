@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="369"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="331" y="1536" type="line"/>
+      <point x="90" y="1536" type="line"/>
+      <point x="90" y="1373" type="line" smooth="yes"/>
+      <point x="90" y="1243"/>
+      <point x="48" y="1156"/>
+      <point x="4" y="1080" type="curve"/>
+      <point x="148" y="1000" type="line"/>
+      <point x="243" y="1084"/>
+      <point x="331" y="1238"/>
+      <point x="331" y="1372" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="4" y="1536" type="move" name="_caron"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

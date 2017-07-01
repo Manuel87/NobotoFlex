@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA659" format="1">
+  <advance width="1593"/>
+  <unicode hex="A659"/>
+  <outline>
+    <contour>
+      <point x="837" y="969" type="line"/>
+      <point x="820" y="1082" type="line"/>
+      <point x="708" y="1082" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1161" y="0" type="line"/>
+      <point x="1352" y="0" type="line"/>
+      <point x="883" y="1082" type="line"/>
+      <point x="770" y="1082" type="line"/>
+      <point x="751" y="975" type="line"/>
+    </contour>
+    <contour>
+      <point x="1129" y="421" type="line"/>
+      <point x="438" y="421" type="line"/>
+      <point x="438" y="270" type="line"/>
+      <point x="1129" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="1206" y="151" type="line"/>
+      <point x="416" y="151" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="1206" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

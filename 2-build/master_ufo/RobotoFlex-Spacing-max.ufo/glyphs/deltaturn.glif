@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="deltaturn" format="1">
+  <advance width="1560"/>
+  <unicode hex="018D"/>
+  <outline>
+    <contour>
+      <point x="1121" y="-376" type="line"/>
+      <point x="1121" y="-261" type="line"/>
+      <point x="1025" y="-154"/>
+      <point x="879" y="-40"/>
+      <point x="758" y="71" type="curve"/>
+      <point x="774" y="70"/>
+      <point x="789" y="70"/>
+      <point x="802" y="71" type="curve" smooth="yes"/>
+      <point x="1092" y="103"/>
+      <point x="1263" y="303"/>
+      <point x="1263" y="548" type="curve" smooth="yes"/>
+      <point x="1263" y="571" type="line" smooth="yes"/>
+      <point x="1263" y="873"/>
+      <point x="1082" y="1101"/>
+      <point x="779" y="1101" type="curve" smooth="yes"/>
+      <point x="475" y="1101"/>
+      <point x="296" y="873"/>
+      <point x="296" y="571" type="curve" smooth="yes"/>
+      <point x="296" y="548" type="line" smooth="yes"/>
+      <point x="296" y="323"/>
+      <point x="444" y="149"/>
+      <point x="651" y="-35" type="curve" smooth="yes"/>
+      <point x="729" y="-97"/>
+      <point x="830" y="-184"/>
+      <point x="872" y="-228" type="curve"/>
+      <point x="412" y="-228" type="line"/>
+      <point x="412" y="-376" type="line"/>
+    </contour>
+    <contour>
+      <point x="1078" y="548" type="line"/>
+      <point x="1078" y="358"/>
+      <point x="977" y="190"/>
+      <point x="758" y="190" type="curve" smooth="yes"/>
+      <point x="721" y="190"/>
+      <point x="688" y="193"/>
+      <point x="659" y="201" type="curve"/>
+      <point x="571" y="262"/>
+      <point x="481" y="386"/>
+      <point x="481" y="548" type="curve" smooth="yes"/>
+      <point x="481" y="571" type="line" smooth="yes"/>
+      <point x="481" y="774"/>
+      <point x="575" y="949"/>
+      <point x="779" y="949" type="curve" smooth="yes"/>
+      <point x="985" y="949"/>
+      <point x="1078" y="774"/>
+      <point x="1078" y="571" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

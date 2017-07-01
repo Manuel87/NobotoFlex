@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.smcp" format="1">
+  <advance width="522"/>
+  <outline>
+    <contour>
+      <point x="379" y="187" type="line"/>
+      <point x="379" y="95"/>
+      <point x="319" y="42"/>
+      <point x="239" y="42" type="curve" smooth="yes"/>
+      <point x="150" y="42"/>
+      <point x="95" y="88"/>
+      <point x="95" y="179" type="curve"/>
+      <point x="32" y="179" type="line"/>
+      <point x="32" y="52"/>
+      <point x="117" y="-9"/>
+      <point x="239" y="-9" type="curve" smooth="yes"/>
+      <point x="357" y="-9"/>
+      <point x="442" y="63"/>
+      <point x="442" y="187" type="curve"/>
+      <point x="442" y="646" type="line"/>
+      <point x="379" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="721" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="522" y="800" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="403" y="721" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="522" y="-203" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="239" y="-5" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

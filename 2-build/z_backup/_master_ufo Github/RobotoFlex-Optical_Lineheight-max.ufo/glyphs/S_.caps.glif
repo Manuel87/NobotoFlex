@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S.caps" format="1">
+  <advance width="1269"/>
+  <outline>
+    <contour>
+      <point x="1126" y="372" type="curve"/>
+      <point x="1126" y="171"/>
+      <point x="933" y="33"/>
+      <point x="664" y="33" type="curve" smooth="yes"/>
+      <point x="443" y="33"/>
+      <point x="155" y="125"/>
+      <point x="155" y="439" type="curve"/>
+      <point x="101" y="439" type="line"/>
+      <point x="101" y="89"/>
+      <point x="403" y="-21"/>
+      <point x="664" y="-21" type="curve" smooth="yes"/>
+      <point x="948" y="-21"/>
+      <point x="1181" y="120"/>
+      <point x="1181" y="375" type="curve"/>
+      <point x="1181" y="637"/>
+      <point x="969" y="741"/>
+      <point x="668" y="822" type="curve"/>
+      <point x="302" y="918"/>
+      <point x="205" y="1034"/>
+      <point x="205" y="1201" type="curve"/>
+      <point x="205" y="1370"/>
+      <point x="367" y="1524"/>
+      <point x="657" y="1524" type="curve" smooth="yes"/>
+      <point x="928" y="1524"/>
+      <point x="1110" y="1350"/>
+      <point x="1110" y="1119" type="curve"/>
+      <point x="1164" y="1119" type="line"/>
+      <point x="1164" y="1394"/>
+      <point x="952" y="1577"/>
+      <point x="657" y="1577" type="curve" smooth="yes"/>
+      <point x="369" y="1577"/>
+      <point x="150" y="1435"/>
+      <point x="150" y="1199" type="curve"/>
+      <point x="150" y="948"/>
+      <point x="342" y="857"/>
+      <point x="653" y="770" type="curve" smooth="yes"/>
+      <point x="1000" y="673"/>
+      <point x="1126" y="571"/>
+    </contour>
+    <contour>
+      <point x="1269" y="1741" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1269" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="663" y="1741" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1269" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="662" y="-11" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-29 17:19:27 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1658</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdown" format="1">
+  <advance width="484"/>
+  <unicode hex="2193"/>
+  <outline>
+    <contour>
+      <point x="20" y="-143" type="line"/>
+      <point x="272" y="-388" type="line"/>
+      <point x="246" y="-437" type="line"/>
+      <point x="20" y="-220" type="line"/>
+    </contour>
+    <contour>
+      <point x="464" y="-220" type="line"/>
+      <point x="246" y="-437" type="line"/>
+      <point x="220" y="-386" type="line"/>
+      <point x="464" y="-143" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="1447" type="line"/>
+      <point x="270" y="1447" type="line"/>
+      <point x="270" y="-383" type="line"/>
+      <point x="216" y="-383" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

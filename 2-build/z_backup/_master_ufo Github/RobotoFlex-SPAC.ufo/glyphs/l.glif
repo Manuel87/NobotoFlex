@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="258"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="157" y="1456" type="line"/>
+      <point x="103" y="1456" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="54" type="line"/>
+      <point x="103" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="1402" type="line"/>
+      <point x="157" y="1402" type="line"/>
+      <point x="157" y="1456" type="line"/>
+      <point x="103" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="340" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="392" y="1503" type="move" name="marktop"/>
+    </contour>
+    <contour>
+      <point x="340" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="340" y="1673" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="335" y="1536" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="132" y="1673" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="315" y="794" type="move" name="dot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

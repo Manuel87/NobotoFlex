@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03CF" format="1">
+  <advance width="1180"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="194" y="1456" type="line"/>
+      <point x="140" y="1456" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1116" y="1456" type="line"/>
+      <point x="1038" y="1456" type="line"/>
+      <point x="432" y="847" type="line"/>
+      <point x="180" y="601" type="line"/>
+      <point x="172" y="531" type="line"/>
+      <point x="465" y="801" type="line"/>
+    </contour>
+    <contour>
+      <point x="1166" y="0" type="line"/>
+      <point x="443" y="832" type="line"/>
+      <point x="410" y="785" type="line"/>
+      <point x="1091" y="6" type="line"/>
+      <point x="708" y="-326" type="line"/>
+      <point x="744" y="-367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblx" format="1">
+  <advance width="401"/>
+  <unicode hex="EE02"/>
+  <outline>
+    <contour>
+      <point x="120" y="1082" type="line"/>
+      <point x="65" y="1082" type="line"/>
+      <point x="65" y="705" type="line"/>
+      <point x="120" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="1082" type="line"/>
+      <point x="297" y="1082" type="line"/>
+      <point x="297" y="705" type="line"/>
+      <point x="351" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

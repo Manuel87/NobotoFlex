@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eturn" format="1">
+  <advance width="1046"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="20" y="1402" type="line"/>
+      <point x="887" y="1402" type="line"/>
+      <point x="887" y="1456" type="line"/>
+      <point x="20" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="852" y="0" type="line"/>
+      <point x="906" y="0" type="line"/>
+      <point x="906" y="1456" type="line"/>
+      <point x="852" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="732" type="line"/>
+      <point x="887" y="732" type="line"/>
+      <point x="887" y="786" type="line"/>
+      <point x="122" y="786" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="887" y="54" type="line"/>
+      <point x="20" y="54" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

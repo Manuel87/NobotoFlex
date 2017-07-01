@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cruzeiro" format="1">
+  <advance width="1733"/>
+  <unicode hex="20A2"/>
+  <outline>
+    <contour>
+      <point x="961" y="703" type="line"/>
+      <point x="946" y="873" type="line"/>
+      <point x="776" y="873" type="line"/>
+      <point x="776" y="28" type="line"/>
+      <point x="961" y="28" type="line"/>
+    </contour>
+    <contour>
+      <point x="1299" y="879" type="line"/>
+      <point x="1286" y="885"/>
+      <point x="1243" y="893"/>
+      <point x="1217" y="893" type="curve" smooth="yes"/>
+      <point x="983" y="893"/>
+      <point x="863" y="663"/>
+      <point x="863" y="403" type="curve"/>
+      <point x="933" y="445" type="line"/>
+      <point x="949" y="602"/>
+      <point x="1036" y="714"/>
+      <point x="1208" y="714" type="curve" smooth="yes"/>
+      <point x="1243" y="714"/>
+      <point x="1267" y="712"/>
+      <point x="1298" y="706" type="curve"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

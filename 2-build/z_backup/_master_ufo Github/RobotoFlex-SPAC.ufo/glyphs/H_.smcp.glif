@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H.smcp" format="1">
+  <advance width="1333"/>
+  <outline>
+    <contour>
+      <point x="1155" y="776" type="line"/>
+      <point x="175" y="776" type="line"/>
+      <point x="175" y="722" type="line"/>
+      <point x="1155" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="1456" type="line"/>
+      <point x="148" y="1456" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1186" y="1456" type="line"/>
+      <point x="1132" y="1456" type="line"/>
+      <point x="1132" y="0" type="line"/>
+      <point x="1186" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1386" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="664" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1386" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1386" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="664" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-110" y="1457" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="1186" y="0" type="move" name="right"/>
+    </contour>
+  </outline>
+</glyph>

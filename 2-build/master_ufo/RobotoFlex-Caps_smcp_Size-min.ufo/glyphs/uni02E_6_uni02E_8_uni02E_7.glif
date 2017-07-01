@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02E6_uni02E8_uni02E7" format="1">
+  <advance width="1197"/>
+  <outline>
+    <contour>
+      <point x="1035" y="0" type="line"/>
+      <point x="1035" y="1456" type="line"/>
+      <point x="850" y="1456" type="line"/>
+      <point x="850" y="807" type="line"/>
+      <point x="595" y="562" type="line"/>
+      <point x="279" y="1131" type="line"/>
+      <point x="149" y="1051" type="line"/>
+      <point x="561" y="324" type="line"/>
+      <point x="850" y="601" type="line"/>
+      <point x="850" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:08 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

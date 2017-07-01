@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.caps" format="1">
+  <advance width="1063"/>
+  <outline>
+    <contour>
+      <point x="1043" y="260" type="line"/>
+      <point x="453" y="260" type="line"/>
+      <point x="663" y="477" type="line" smooth="yes"/>
+      <point x="873" y="693"/>
+      <point x="1003" y="852"/>
+      <point x="1003" y="1055" type="curve" smooth="yes"/>
+      <point x="1003" y="1321"/>
+      <point x="835" y="1477"/>
+      <point x="518" y="1477" type="curve" smooth="yes"/>
+      <point x="208" y="1477"/>
+      <point x="3" y="1256"/>
+      <point x="3" y="988" type="curve"/>
+      <point x="326" y="988" type="line"/>
+      <point x="326" y="1118"/>
+      <point x="396" y="1217"/>
+      <point x="511" y="1217" type="curve" smooth="yes"/>
+      <point x="620" y="1217"/>
+      <point x="680" y="1150"/>
+      <point x="680" y="1025" type="curve" smooth="yes"/>
+      <point x="680" y="950"/>
+      <point x="631" y="854"/>
+      <point x="502" y="712" type="curve" smooth="yes"/>
+      <point x="33" y="220" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="1043" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1658</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

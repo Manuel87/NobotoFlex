@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA76B" format="1">
+  <advance width="847"/>
+  <unicode hex="A76B"/>
+  <outline>
+    <contour>
+      <point x="223" y="388" type="line"/>
+      <point x="223" y="256" type="line"/>
+      <point x="304" y="256" type="line" smooth="yes"/>
+      <point x="465" y="256"/>
+      <point x="526" y="158"/>
+      <point x="526" y="42" type="curve" smooth="yes"/>
+      <point x="526" y="-79"/>
+      <point x="481" y="-177"/>
+      <point x="269" y="-177" type="curve" smooth="yes"/>
+      <point x="97" y="-177" type="line"/>
+      <point x="97" y="-417" type="line"/>
+      <point x="354" y="-417" type="line" smooth="yes"/>
+      <point x="718" y="-417"/>
+      <point x="847" y="-196"/>
+      <point x="847" y="9" type="curve" smooth="yes"/>
+      <point x="847" y="190"/>
+      <point x="744" y="388"/>
+      <point x="443" y="388" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="443" y="316" type="line"/>
+      <point x="673" y="316"/>
+      <point x="828" y="492"/>
+      <point x="828" y="707" type="curve" smooth="yes"/>
+      <point x="828" y="935"/>
+      <point x="665" y="1101"/>
+      <point x="384" y="1101" type="curve" smooth="yes"/>
+      <point x="141" y="1101"/>
+      <point x="-40" y="954"/>
+      <point x="-40" y="744" type="curve"/>
+      <point x="282" y="744" type="line"/>
+      <point x="282" y="799"/>
+      <point x="316" y="861"/>
+      <point x="391" y="861" type="curve" smooth="yes"/>
+      <point x="476" y="861"/>
+      <point x="506" y="790"/>
+      <point x="506" y="685" type="curve" smooth="yes"/>
+      <point x="506" y="554"/>
+      <point x="473" y="452"/>
+      <point x="339" y="452" type="curve" smooth="yes"/>
+      <point x="223" y="452" type="line"/>
+      <point x="223" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C61" format="1">
+  <advance width="667"/>
+  <unicode hex="2C61"/>
+  <outline>
+    <component base="l"/>
+    <component base="crossbar" xOffset="-68" yOffset="200"/>
+    <component base="crossbar" xOffset="-68" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="416"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="349" y="274" type="line"/>
+      <point x="87" y="274" type="line"/>
+      <point x="87" y="81" type="line"/>
+      <point x="87" y="-57"/>
+      <point x="48" y="-132"/>
+      <point x="21" y="-212" type="curve"/>
+      <point x="185" y="-292" type="line"/>
+      <point x="277" y="-201"/>
+      <point x="348" y="-47"/>
+      <point x="348" y="100" type="curve"/>
+    </contour>
+    <contour>
+      <point x="337" y="264" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="113" y="35" type="move" name="_right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

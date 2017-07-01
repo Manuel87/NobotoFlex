@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trianglebullet" format="1">
+  <advance width="705"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="79" y="1004" type="curve"/>
+      <point x="79" y="1004"/>
+      <point x="79" y="278"/>
+      <point x="79" y="278" type="curve"/>
+      <point x="79" y="278"/>
+      <point x="698" y="641"/>
+      <point x="698" y="641" type="curve"/>
+      <point x="698" y="641"/>
+      <point x="79" y="1004"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>651</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044E" format="1">
+  <advance width="1672"/>
+  <unicode hex="044E"/>
+  <outline>
+    <contour>
+      <point x="756" y="624" type="line"/>
+      <point x="182" y="624" type="line"/>
+      <point x="182" y="472" type="line"/>
+      <point x="756" y="472" type="line"/>
+    </contour>
+    <component base="idotless" xOffset="2"/>
+    <component base="o" xOffset="507"/>
+    <contour>
+      <point x="827" y="1269" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1672" y="1269" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

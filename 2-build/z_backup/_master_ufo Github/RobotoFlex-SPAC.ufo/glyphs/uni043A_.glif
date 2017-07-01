@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A" format="1">
+  <advance width="896"/>
+  <unicode hex="043A"/>
+  <outline>
+    <contour>
+      <point x="166" y="1082" type="line"/>
+      <point x="111" y="1082" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="881" y="1082" type="line"/>
+      <point x="803" y="1082" type="line"/>
+      <point x="374" y="582" type="line"/>
+      <point x="147" y="582" type="line"/>
+      <point x="144" y="529" type="line"/>
+      <point x="401" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="863" y="0" type="line"/>
+      <point x="944" y="0" type="line"/>
+      <point x="392" y="584" type="line"/>
+      <point x="360" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="887" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="479" y="1268" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="956" y="1268" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

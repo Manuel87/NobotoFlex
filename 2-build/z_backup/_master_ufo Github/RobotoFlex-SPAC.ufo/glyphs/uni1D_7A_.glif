@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D7A" format="1">
+  <advance width="1474"/>
+  <unicode hex="1D7A"/>
+  <outline>
+    <contour>
+      <point x="1102" y="1456" type="line"/>
+      <point x="1040" y="1456" type="line"/>
+      <point x="-21" y="-125" type="line"/>
+      <point x="41" y="-125" type="line"/>
+    </contour>
+    <component base="t"/>
+    <component base="h" xOffset="470"/>
+    <contour>
+      <point x="1016" y="1600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="986" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1534" y="1600" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

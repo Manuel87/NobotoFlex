@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB59" format="1">
+  <advance width="1077"/>
+  <unicode hex="AB59"/>
+  <outline>
+    <contour>
+      <point x="243" y="1182" type="line"/>
+      <point x="175" y="1182" type="line"/>
+      <point x="555" y="655" type="line"/>
+      <point x="-141" y="-316" type="line"/>
+      <point x="-74" y="-316" type="line"/>
+      <point x="588" y="608" type="line"/>
+      <point x="955" y="100" type="line"/>
+      <point x="1022" y="100" type="line"/>
+      <point x="622" y="655" type="line"/>
+      <point x="1002" y="1182" type="line"/>
+      <point x="934" y="1182" type="line"/>
+      <point x="589" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="-160" y="-316" type="line"/>
+      <point x="71" y="-316" type="line"/>
+      <point x="71" y="-263" type="line"/>
+      <point x="-160" y="-263" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

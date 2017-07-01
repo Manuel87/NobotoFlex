@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni006A.ccmp" format="1">
+  <advance width="422"/>
+  <outline>
+    <component base="uni0237"/>
+    <contour>
+      <point x="209" y="1249" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="190" y="-459" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="445" y="1249" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.779</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

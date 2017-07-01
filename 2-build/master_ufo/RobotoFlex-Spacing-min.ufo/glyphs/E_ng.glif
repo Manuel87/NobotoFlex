@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="1">
+  <advance width="1299"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="102" y="1456" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="294" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="1342" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="1147" y="114" type="line"/>
+      <point x="294" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="1012" y="1456" type="line"/>
+      <point x="1012" y="-84" type="line" smooth="yes"/>
+      <point x="1012" y="-206"/>
+      <point x="962" y="-279"/>
+      <point x="875" y="-279" type="curve" smooth="yes"/>
+      <point x="855" y="-279"/>
+      <point x="799" y="-273"/>
+      <point x="777" y="-265" type="curve"/>
+      <point x="763" y="-420" type="line"/>
+      <point x="803" y="-433"/>
+      <point x="836" y="-437"/>
+      <point x="878" y="-437" type="curve" smooth="yes"/>
+      <point x="1082" y="-437"/>
+      <point x="1205" y="-312"/>
+      <point x="1205" y="-84" type="curve" smooth="yes"/>
+      <point x="1205" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="666" y="1601" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="660" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1359" y="1601" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="1">
+  <advance width="906"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="552" y="133" type="line"/>
+      <point x="367" y="133" type="line"/>
+      <point x="367" y="-417" type="line"/>
+      <point x="552" y="-417" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="251" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="932" y="1082" type="line"/>
+      <point x="743" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="1082" type="line"/>
+      <point x="-13" y="1082" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="472" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="62" type="move" name="cross"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

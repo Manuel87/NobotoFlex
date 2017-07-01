@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C5" format="1">
+  <advance width="1201"/>
+  <unicode hex="02C5"/>
+  <outline>
+    <contour>
+      <point x="577" y="849" type="line"/>
+      <point x="648" y="583" type="line"/>
+      <point x="536" y="583" type="line"/>
+      <point x="233" y="1310" type="line"/>
+      <point x="396" y="1310" type="line"/>
+    </contour>
+    <contour>
+      <point x="804" y="1310" type="line"/>
+      <point x="966" y="1310" type="line"/>
+      <point x="664" y="583" type="line"/>
+      <point x="551" y="583" type="line"/>
+      <point x="620" y="849" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

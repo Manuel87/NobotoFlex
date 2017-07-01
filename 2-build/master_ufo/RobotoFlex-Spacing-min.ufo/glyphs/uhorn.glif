@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="1">
+  <advance width="1147"/>
+  <unicode hex="01B0"/>
+  <outline>
+    <contour>
+      <point x="1094" y="1169" type="line"/>
+      <point x="1094" y="1017"/>
+      <point x="1087" y="952"/>
+      <point x="908" y="952" type="curve"/>
+      <point x="908" y="837" type="line"/>
+      <point x="1164" y="837"/>
+      <point x="1236" y="950"/>
+      <point x="1236" y="1169" type="curve"/>
+    </contour>
+    <component base="u"/>
+    <contour>
+      <point x="1207" y="1269" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="520" y="1269" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="449" y="0" type="move" name="bottomu"/>
+    </contour>
+    <contour>
+      <point x="954" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="503" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

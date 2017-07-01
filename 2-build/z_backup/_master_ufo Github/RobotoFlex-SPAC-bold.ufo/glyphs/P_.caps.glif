@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P.caps" format="1">
+  <advance width="1210"/>
+  <outline>
+    <contour>
+      <point x="634" y="494" type="line"/>
+      <point x="982" y="494"/>
+      <point x="1193" y="680"/>
+      <point x="1193" y="962" type="curve"/>
+      <point x="1193" y="1247"/>
+      <point x="982" y="1456"/>
+      <point x="634" y="1456" type="curve"/>
+      <point x="57" y="1456" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="392" y="1185" type="line"/>
+      <point x="634" y="1185" type="line"/>
+      <point x="789" y="1185"/>
+      <point x="854" y="1079"/>
+      <point x="854" y="960" type="curve"/>
+      <point x="854" y="847"/>
+      <point x="789" y="765"/>
+      <point x="634" y="765" type="curve"/>
+      <point x="270" y="765" type="line"/>
+      <point x="270" y="494" type="line"/>
+    </contour>
+    <contour>
+      <point x="1270" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1270" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="536" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-110" y="1454" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="1270" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="470" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 09:36:20 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

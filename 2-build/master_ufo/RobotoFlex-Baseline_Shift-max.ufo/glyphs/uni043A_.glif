@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A" format="1">
+  <advance width="1107"/>
+  <unicode hex="043A"/>
+  <outline>
+    <contour>
+      <point x="342" y="1582" type="line"/>
+      <point x="157" y="1582" type="line"/>
+      <point x="157" y="500" type="line"/>
+      <point x="342" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="1051" y="1582" type="line"/>
+      <point x="827" y="1582" type="line"/>
+      <point x="464" y="1125" type="line"/>
+      <point x="252" y="1125" type="line"/>
+      <point x="279" y="962" type="line"/>
+      <point x="539" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="853" y="500" type="line"/>
+      <point x="1087" y="500" type="line"/>
+      <point x="573" y="1124" type="line"/>
+      <point x="455" y="990" type="line"/>
+    </contour>
+    <contour>
+      <point x="991" y="500" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="541" y="1768" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1107" y="1768" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

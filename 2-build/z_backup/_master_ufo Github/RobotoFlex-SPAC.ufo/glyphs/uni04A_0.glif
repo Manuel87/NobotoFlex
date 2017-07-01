@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A0" format="1">
+  <advance width="1512"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="584" y="1456" type="line"/>
+      <point x="34" y="1456" type="line"/>
+      <point x="34" y="1402" type="line"/>
+      <point x="584" y="1402" type="line"/>
+    </contour>
+    <component base="K.alt" xOffset="395"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

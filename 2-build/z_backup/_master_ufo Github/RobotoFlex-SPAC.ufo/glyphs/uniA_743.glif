@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA743" format="1">
+  <advance width="849"/>
+  <unicode hex="A743"/>
+  <outline>
+    <contour>
+      <point x="774" y="568" type="line"/>
+      <point x="337" y="175" type="line"/>
+      <point x="373" y="135" type="line"/>
+      <point x="810" y="528" type="line"/>
+    </contour>
+    <component base="k"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

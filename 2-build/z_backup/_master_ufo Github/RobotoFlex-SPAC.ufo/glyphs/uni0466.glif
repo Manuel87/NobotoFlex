@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0466" format="1">
+  <advance width="1104"/>
+  <unicode hex="0466"/>
+  <outline>
+    <contour>
+      <point x="521" y="1304" type="line"/>
+      <point x="570" y="1456" type="line"/>
+      <point x="518" y="1456" type="line"/>
+      <point x="-26" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1070" y="0" type="line"/>
+      <point x="1129" y="0" type="line"/>
+      <point x="584" y="1456" type="line"/>
+      <point x="533" y="1456" type="line"/>
+      <point x="582" y="1304" type="line"/>
+    </contour>
+    <contour>
+      <point x="902" y="562" type="line"/>
+      <point x="200" y="562" type="line"/>
+      <point x="200" y="508" type="line"/>
+      <point x="902" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="540" type="line"/>
+      <point x="518" y="540" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

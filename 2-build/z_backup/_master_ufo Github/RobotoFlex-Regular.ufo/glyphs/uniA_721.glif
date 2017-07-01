@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA721" format="1">
+  <advance width="1272"/>
+  <unicode hex="A721"/>
+  <outline>
+    <contour>
+      <point x="80" y="-38" type="line"/>
+      <point x="80" y="-228" type="line"/>
+      <point x="1146" y="-518" type="line"/>
+      <point x="1192" y="-341" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="-180" type="line"/>
+      <point x="263" y="342" type="line"/>
+      <point x="80" y="342" type="line"/>
+      <point x="80" y="-228" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="-210" type="line"/>
+      <point x="663" y="82" type="line"/>
+      <point x="480" y="82" type="line"/>
+      <point x="480" y="-288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

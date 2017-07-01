@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="2940"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="2898" y="2442" type="line"/>
+      <point x="64" y="2442" type="line"/>
+      <point x="64" y="2096" type="line"/>
+      <point x="2898" y="2096" type="line"/>
+    </contour>
+    <component base="H" xOffset="13"/>
+    <contour>
+      <point x="1482" y="3208" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1482" y="20" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2940" y="3208" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0237" format="1">
+  <advance width="395"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="113" y="1082" type="line"/>
+      <point x="113" y="-89" type="line"/>
+      <point x="113" y="-211"/>
+      <point x="62" y="-285"/>
+      <point x="-24" y="-285" type="curve" smooth="yes"/>
+      <point x="-43" y="-285"/>
+      <point x="-102" y="-280"/>
+      <point x="-122" y="-272" type="curve"/>
+      <point x="-136" y="-420" type="line"/>
+      <point x="-98" y="-433"/>
+      <point x="-65" y="-437"/>
+      <point x="-24" y="-437" type="curve" smooth="yes"/>
+      <point x="177" y="-437"/>
+      <point x="298" y="-314"/>
+      <point x="298" y="-89" type="curve"/>
+      <point x="298" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="1249" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="move" name="_right"/>
+    </contour>
+    <contour>
+      <point x="455" y="1249" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

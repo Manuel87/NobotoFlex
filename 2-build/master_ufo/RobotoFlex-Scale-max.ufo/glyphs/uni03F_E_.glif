@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03FE" format="1">
+  <advance width="2680"/>
+  <unicode hex="03FE"/>
+  <outline>
+    <contour>
+      <point x="1964" y="968" type="line"/>
+      <point x="1930" y="618"/>
+      <point x="1768" y="440"/>
+      <point x="1376" y="440" type="curve" smooth="yes"/>
+      <point x="938" y="440"/>
+      <point x="764" y="758"/>
+      <point x="764" y="1356" type="curve" smooth="yes"/>
+      <point x="764" y="1558" type="line" smooth="yes"/>
+      <point x="764" y="2174"/>
+      <point x="970" y="2472"/>
+      <point x="1388" y="2472" type="curve" smooth="yes"/>
+      <point x="1788" y="2472"/>
+      <point x="1936" y="2276"/>
+      <point x="1966" y="1928" type="curve"/>
+      <point x="2542" y="1928" type="line"/>
+      <point x="2486" y="2520"/>
+      <point x="2108" y="2954"/>
+      <point x="1388" y="2954" type="curve" smooth="yes"/>
+      <point x="652" y="2954"/>
+      <point x="180" y="2412"/>
+      <point x="180" y="1554" type="curve" smooth="yes"/>
+      <point x="180" y="1356" type="line" smooth="yes"/>
+      <point x="180" y="498"/>
+      <point x="636" y="-40"/>
+      <point x="1376" y="-40" type="curve" smooth="yes"/>
+      <point x="2092" y="-40"/>
+      <point x="2498" y="378"/>
+      <point x="2540" y="968" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1088" y="1456" type="curve" smooth="yes"/>
+      <point x="1088" y="1300"/>
+      <point x="1208" y="1182"/>
+      <point x="1398" y="1182" type="curve" smooth="yes"/>
+      <point x="1590" y="1182"/>
+      <point x="1710" y="1300"/>
+      <point x="1710" y="1456" type="curve" smooth="yes"/>
+      <point x="1710" y="1610"/>
+      <point x="1590" y="1730"/>
+      <point x="1398" y="1730" type="curve" smooth="yes"/>
+      <point x="1208" y="1730"/>
+      <point x="1088" y="1610"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

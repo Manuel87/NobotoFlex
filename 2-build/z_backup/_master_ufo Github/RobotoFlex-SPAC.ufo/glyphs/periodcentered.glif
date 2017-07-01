@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="352"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="119" y="706" type="curve" smooth="yes"/>
+      <point x="119" y="675"/>
+      <point x="143" y="651"/>
+      <point x="174" y="651" type="curve" smooth="yes"/>
+      <point x="205" y="651"/>
+      <point x="230" y="675"/>
+      <point x="230" y="706" type="curve" smooth="yes"/>
+      <point x="230" y="737"/>
+      <point x="205" y="762"/>
+      <point x="174" y="762" type="curve" smooth="yes"/>
+      <point x="143" y="762"/>
+      <point x="119" y="737"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

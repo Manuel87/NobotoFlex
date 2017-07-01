@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA65D" format="1">
+  <advance width="1313"/>
+  <unicode hex="A65D"/>
+  <outline>
+    <contour>
+      <point x="306" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="790" y="966" type="line"/>
+      <point x="829" y="1082" type="line"/>
+      <point x="782" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="1258" y="0" type="line"/>
+      <point x="1316" y="0" type="line"/>
+      <point x="842" y="1082" type="line"/>
+      <point x="794" y="1082" type="line"/>
+      <point x="833" y="968" type="line"/>
+    </contour>
+    <contour>
+      <point x="1133" y="380" type="line"/>
+      <point x="481" y="380" type="line"/>
+      <point x="481" y="326" type="line"/>
+      <point x="1133" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="0" type="line"/>
+      <point x="1273" y="0" type="line"/>
+      <point x="1273" y="54" type="line"/>
+      <point x="351" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="380" type="line"/>
+      <point x="131" y="326" type="line"/>
+      <point x="493" y="326" type="line"/>
+      <point x="493" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="1082" type="line"/>
+      <point x="111" y="1082" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

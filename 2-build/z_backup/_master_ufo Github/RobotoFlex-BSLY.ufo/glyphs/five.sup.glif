@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.sup" format="1">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="186" y="494" type="line"/>
+      <point x="233" y="529"/>
+      <point x="278" y="553"/>
+      <point x="376" y="553" type="curve"/>
+      <point x="517" y="553"/>
+      <point x="597" y="472"/>
+      <point x="597" y="351" type="curve" smooth="yes"/>
+      <point x="597" y="214"/>
+      <point x="532" y="137"/>
+      <point x="384" y="137" type="curve" smooth="yes"/>
+      <point x="278" y="137"/>
+      <point x="190" y="197"/>
+      <point x="179" y="308" type="curve"/>
+      <point x="125" y="308" type="line"/>
+      <point x="138" y="160"/>
+      <point x="262" y="89"/>
+      <point x="384" y="89" type="curve" smooth="yes"/>
+      <point x="572" y="89"/>
+      <point x="650" y="201"/>
+      <point x="650" y="351" type="curve" smooth="yes"/>
+      <point x="650" y="507"/>
+      <point x="537" y="601"/>
+      <point x="381" y="601" type="curve" smooth="yes"/>
+      <point x="298" y="601"/>
+      <point x="231" y="575"/>
+      <point x="200" y="555" type="curve"/>
+      <point x="237" y="838" type="line"/>
+      <point x="639" y="838" type="line"/>
+      <point x="639" y="889" type="line"/>
+      <point x="192" y="889" type="line"/>
+      <point x="145" y="507" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

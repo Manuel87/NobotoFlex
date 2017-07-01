@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="484"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="46" y="171" type="line"/>
+      <point x="116" y="171" type="line"/>
+      <point x="410" y="541" type="line"/>
+      <point x="410" y="554" type="line"/>
+      <point x="343" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="940" type="line"/>
+      <point x="343" y="546" type="line"/>
+      <point x="410" y="547" type="line"/>
+      <point x="410" y="560" type="line"/>
+      <point x="116" y="940" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>98</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>443</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

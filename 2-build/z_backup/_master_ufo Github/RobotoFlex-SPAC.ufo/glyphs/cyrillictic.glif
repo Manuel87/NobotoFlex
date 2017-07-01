@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillictic" format="1">
+  <advance width="288"/>
+  <outline>
+    <contour>
+      <point x="176" y="95" type="line"/>
+      <point x="122" y="95" type="line"/>
+      <point x="122" y="-352" type="line"/>
+      <point x="176" y="-352" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="70" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="176" y="0" type="move" name="_left"/>
+    </contour>
+    <contour>
+      <point x="122" y="0" type="move" name="_right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

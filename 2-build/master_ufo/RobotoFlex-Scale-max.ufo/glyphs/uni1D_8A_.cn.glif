@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D8A.cn" format="1">
+  <advance width="2110"/>
+  <outline>
+    <contour>
+      <point x="1528" y="606" type="line"/>
+      <point x="1528" y="-166" type="line" smooth="yes"/>
+      <point x="1528" y="-390"/>
+      <point x="1364" y="-450"/>
+      <point x="1200" y="-450" type="curve" smooth="yes"/>
+      <point x="1154" y="-450"/>
+      <point x="1106" y="-444"/>
+      <point x="1060" y="-436" type="curve"/>
+      <point x="1060" y="-816" type="line"/>
+      <point x="1138" y="-838"/>
+      <point x="1218" y="-846"/>
+      <point x="1298" y="-846" type="curve" smooth="yes"/>
+      <point x="1688" y="-846"/>
+      <point x="1954" y="-604"/>
+      <point x="1954" y="-166" type="curve" smooth="yes"/>
+      <point x="1954" y="606" type="line"/>
+    </contour>
+    <component base="s.cn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

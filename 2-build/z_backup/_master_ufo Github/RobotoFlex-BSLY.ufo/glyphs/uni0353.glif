@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0353" format="1">
+  <advance width="0"/>
+  <unicode hex="0353"/>
+  <outline>
+    <contour>
+      <point x="-744" y="-419" type="line"/>
+      <point x="-341" y="-4" type="line"/>
+      <point x="-378" y="34" type="line"/>
+      <point x="-781" y="-381" type="line"/>
+    </contour>
+    <contour>
+      <point x="-378" y="-418" type="line"/>
+      <point x="-341" y="-379" type="line"/>
+      <point x="-744" y="36" type="line"/>
+      <point x="-781" y="-3" type="line"/>
+    </contour>
+    <contour>
+      <point x="-562" y="-315" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-562" y="100" type="move" name="_markbottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

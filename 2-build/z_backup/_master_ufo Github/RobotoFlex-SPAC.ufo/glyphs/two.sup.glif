@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.sup" format="1">
+  <advance width="608"/>
+  <outline>
+    <contour>
+      <point x="591" y="49" type="line"/>
+      <point x="115" y="49" type="line"/>
+      <point x="366" y="297" type="line" smooth="yes"/>
+      <point x="457" y="391"/>
+      <point x="545" y="486"/>
+      <point x="545" y="584" type="curve" smooth="yes"/>
+      <point x="545" y="720"/>
+      <point x="445" y="800"/>
+      <point x="296" y="800" type="curve" smooth="yes"/>
+      <point x="128" y="800"/>
+      <point x="26" y="692"/>
+      <point x="26" y="562" type="curve"/>
+      <point x="80" y="562" type="line"/>
+      <point x="80" y="671"/>
+      <point x="154" y="751"/>
+      <point x="296" y="751" type="curve" smooth="yes"/>
+      <point x="425" y="751"/>
+      <point x="491" y="685"/>
+      <point x="491" y="583" type="curve" smooth="yes"/>
+      <point x="491" y="517"/>
+      <point x="447" y="447"/>
+      <point x="338" y="339" type="curve" smooth="yes"/>
+      <point x="48" y="44" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7FF" format="1">
+  <advance width="2424"/>
+  <unicode hex="A7FF"/>
+  <outline>
+    <contour>
+      <point x="1177" y="34" type="line"/>
+      <point x="335" y="1456" type="line"/>
+      <point x="295" y="1422" type="line"/>
+      <point x="1135" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="1456" type="line"/>
+      <point x="280" y="1456" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1329" y="1456" type="line"/>
+      <point x="1275" y="1456" type="line"/>
+      <point x="1135" y="0" type="line"/>
+      <point x="1189" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2171" y="34" type="line"/>
+      <point x="1329" y="1456" type="line"/>
+      <point x="1289" y="1422" type="line"/>
+      <point x="2129" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2323" y="1456" type="line"/>
+      <point x="2269" y="1456" type="line"/>
+      <point x="2129" y="0" type="line"/>
+      <point x="2183" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

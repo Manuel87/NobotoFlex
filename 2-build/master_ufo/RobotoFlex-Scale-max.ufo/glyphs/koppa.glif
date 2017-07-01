@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koppa" format="1">
+  <advance width="2354"/>
+  <unicode hex="03DF"/>
+  <outline>
+    <contour>
+      <point x="1866" y="1664" type="line"/>
+      <point x="498" y="1664" type="line"/>
+      <point x="498" y="1208" type="line"/>
+      <point x="1866" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="1372" y="2912" type="line"/>
+      <point x="766" y="2912" type="line"/>
+      <point x="174" y="1518" type="line"/>
+      <point x="174" y="1208" type="line"/>
+      <point x="670" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="2180" y="1374" type="line"/>
+      <point x="2180" y="1664" type="line"/>
+      <point x="1706" y="1664" type="line"/>
+      <point x="1004" y="0" type="line"/>
+      <point x="1608" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

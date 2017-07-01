@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DFD" format="1">
+  <advance width="0"/>
+  <unicode hex="2DFD"/>
+  <outline>
+    <contour>
+      <point x="-649" y="1637" type="line"/>
+      <point x="-603" y="1754" type="line"/>
+      <point x="-641" y="1754" type="line"/>
+      <point x="-870" y="1202" type="line"/>
+      <point x="-826" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-417" y="1202" type="line"/>
+      <point x="-374" y="1202" type="line"/>
+      <point x="-603" y="1754" type="line"/>
+      <point x="-641" y="1754" type="line"/>
+      <point x="-595" y="1637" type="line"/>
+    </contour>
+    <contour>
+      <point x="-480" y="1431" type="line"/>
+      <point x="-764" y="1431" type="line"/>
+      <point x="-764" y="1391" type="line"/>
+      <point x="-480" y="1391" type="line"/>
+    </contour>
+    <contour>
+      <point x="-602" y="1420" type="line"/>
+      <point x="-642" y="1420" type="line"/>
+      <point x="-642" y="1202" type="line"/>
+      <point x="-602" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-622" y="1170" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

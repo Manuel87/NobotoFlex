@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.caps" format="1">
+  <advance width="1284"/>
+  <outline>
+    <contour>
+      <point x="1167" y="1456" type="line"/>
+      <point x="1113" y="1456" type="line"/>
+      <point x="1113" y="95" type="line"/>
+      <point x="173" y="1456" type="line"/>
+      <point x="118" y="1456" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="1365" type="line"/>
+      <point x="1113" y="0" type="line"/>
+      <point x="1167" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1367" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1367" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="644" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1367" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1167" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="644" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

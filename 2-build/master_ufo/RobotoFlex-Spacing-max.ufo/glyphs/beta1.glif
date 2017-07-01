@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="beta1" format="1">
+  <advance width="1550"/>
+  <unicode hex="03D0"/>
+  <outline>
+    <contour>
+      <point x="815" y="942" type="curve" smooth="yes"/>
+      <point x="659" y="942"/>
+      <point x="532" y="873"/>
+      <point x="451" y="772" type="curve"/>
+      <point x="454" y="1126"/>
+      <point x="555" y="1405"/>
+      <point x="794" y="1405" type="curve" smooth="yes"/>
+      <point x="904" y="1405"/>
+      <point x="949" y="1341"/>
+      <point x="949" y="1279" type="curve" smooth="yes"/>
+      <point x="949" y="1228"/>
+      <point x="902" y="1167"/>
+      <point x="783" y="1167" type="curve" smooth="yes"/>
+      <point x="716" y="1167"/>
+      <point x="627" y="1185"/>
+      <point x="522" y="1228" type="curve"/>
+      <point x="466" y="1085" type="line"/>
+      <point x="596" y="1029"/>
+      <point x="709" y="1015"/>
+      <point x="804" y="1015" type="curve" smooth="yes"/>
+      <point x="1041" y="1015"/>
+      <point x="1134" y="1154"/>
+      <point x="1134" y="1284" type="curve" smooth="yes"/>
+      <point x="1134" y="1460"/>
+      <point x="992" y="1557"/>
+      <point x="816" y="1557" type="curve" smooth="yes"/>
+      <point x="455" y="1557"/>
+      <point x="292" y="1212"/>
+      <point x="292" y="749" type="curve" smooth="yes"/>
+      <point x="292" y="676" type="line" smooth="yes"/>
+      <point x="292" y="218"/>
+      <point x="464" y="-21"/>
+      <point x="776" y="-21" type="curve" smooth="yes"/>
+      <point x="1079" y="-21"/>
+      <point x="1259" y="178"/>
+      <point x="1259" y="478" type="curve" smooth="yes"/>
+      <point x="1259" y="778"/>
+      <point x="1074" y="942"/>
+    </contour>
+    <contour>
+      <point x="784" y="790" type="curve" smooth="yes"/>
+      <point x="980" y="790"/>
+      <point x="1074" y="678"/>
+      <point x="1074" y="478" type="curve" smooth="yes"/>
+      <point x="1074" y="277"/>
+      <point x="980" y="131"/>
+      <point x="776" y="131" type="curve" smooth="yes"/>
+      <point x="570" y="131"/>
+      <point x="486" y="278"/>
+      <point x="486" y="478" type="curve" smooth="yes"/>
+      <point x="486" y="678"/>
+      <point x="624" y="790"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1557</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

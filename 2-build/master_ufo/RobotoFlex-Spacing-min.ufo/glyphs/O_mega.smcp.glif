@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega.smcp" format="1">
+  <advance width="1147"/>
+  <outline>
+    <contour>
+      <point x="902" y="616" type="line"/>
+      <point x="902" y="343"/>
+      <point x="821" y="200"/>
+      <point x="640" y="158" type="curve"/>
+      <point x="640" y="35" type="line"/>
+      <point x="926" y="71"/>
+      <point x="1087" y="294"/>
+      <point x="1087" y="616" type="curve" smooth="yes"/>
+      <point x="1087" y="652" type="line" smooth="yes"/>
+      <point x="1087" y="950"/>
+      <point x="901" y="1181"/>
+      <point x="572" y="1181" type="curve" smooth="yes"/>
+      <point x="243" y="1181"/>
+      <point x="58" y="950"/>
+      <point x="58" y="652" type="curve" smooth="yes"/>
+      <point x="58" y="616" type="line" smooth="yes"/>
+      <point x="58" y="293"/>
+      <point x="222" y="69"/>
+      <point x="511" y="35" type="curve"/>
+      <point x="511" y="158" type="line"/>
+      <point x="343" y="201"/>
+      <point x="243" y="344"/>
+      <point x="243" y="616" type="curve" smooth="yes"/>
+      <point x="243" y="654" type="line" smooth="yes"/>
+      <point x="243" y="872"/>
+      <point x="345" y="1025"/>
+      <point x="572" y="1025" type="curve" smooth="yes"/>
+      <point x="800" y="1025"/>
+      <point x="902" y="872"/>
+      <point x="902" y="654" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="640" y="0" type="line"/>
+      <point x="1090" y="0" type="line"/>
+      <point x="1090" y="152" type="line"/>
+      <point x="640" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="511" y="152" type="line"/>
+      <point x="62" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="1162" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="577" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

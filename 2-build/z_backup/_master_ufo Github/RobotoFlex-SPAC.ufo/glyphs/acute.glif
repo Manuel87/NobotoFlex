@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="391"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="66" y="1270" type="line"/>
+      <point x="126" y="1270" type="line"/>
+      <point x="321" y="1536" type="line"/>
+      <point x="255" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="1543" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="106" y="1293" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

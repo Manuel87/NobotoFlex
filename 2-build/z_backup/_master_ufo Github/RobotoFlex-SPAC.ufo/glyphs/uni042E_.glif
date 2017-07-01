@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042E" format="1">
+  <advance width="1776"/>
+  <unicode hex="042E"/>
+  <outline>
+    <component base="I"/>
+    <component base="hyphen" xOffset="215" yOffset="94" xScale="0.8"/>
+    <component base="O" xOffset="484"/>
+    <contour>
+      <point x="856" y="1600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1836" y="1600" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

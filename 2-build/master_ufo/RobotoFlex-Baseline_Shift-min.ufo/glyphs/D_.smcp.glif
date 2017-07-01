@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.smcp" format="1">
+  <advance width="1156"/>
+  <outline>
+    <contour>
+      <point x="477" y="-500" type="line"/>
+      <point x="835" y="-500"/>
+      <point x="1055" y="-289"/>
+      <point x="1055" y="61" type="curve"/>
+      <point x="1055" y="102" type="line"/>
+      <point x="1055" y="452"/>
+      <point x="831" y="665"/>
+      <point x="495" y="665" type="curve"/>
+      <point x="219" y="665" type="line"/>
+      <point x="219" y="506" type="line"/>
+      <point x="495" y="506" type="line"/>
+      <point x="737" y="506"/>
+      <point x="864" y="369"/>
+      <point x="864" y="103" type="curve"/>
+      <point x="864" y="61" type="line" smooth="yes"/>
+      <point x="864" y="-187"/>
+      <point x="743" y="-342"/>
+      <point x="477" y="-342" type="curve"/>
+      <point x="226" y="-342" type="line"/>
+      <point x="224" y="-500" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="665" type="line"/>
+      <point x="139" y="665" type="line"/>
+      <point x="139" y="-500" type="line"/>
+      <point x="332" y="-500" type="line"/>
+    </contour>
+    <contour>
+      <point x="1156" y="820" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1156" y="1100" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="239" y="90" type="move" name="cross"/>
+    </contour>
+    <contour>
+      <point x="527" y="820" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1156" y="-907" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="530" y="-490" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

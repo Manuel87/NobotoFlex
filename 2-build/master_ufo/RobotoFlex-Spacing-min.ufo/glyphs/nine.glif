@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="1031"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="245" y="156" type="line"/>
+      <point x="245" y="-2" type="line"/>
+      <point x="264" y="-2" type="line"/>
+      <point x="868" y="-2"/>
+      <point x="956" y="443"/>
+      <point x="956" y="820" type="curve"/>
+      <point x="956" y="887" type="line"/>
+      <point x="956" y="1182"/>
+      <point x="825" y="1476"/>
+      <point x="492" y="1476" type="curve" smooth="yes"/>
+      <point x="195" y="1476"/>
+      <point x="40" y="1250"/>
+      <point x="40" y="973" type="curve"/>
+      <point x="40" y="736"/>
+      <point x="168" y="487"/>
+      <point x="456" y="487" type="curve"/>
+      <point x="701" y="487"/>
+      <point x="885" y="721"/>
+      <point x="885" y="942" type="curve"/>
+      <point x="798" y="943" type="line"/>
+      <point x="787" y="785"/>
+      <point x="650" y="641"/>
+      <point x="485" y="641" type="curve"/>
+      <point x="307" y="641"/>
+      <point x="222" y="811"/>
+      <point x="222" y="983" type="curve"/>
+      <point x="222" y="1176"/>
+      <point x="320" y="1322"/>
+      <point x="492" y="1322" type="curve" smooth="yes"/>
+      <point x="640" y="1322"/>
+      <point x="772" y="1177"/>
+      <point x="772" y="912" type="curve" smooth="yes"/>
+      <point x="772" y="688" type="line" smooth="yes"/>
+      <point x="772" y="421"/>
+      <point x="691" y="156"/>
+      <point x="264" y="156" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

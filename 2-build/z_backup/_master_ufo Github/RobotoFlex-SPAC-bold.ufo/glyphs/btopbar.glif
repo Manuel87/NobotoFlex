@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="btopbar" format="1">
+  <advance width="1033"/>
+  <unicode hex="0183"/>
+  <outline>
+    <contour>
+      <point x="845" y="1536" type="line" name="hr00"/>
+      <point x="164" y="1536" type="line"/>
+      <point x="164" y="1345" type="line"/>
+      <point x="845" y="1345" type="line"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

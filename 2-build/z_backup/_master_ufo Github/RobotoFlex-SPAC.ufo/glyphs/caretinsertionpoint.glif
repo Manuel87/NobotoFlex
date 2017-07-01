@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caretinsertionpoint" format="1">
+  <advance width="862"/>
+  <unicode hex="2041"/>
+  <outline>
+    <contour>
+      <point x="778" y="555" type="line"/>
+      <point x="731" y="580" type="line"/>
+      <point x="110" y="-413" type="line"/>
+      <point x="157" y="-438" type="line"/>
+    </contour>
+    <contour>
+      <point x="705" y="-438" type="line"/>
+      <point x="749" y="-409" type="line"/>
+      <point x="453" y="64" type="line"/>
+      <point x="416" y="23" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

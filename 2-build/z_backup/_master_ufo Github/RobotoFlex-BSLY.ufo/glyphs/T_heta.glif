@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="1">
+  <advance width="1364"/>
+  <unicode hex="0398"/>
+  <outline>
+    <contour>
+      <point x="971" y="844" type="line"/>
+      <point x="380" y="844" type="line"/>
+      <point x="380" y="791" type="line"/>
+      <point x="971" y="791" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

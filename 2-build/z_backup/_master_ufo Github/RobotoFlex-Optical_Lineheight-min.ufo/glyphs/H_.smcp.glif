@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H.smcp" format="1">
+  <advance width="1197"/>
+  <outline>
+    <contour>
+      <point x="997" y="569" type="line"/>
+      <point x="196" y="569" type="line"/>
+      <point x="196" y="515" type="line"/>
+      <point x="997" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="1105" type="line"/>
+      <point x="164" y="1105" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1032" y="1105" type="line"/>
+      <point x="978" y="1105" type="line"/>
+      <point x="978" y="0" type="line"/>
+      <point x="1032" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1197" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="594" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1197" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1197" y="1260" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="594" y="1260" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1032" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="57" y="1106" type="move" name="tonos"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-29 17:19:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

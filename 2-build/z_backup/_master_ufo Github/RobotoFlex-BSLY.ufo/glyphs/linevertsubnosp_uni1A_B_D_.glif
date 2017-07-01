@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="linevertsubnosp_uni1ABD" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-867" y="-388" type="curve"/>
+      <point x="-863" y="-355" type="line"/>
+      <point x="-941" y="-329"/>
+      <point x="-1002" y="-260"/>
+      <point x="-1002" y="-173" type="curve" smooth="yes"/>
+      <point x="-1002" y="-90"/>
+      <point x="-947" y="-21"/>
+      <point x="-863" y="6" type="curve"/>
+      <point x="-867" y="38" type="line"/>
+      <point x="-968" y="6"/>
+      <point x="-1042" y="-79"/>
+      <point x="-1042" y="-173" type="curve" smooth="yes"/>
+      <point x="-1042" y="-276"/>
+      <point x="-968" y="-356"/>
+    </contour>
+    <contour>
+      <point x="-248" y="-388" type="line"/>
+      <point x="-147" y="-356"/>
+      <point x="-73" y="-276"/>
+      <point x="-73" y="-173" type="curve" smooth="yes"/>
+      <point x="-73" y="-79"/>
+      <point x="-147" y="6"/>
+      <point x="-248" y="38" type="curve"/>
+      <point x="-252" y="6" type="line"/>
+      <point x="-168" y="-21"/>
+      <point x="-113" y="-90"/>
+      <point x="-113" y="-173" type="curve" smooth="yes"/>
+      <point x="-113" y="-260"/>
+      <point x="-174" y="-329"/>
+      <point x="-252" y="-355" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-539" y="19" type="line"/>
+      <point x="-592" y="19" type="line"/>
+      <point x="-592" y="-389" type="line"/>
+      <point x="-539" y="-389" type="line"/>
+    </contour>
+    <contour>
+      <point x="-565" y="-389" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-565" y="100" type="move" name="_markbottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

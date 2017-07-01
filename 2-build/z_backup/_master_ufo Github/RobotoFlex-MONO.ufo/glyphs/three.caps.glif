@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.caps" format="1">
+  <advance width="1229"/>
+  <outline>
+    <contour>
+      <point x="471" y="770" type="line"/>
+      <point x="471" y="720" type="line"/>
+      <point x="586" y="720" type="line"/>
+      <point x="853" y="720"/>
+      <point x="1029" y="881"/>
+      <point x="1029" y="1081" type="curve"/>
+      <point x="1029" y="1326"/>
+      <point x="868" y="1476"/>
+      <point x="618" y="1476" type="curve" smooth="yes"/>
+      <point x="384" y="1476"/>
+      <point x="188" y="1323"/>
+      <point x="188" y="1074" type="curve"/>
+      <point x="242" y="1074" type="line"/>
+      <point x="242" y="1290"/>
+      <point x="408" y="1422"/>
+      <point x="618" y="1422" type="curve" smooth="yes"/>
+      <point x="866" y="1422"/>
+      <point x="975" y="1268"/>
+      <point x="975" y="1085" type="curve"/>
+      <point x="975" y="917"/>
+      <point x="837" y="770"/>
+      <point x="582" y="770" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="471" y="714" type="line"/>
+      <point x="582" y="714" type="line" smooth="yes"/>
+      <point x="830" y="714"/>
+      <point x="1007" y="620"/>
+      <point x="1007" y="382" type="curve" smooth="yes"/>
+      <point x="1007" y="165"/>
+      <point x="869" y="34"/>
+      <point x="627" y="34" type="curve" smooth="yes"/>
+      <point x="390" y="34"/>
+      <point x="211" y="189"/>
+      <point x="211" y="405" type="curve"/>
+      <point x="157" y="405" type="line"/>
+      <point x="157" y="111"/>
+      <point x="408" y="-20"/>
+      <point x="627" y="-20" type="curve" smooth="yes"/>
+      <point x="878" y="-20"/>
+      <point x="1061" y="128"/>
+      <point x="1061" y="386" type="curve" smooth="yes"/>
+      <point x="1061" y="629"/>
+      <point x="878" y="763"/>
+      <point x="586" y="763" type="curve" smooth="yes"/>
+      <point x="471" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1658</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

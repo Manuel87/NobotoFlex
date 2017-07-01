@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1020"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="280" y="1082" type="line"/>
+      <point x="95" y="1082" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="992" y="1082" type="line"/>
+      <point x="768" y="1082" type="line"/>
+      <point x="372" y="625" type="line"/>
+      <point x="190" y="625" type="line"/>
+      <point x="218" y="462" type="line"/>
+      <point x="456" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="794" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="481" y="624" type="line"/>
+      <point x="363" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="530" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1080" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

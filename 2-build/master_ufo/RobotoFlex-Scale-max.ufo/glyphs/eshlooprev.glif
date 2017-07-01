@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eshlooprev" format="1">
+  <advance width="2118"/>
+  <unicode hex="01AA"/>
+  <outline>
+    <contour>
+      <point x="1080" y="2072" type="line"/>
+      <point x="1080" y="-58" type="line" smooth="yes"/>
+      <point x="1080" y="-574"/>
+      <point x="1340" y="-854"/>
+      <point x="1796" y="-854" type="curve" smooth="yes"/>
+      <point x="1890" y="-854"/>
+      <point x="1984" y="-844"/>
+      <point x="2076" y="-820" type="curve"/>
+      <point x="2076" y="-374" type="line"/>
+      <point x="2020" y="-384"/>
+      <point x="1966" y="-390"/>
+      <point x="1910" y="-390" type="curve" smooth="yes"/>
+      <point x="1734" y="-390"/>
+      <point x="1638" y="-290"/>
+      <point x="1638" y="-58" type="curve" smooth="yes"/>
+      <point x="1638" y="2354" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="2354" type="curve" smooth="yes"/>
+      <point x="66" y="1916"/>
+      <point x="416" y="1562"/>
+      <point x="850" y="1562" type="curve" smooth="yes"/>
+      <point x="1282" y="1562"/>
+      <point x="1638" y="1916"/>
+      <point x="1638" y="2354" type="curve" smooth="yes"/>
+      <point x="1638" y="2790"/>
+      <point x="1282" y="3148"/>
+      <point x="850" y="3148" type="curve" smooth="yes"/>
+      <point x="416" y="3148"/>
+      <point x="66" y="2790"/>
+    </contour>
+    <contour>
+      <point x="852" y="2050" type="curve" smooth="yes"/>
+      <point x="686" y="2050"/>
+      <point x="556" y="2154"/>
+      <point x="556" y="2358" type="curve" smooth="yes"/>
+      <point x="556" y="2560"/>
+      <point x="686" y="2666"/>
+      <point x="852" y="2666" type="curve" smooth="yes"/>
+      <point x="1014" y="2666"/>
+      <point x="1142" y="2560"/>
+      <point x="1142" y="2358" type="curve" smooth="yes"/>
+      <point x="1142" y="2154"/>
+      <point x="1014" y="2050"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1315</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>456</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

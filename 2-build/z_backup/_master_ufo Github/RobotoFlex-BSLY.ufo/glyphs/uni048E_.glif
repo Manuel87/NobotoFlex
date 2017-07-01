@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni048E" format="1">
+  <advance width="1281"/>
+  <unicode hex="048E"/>
+  <outline>
+    <contour>
+      <point x="784" y="994" type="line"/>
+      <point x="743" y="959" type="line"/>
+      <point x="1044" y="606" type="line"/>
+      <point x="1085" y="641" type="line"/>
+    </contour>
+    <component base="P" xOffset="-7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

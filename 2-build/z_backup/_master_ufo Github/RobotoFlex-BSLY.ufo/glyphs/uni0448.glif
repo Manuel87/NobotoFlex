@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0448" format="1">
+  <advance width="1594"/>
+  <unicode hex="0448"/>
+  <outline>
+    <contour>
+      <point x="172" y="1182" type="line"/>
+      <point x="172" y="100" type="line"/>
+      <point x="1460" y="100" type="line"/>
+      <point x="1460" y="1182" type="line"/>
+      <point x="1406" y="1182" type="line"/>
+      <point x="1406" y="154" type="line"/>
+      <point x="848" y="154" type="line"/>
+      <point x="848" y="1182" type="line"/>
+      <point x="793" y="1182" type="line"/>
+      <point x="793" y="154" type="line"/>
+      <point x="226" y="154" type="line"/>
+      <point x="226" y="1182" type="line"/>
+    </contour>
+    <contour>
+      <point x="827" y="1369" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1594" y="1369" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

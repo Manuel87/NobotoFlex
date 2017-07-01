@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="digamma" format="1">
+  <advance width="898"/>
+  <unicode hex="03DD"/>
+  <outline>
+    <contour>
+      <point x="166" y="1082" type="line"/>
+      <point x="112" y="1082" type="line"/>
+      <point x="112" y="-416" type="line"/>
+      <point x="166" y="-416" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="540" type="line"/>
+      <point x="132" y="540" type="line"/>
+      <point x="132" y="485" type="line"/>
+      <point x="792" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="1082" type="line"/>
+      <point x="132" y="1082" type="line"/>
+      <point x="132" y="1028" type="line"/>
+      <point x="879" y="1028" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="224" type="line"/>
+      <point x="792" y="540" type="line"/>
+      <point x="738" y="540" type="line"/>
+      <point x="738" y="224" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

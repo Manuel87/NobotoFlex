@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D4C" format="1">
+  <advance width="741"/>
+  <unicode hex="1D4C"/>
+  <outline>
+    <contour>
+      <point x="0" y="888" type="line"/>
+      <point x="0" y="713"/>
+      <point x="182" y="636"/>
+      <point x="356" y="636" type="curve" smooth="yes"/>
+      <point x="573" y="636"/>
+      <point x="741" y="726"/>
+      <point x="741" y="877" type="curve" smooth="yes"/>
+      <point x="741" y="1011"/>
+      <point x="620" y="1086"/>
+      <point x="422" y="1086" type="curve" smooth="yes"/>
+      <point x="234" y="1086" type="line"/>
+      <point x="234" y="984" type="line"/>
+      <point x="367" y="984" type="line" smooth="yes"/>
+      <point x="458" y="984"/>
+      <point x="518" y="962"/>
+      <point x="518" y="899" type="curve" smooth="yes"/>
+      <point x="518" y="857"/>
+      <point x="476" y="814"/>
+      <point x="372" y="814" type="curve" smooth="yes"/>
+      <point x="262" y="814"/>
+      <point x="218" y="847"/>
+      <point x="218" y="888" type="curve"/>
+    </contour>
+    <contour>
+      <point x="230" y="1219" type="line"/>
+      <point x="230" y="1266"/>
+      <point x="285" y="1288"/>
+      <point x="371" y="1288" type="curve" smooth="yes"/>
+      <point x="468" y="1288"/>
+      <point x="504" y="1247"/>
+      <point x="504" y="1209" type="curve" smooth="yes"/>
+      <point x="504" y="1164"/>
+      <point x="457" y="1137"/>
+      <point x="367" y="1137" type="curve" smooth="yes"/>
+      <point x="234" y="1137" type="line"/>
+      <point x="234" y="1033" type="line"/>
+      <point x="422" y="1033" type="line" smooth="yes"/>
+      <point x="601" y="1033"/>
+      <point x="727" y="1123"/>
+      <point x="727" y="1232" type="curve" smooth="yes"/>
+      <point x="727" y="1384"/>
+      <point x="573" y="1466"/>
+      <point x="356" y="1466" type="curve" smooth="yes"/>
+      <point x="168" y="1466"/>
+      <point x="12" y="1375"/>
+      <point x="12" y="1219" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

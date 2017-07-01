@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis.caps" format="1">
+  <advance width="1215"/>
+  <outline>
+    <component base="U.caps"/>
+    <component base="dieresis.case" xOffset="233" yOffset="319"/>
+  </outline>
+</glyph>

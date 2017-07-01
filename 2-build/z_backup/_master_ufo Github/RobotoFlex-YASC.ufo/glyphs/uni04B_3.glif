@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B3" format="1">
+  <advance width="978"/>
+  <unicode hex="04B3"/>
+  <outline>
+    <component base="x"/>
+    <component base="cyrillictic" xOffset="305" yOffset="-60"/>
+    <contour>
+      <point x="978" y="1280" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="978" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="978" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

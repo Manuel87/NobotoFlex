@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="1">
+  <advance width="1169"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="120" y="0" type="line"/>
+      <point x="1057" y="0" type="line"/>
+      <point x="1057" y="158" type="line"/>
+      <point x="120" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="674" type="line"/>
+      <point x="961" y="674" type="line"/>
+      <point x="961" y="832" type="line"/>
+      <point x="207" y="832" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="1298" type="line"/>
+      <point x="1041" y="1298" type="line"/>
+      <point x="1041" y="1456" type="line"/>
+      <point x="124" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:38 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

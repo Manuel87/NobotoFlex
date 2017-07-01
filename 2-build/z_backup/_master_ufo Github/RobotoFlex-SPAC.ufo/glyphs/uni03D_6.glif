@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03D6" format="1">
+  <advance width="1492"/>
+  <unicode hex="03D6"/>
+  <outline>
+    <contour>
+      <point x="1524" y="1083" type="line"/>
+      <point x="-21" y="1083" type="line"/>
+      <point x="-21" y="1028" type="line"/>
+      <point x="1524" y="1028" type="line"/>
+    </contour>
+    <contour>
+      <point x="1235" y="1082" type="line"/>
+      <point x="1320" y="920"/>
+      <point x="1387" y="727"/>
+      <point x="1387" y="500" type="curve"/>
+      <point x="1387" y="264"/>
+      <point x="1293" y="34"/>
+      <point x="1073" y="34" type="curve" smooth="yes"/>
+      <point x="900" y="34"/>
+      <point x="773" y="162"/>
+      <point x="773" y="485" type="curve"/>
+      <point x="773" y="772" type="line"/>
+      <point x="718" y="772" type="line"/>
+      <point x="718" y="487" type="line"/>
+      <point x="718" y="127"/>
+      <point x="863" y="-20"/>
+      <point x="1075" y="-20" type="curve" smooth="yes"/>
+      <point x="1312" y="-20"/>
+      <point x="1440" y="200"/>
+      <point x="1440" y="503" type="curve"/>
+      <point x="1440" y="784"/>
+      <point x="1367" y="940"/>
+      <point x="1302" y="1082" type="curve"/>
+    </contour>
+    <contour>
+      <point x="191" y="1082" type="line"/>
+      <point x="126" y="940"/>
+      <point x="52" y="784"/>
+      <point x="52" y="503" type="curve"/>
+      <point x="52" y="200"/>
+      <point x="181" y="-20"/>
+      <point x="417" y="-20" type="curve" smooth="yes"/>
+      <point x="629" y="-20"/>
+      <point x="774" y="127"/>
+      <point x="774" y="487" type="curve"/>
+      <point x="774" y="772" type="line"/>
+      <point x="718" y="772" type="line"/>
+      <point x="718" y="485" type="line"/>
+      <point x="718" y="162"/>
+      <point x="593" y="34"/>
+      <point x="419" y="34" type="curve" smooth="yes"/>
+      <point x="199" y="34"/>
+      <point x="105" y="264"/>
+      <point x="105" y="500" type="curve"/>
+      <point x="105" y="727"/>
+      <point x="173" y="920"/>
+      <point x="257" y="1082" type="curve"/>
+    </contour>
+    <contour>
+      <point x="752" y="1269" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1552" y="1269" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

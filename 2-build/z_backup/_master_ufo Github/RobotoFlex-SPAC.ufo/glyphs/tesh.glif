@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tesh" format="1">
+  <advance width="968"/>
+  <unicode hex="02A7"/>
+  <outline>
+    <contour>
+      <point x="616" y="1082" type="line"/>
+      <point x="-22" y="1082" type="line"/>
+      <point x="-22" y="1027" type="line"/>
+      <point x="616" y="1027" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="1374" type="line"/>
+      <point x="178" y="279" type="line" smooth="yes"/>
+      <point x="178" y="49"/>
+      <point x="245" y="-21"/>
+      <point x="423" y="-21" type="curve" smooth="yes"/>
+      <point x="479" y="-21"/>
+      <point x="546" y="-13"/>
+      <point x="631" y="22" type="curve"/>
+      <point x="621" y="71" type="line"/>
+      <point x="563" y="53"/>
+      <point x="509" y="33"/>
+      <point x="421" y="33" type="curve" smooth="yes"/>
+      <point x="286" y="33"/>
+      <point x="233" y="81"/>
+      <point x="233" y="279" type="curve" smooth="yes"/>
+      <point x="233" y="1374" type="line"/>
+    </contour>
+    <component base="esh" xOffset="260"/>
+    <contour>
+      <point x="420" y="1700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="420" y="-447" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1028" y="1700" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

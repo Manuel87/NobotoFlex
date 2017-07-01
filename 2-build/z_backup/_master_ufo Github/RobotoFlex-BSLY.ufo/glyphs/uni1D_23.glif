@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D23" format="1">
+  <advance width="994"/>
+  <unicode hex="1D23"/>
+  <outline>
+    <contour>
+      <point x="368" y="732" type="line"/>
+      <point x="368" y="685" type="line"/>
+      <point x="513" y="685" type="line" smooth="yes"/>
+      <point x="748" y="685"/>
+      <point x="865" y="585"/>
+      <point x="865" y="417" type="curve" smooth="yes"/>
+      <point x="865" y="262"/>
+      <point x="746" y="138"/>
+      <point x="516" y="138" type="curve" smooth="yes"/>
+      <point x="316" y="138"/>
+      <point x="164" y="249"/>
+      <point x="164" y="401" type="curve"/>
+      <point x="109" y="401" type="line"/>
+      <point x="109" y="183"/>
+      <point x="326" y="83"/>
+      <point x="516" y="83" type="curve" smooth="yes"/>
+      <point x="756" y="83"/>
+      <point x="920" y="226"/>
+      <point x="920" y="420" type="curve" smooth="yes"/>
+      <point x="920" y="601"/>
+      <point x="793" y="732"/>
+      <point x="517" y="732" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="133" y="1182" type="line"/>
+      <point x="133" y="1127" type="line"/>
+      <point x="808" y="1127" type="line"/>
+      <point x="368" y="732" type="line"/>
+      <point x="368" y="715" type="line"/>
+      <point x="426" y="715" type="line"/>
+      <point x="872" y="1114" type="line"/>
+      <point x="872" y="1182" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="1390" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="514" y="100" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="994" y="1390" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

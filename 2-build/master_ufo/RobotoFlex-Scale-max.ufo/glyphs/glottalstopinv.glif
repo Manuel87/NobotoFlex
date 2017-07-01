@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstopinv" format="1">
+  <advance width="2140"/>
+  <unicode hex="0296"/>
+  <outline>
+    <contour>
+      <point x="1012" y="1954" type="line"/>
+      <point x="1370" y="1954"/>
+      <point x="1444" y="1652"/>
+      <point x="1444" y="1318" type="curve" smooth="yes"/>
+      <point x="1444" y="1054" type="line" smooth="yes"/>
+      <point x="1444" y="726"/>
+      <point x="1366" y="416"/>
+      <point x="1016" y="416" type="curve" smooth="yes"/>
+      <point x="772" y="416"/>
+      <point x="640" y="590"/>
+      <point x="632" y="802" type="curve"/>
+      <point x="110" y="802" type="line"/>
+      <point x="118" y="286"/>
+      <point x="476" y="-40"/>
+      <point x="1006" y="-40" type="curve" smooth="yes"/>
+      <point x="1672" y="-40"/>
+      <point x="2000" y="444"/>
+      <point x="2000" y="1054" type="curve" smooth="yes"/>
+      <point x="2000" y="1318" type="line" smooth="yes"/>
+      <point x="2000" y="1928"/>
+      <point x="1674" y="2410"/>
+      <point x="1004" y="2410" type="curve" smooth="yes"/>
+      <point x="830" y="2410" type="line"/>
+      <point x="830" y="1954" type="line"/>
+    </contour>
+    <contour>
+      <point x="1304" y="3072" type="line"/>
+      <point x="748" y="3072" type="line"/>
+      <point x="748" y="1952" type="line"/>
+      <point x="1304" y="1952" type="line"/>
+    </contour>
+    <contour>
+      <point x="1026" y="3266" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1026" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2140" y="3266" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>-20</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1535</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

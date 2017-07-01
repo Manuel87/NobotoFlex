@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.smcp" format="1">
+  <advance width="987"/>
+  <outline>
+    <contour>
+      <point x="877" y="649" type="line"/>
+      <point x="877" y="946"/>
+      <point x="740" y="1120"/>
+      <point x="492" y="1120" type="curve" smooth="yes"/>
+      <point x="246" y="1120"/>
+      <point x="109" y="946"/>
+      <point x="109" y="649" type="curve"/>
+      <point x="109" y="456" type="line"/>
+      <point x="109" y="159"/>
+      <point x="249" y="-15"/>
+      <point x="494" y="-15" type="curve" smooth="yes"/>
+      <point x="743" y="-15"/>
+      <point x="877" y="159"/>
+      <point x="877" y="456" type="curve"/>
+    </contour>
+    <contour>
+      <point x="823" y="454" type="line"/>
+      <point x="823" y="208"/>
+      <point x="717" y="38"/>
+      <point x="494" y="38" type="curve" smooth="yes"/>
+      <point x="272" y="38"/>
+      <point x="163" y="208"/>
+      <point x="163" y="454" type="curve" smooth="yes"/>
+      <point x="163" y="653" type="line" smooth="yes"/>
+      <point x="163" y="902"/>
+      <point x="270" y="1066"/>
+      <point x="492" y="1066" type="curve" smooth="yes"/>
+      <point x="715" y="1066"/>
+      <point x="823" y="902"/>
+      <point x="823" y="653" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-29 17:19:29 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>721</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>444</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

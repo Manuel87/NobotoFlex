@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA672" format="1">
+  <advance width="0"/>
+  <unicode hex="A672"/>
+  <outline>
+    <contour>
+      <point x="-586" y="467" type="line"/>
+      <point x="-832" y="467" type="line"/>
+      <point x="-832" y="417" type="line"/>
+      <point x="-586" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="-586" y="145" type="line"/>
+      <point x="-832" y="145" type="line"/>
+      <point x="-832" y="95" type="line"/>
+      <point x="-586" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="-586" y="306" type="line"/>
+      <point x="-832" y="306" type="line"/>
+      <point x="-832" y="256" type="line"/>
+      <point x="-586" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="467" type="line"/>
+      <point x="12" y="467" type="line"/>
+      <point x="12" y="417" type="line"/>
+      <point x="258" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="145" type="line"/>
+      <point x="12" y="145" type="line"/>
+      <point x="12" y="95" type="line"/>
+      <point x="258" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="306" type="line"/>
+      <point x="12" y="306" type="line"/>
+      <point x="12" y="256" type="line"/>
+      <point x="258" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="-100" y="-238" type="line"/>
+      <point x="-100" y="-42" type="line"/>
+      <point x="-152" y="-42" type="line"/>
+      <point x="-152" y="-238" type="line"/>
+    </contour>
+    <contour>
+      <point x="-424" y="-238" type="line"/>
+      <point x="-424" y="-42" type="line"/>
+      <point x="-475" y="-42" type="line"/>
+      <point x="-475" y="-238" type="line"/>
+    </contour>
+    <contour>
+      <point x="-262" y="-238" type="line"/>
+      <point x="-262" y="-42" type="line"/>
+      <point x="-313" y="-42" type="line"/>
+      <point x="-313" y="-238" type="line"/>
+    </contour>
+    <contour>
+      <point x="-262" y="594" type="line"/>
+      <point x="-262" y="790" type="line"/>
+      <point x="-313" y="790" type="line"/>
+      <point x="-313" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="-189" y="717" type="line"/>
+      <point x="-385" y="717" type="line"/>
+      <point x="-385" y="668" type="line"/>
+      <point x="-189" y="668" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>571</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

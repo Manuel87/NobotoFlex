@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA64E" format="1">
+  <advance width="1554"/>
+  <unicode hex="A64E"/>
+  <outline>
+    <contour>
+      <point x="17" y="804" type="line"/>
+      <point x="474" y="804" type="line"/>
+      <point x="474" y="956" type="line"/>
+      <point x="17" y="956" type="line"/>
+    </contour>
+    <contour>
+      <point x="574" y="363" type="line"/>
+      <point x="574" y="204" type="line"/>
+      <point x="970" y="204" type="line" smooth="yes"/>
+      <point x="1184" y="204"/>
+      <point x="1272" y="83"/>
+      <point x="1272" y="-62" type="curve" smooth="yes"/>
+      <point x="1272" y="-209"/>
+      <point x="1184" y="-342"/>
+      <point x="970" y="-342" type="curve" smooth="yes"/>
+      <point x="619" y="-342" type="line"/>
+      <point x="619" y="956" type="line"/>
+      <point x="427" y="956" type="line"/>
+      <point x="427" y="-500" type="line"/>
+      <point x="970" y="-500" type="line" smooth="yes"/>
+      <point x="1289" y="-500"/>
+      <point x="1464" y="-320"/>
+      <point x="1464" y="-64" type="curve" smooth="yes"/>
+      <point x="1464" y="193"/>
+      <point x="1289" y="363"/>
+      <point x="970" y="363" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:11 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

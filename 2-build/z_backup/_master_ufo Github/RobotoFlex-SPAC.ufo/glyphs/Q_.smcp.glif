@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.smcp" format="1">
+  <advance width="1056"/>
+  <outline>
+    <contour>
+      <point x="710" y="61" type="line"/>
+      <point x="670" y="22" type="line"/>
+      <point x="931" y="-208" type="line"/>
+      <point x="969" y="-171" type="line"/>
+    </contour>
+    <contour>
+      <point x="1001" y="662" type="line"/>
+      <point x="1001" y="973"/>
+      <point x="815" y="1181"/>
+      <point x="526" y="1181" type="curve" smooth="yes"/>
+      <point x="238" y="1181"/>
+      <point x="53" y="973"/>
+      <point x="53" y="662" type="curve"/>
+      <point x="53" y="502" type="line"/>
+      <point x="53" y="191"/>
+      <point x="240" y="-16"/>
+      <point x="527" y="-16" type="curve" smooth="yes"/>
+      <point x="817" y="-16"/>
+      <point x="1001" y="191"/>
+      <point x="1001" y="502" type="curve"/>
+    </contour>
+    <contour>
+      <point x="947" y="502" type="line"/>
+      <point x="947" y="226"/>
+      <point x="794" y="38"/>
+      <point x="527" y="38" type="curve" smooth="yes"/>
+      <point x="263" y="38"/>
+      <point x="108" y="226"/>
+      <point x="108" y="502" type="curve" smooth="yes"/>
+      <point x="108" y="664" type="line" smooth="yes"/>
+      <point x="108" y="938"/>
+      <point x="262" y="1126"/>
+      <point x="526" y="1126" type="curve" smooth="yes"/>
+      <point x="792" y="1126"/>
+      <point x="947" y="938"/>
+      <point x="947" y="664" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1116" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1116" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="526" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1116" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="526" y="-10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

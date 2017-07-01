@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveacutecomb" format="1">
+  <advance width="802"/>
+  <outline>
+    <contour>
+      <point x="559" y="1456" type="line"/>
+      <point x="559" y="1398"/>
+      <point x="517" y="1344"/>
+      <point x="400" y="1344" type="curve" smooth="yes"/>
+      <point x="282" y="1344"/>
+      <point x="240" y="1398"/>
+      <point x="240" y="1456" type="curve"/>
+      <point x="38" y="1456" type="line"/>
+      <point x="38" y="1313"/>
+      <point x="178" y="1214"/>
+      <point x="400" y="1214" type="curve" smooth="yes"/>
+      <point x="622" y="1214"/>
+      <point x="762" y="1313"/>
+      <point x="762" y="1456" type="curve"/>
+    </contour>
+    <contour>
+      <point x="313" y="1451" type="line"/>
+      <point x="480" y="1451" type="line"/>
+      <point x="659" y="1635" type="line"/>
+      <point x="441" y="1635" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="1285" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

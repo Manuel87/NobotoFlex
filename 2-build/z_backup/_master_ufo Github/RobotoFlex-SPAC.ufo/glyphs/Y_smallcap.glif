@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ysmallcap" format="1">
+  <advance width="914"/>
+  <unicode hex="028F"/>
+  <outline>
+    <contour>
+      <point x="473" y="470" type="line"/>
+      <point x="435" y="381" type="line"/>
+      <point x="483" y="381" type="line"/>
+      <point x="942" y="1082" type="line"/>
+      <point x="877" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="1082" type="line"/>
+      <point x="-28" y="1082" type="line"/>
+      <point x="431" y="381" type="line"/>
+      <point x="479" y="381" type="line"/>
+      <point x="440" y="469" type="line"/>
+    </contour>
+    <contour>
+      <point x="483" y="441" type="line"/>
+      <point x="429" y="441" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="483" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="455" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="974" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.779</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

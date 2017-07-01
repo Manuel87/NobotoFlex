@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis.smcp" format="1">
+  <advance width="1538"/>
+  <outline>
+    <component base="O.smcp"/>
+    <component base="dieresis.smcp" xOffset="345" yOffset="528"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

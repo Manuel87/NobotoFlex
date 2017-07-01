@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.alt2" format="1">
+  <advance width="1221"/>
+  <outline>
+    <contour>
+      <point x="311" y="1456" type="line"/>
+      <point x="118" y="1456" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="311" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1174" y="1456" type="line"/>
+      <point x="934" y="1456" type="line"/>
+      <point x="322" y="810" type="line"/>
+      <point x="202" y="810" type="line"/>
+      <point x="212" y="719" type="line"/>
+      <point x="487" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="977" y="0" type="line"/>
+      <point x="1214" y="0" type="line"/>
+      <point x="422" y="846" type="line"/>
+      <point x="261" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.779</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

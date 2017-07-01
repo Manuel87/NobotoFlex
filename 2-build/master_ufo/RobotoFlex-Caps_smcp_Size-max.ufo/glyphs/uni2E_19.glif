@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E19" format="1">
+  <advance width="1305"/>
+  <unicode hex="2E19"/>
+  <outline>
+    <contour>
+      <point x="1028" y="1618" type="line"/>
+      <point x="126" y="58" type="line"/>
+      <point x="255" y="-18" type="line"/>
+      <point x="1157" y="1542" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="822" type="line"/>
+      <point x="240" y="204" type="line"/>
+      <point x="386" y="244" type="line"/>
+      <point x="220" y="862" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="1057" type="line"/>
+      <point x="430" y="532" type="line"/>
+      <point x="575" y="572" type="line"/>
+      <point x="435" y="1097" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="1283" type="line"/>
+      <point x="620" y="861" type="line"/>
+      <point x="766" y="901" type="line"/>
+      <point x="651" y="1323" type="line"/>
+    </contour>
+    <contour>
+      <point x="722" y="1518" type="line"/>
+      <point x="810" y="1191" type="line"/>
+      <point x="956" y="1231" type="line"/>
+      <point x="867" y="1557" type="line"/>
+    </contour>
+    <contour>
+      <point x="906" y="466" type="line"/>
+      <point x="288" y="301" type="line"/>
+      <point x="327" y="153" type="line"/>
+      <point x="945" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="1002" y="770" type="line"/>
+      <point x="478" y="629" type="line"/>
+      <point x="517" y="481" type="line"/>
+      <point x="1041" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="1090" y="1069" type="line"/>
+      <point x="669" y="958" type="line"/>
+      <point x="707" y="810" type="line"/>
+      <point x="1130" y="921" type="line"/>
+    </contour>
+    <contour>
+      <point x="1186" y="1373" type="line"/>
+      <point x="859" y="1288" type="line"/>
+      <point x="898" y="1140" type="line"/>
+      <point x="1225" y="1226" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:55 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

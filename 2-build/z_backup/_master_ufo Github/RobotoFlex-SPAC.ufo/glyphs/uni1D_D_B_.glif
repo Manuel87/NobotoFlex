@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DDB" format="1">
+  <advance width="0"/>
+  <unicode hex="1DDB"/>
+  <outline>
+    <contour>
+      <point x="-608" y="1192" type="curve" smooth="yes"/>
+      <point x="-483" y="1192"/>
+      <point x="-412" y="1248"/>
+      <point x="-391" y="1280" type="curve"/>
+      <point x="-391" y="1485" type="line"/>
+      <point x="-587" y="1485" type="line"/>
+      <point x="-587" y="1445" type="line"/>
+      <point x="-431" y="1445" type="line"/>
+      <point x="-431" y="1298" type="line"/>
+      <point x="-450" y="1268"/>
+      <point x="-498" y="1232"/>
+      <point x="-608" y="1232" type="curve" smooth="yes"/>
+      <point x="-730" y="1232"/>
+      <point x="-813" y="1309"/>
+      <point x="-813" y="1435" type="curve" smooth="yes"/>
+      <point x="-813" y="1560" type="line" smooth="yes"/>
+      <point x="-813" y="1685"/>
+      <point x="-733" y="1762"/>
+      <point x="-615" y="1762" type="curve" smooth="yes"/>
+      <point x="-477" y="1762"/>
+      <point x="-440" y="1711"/>
+      <point x="-429" y="1625" type="curve"/>
+      <point x="-391" y="1633" type="line"/>
+      <point x="-402" y="1743"/>
+      <point x="-471" y="1802"/>
+      <point x="-615" y="1802" type="curve" smooth="yes"/>
+      <point x="-757" y="1802"/>
+      <point x="-853" y="1704"/>
+      <point x="-853" y="1559" type="curve" smooth="yes"/>
+      <point x="-853" y="1435" type="line" smooth="yes"/>
+      <point x="-853" y="1291"/>
+      <point x="-754" y="1192"/>
+    </contour>
+    <contour>
+      <point x="-622" y="1170" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis.caps" format="1">
+  <advance width="1171"/>
+  <outline>
+    <component base="U.caps"/>
+    <component base="dieresis.case" xOffset="148" yOffset="27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

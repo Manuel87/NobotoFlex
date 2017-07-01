@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowdown" format="1">
+  <advance width="604"/>
+  <unicode hex="2193"/>
+  <outline>
+    <contour>
+      <point x="80" y="-43" type="line"/>
+      <point x="332" y="-288" type="line"/>
+      <point x="306" y="-337" type="line"/>
+      <point x="80" y="-120" type="line"/>
+    </contour>
+    <contour>
+      <point x="524" y="-120" type="line"/>
+      <point x="306" y="-337" type="line"/>
+      <point x="280" y="-286" type="line"/>
+      <point x="524" y="-43" type="line"/>
+    </contour>
+    <contour>
+      <point x="276" y="1547" type="line"/>
+      <point x="330" y="1547" type="line"/>
+      <point x="330" y="-283" type="line"/>
+      <point x="276" y="-283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

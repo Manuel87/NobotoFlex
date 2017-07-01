@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.caps" format="1">
+  <advance width="1223"/>
+  <outline>
+    <contour>
+      <point x="105" y="1556" type="line"/>
+      <point x="33" y="1556" type="line"/>
+      <point x="582" y="653" type="line"/>
+      <point x="582" y="100" type="line"/>
+      <point x="636" y="100" type="line"/>
+      <point x="636" y="653" type="line"/>
+      <point x="1185" y="1556" type="line"/>
+      <point x="1119" y="1556" type="line"/>
+      <point x="609" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="1223" y="1700" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="609" y="683" type="move" name="cross"/>
+    </contour>
+    <contour>
+      <point x="612" y="110" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1223" y="-307" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1223" y="1701" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="608" y="1701" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-72" y="1554" type="move" name="tonos"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 06:56:03 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

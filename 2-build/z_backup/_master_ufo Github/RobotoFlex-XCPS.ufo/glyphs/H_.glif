@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1125"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="934" y="776" type="line"/>
+      <point x="186" y="776" type="line"/>
+      <point x="186" y="722" type="line"/>
+      <point x="934" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="1456" type="line"/>
+      <point x="153" y="1456" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="970" y="1456" type="line"/>
+      <point x="916" y="1456" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="970" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1125" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="558" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1125" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1125" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="558" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="91" y="1457" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="970" y="0" type="move" name="right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 11:42:05 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

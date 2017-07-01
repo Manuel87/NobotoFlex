@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA648" format="1">
+  <advance width="1223"/>
+  <unicode hex="A648"/>
+  <outline>
+    <contour>
+      <point x="900" y="1002" type="line"/>
+      <point x="900" y="1056" type="line"/>
+      <point x="313" y="1056" type="line"/>
+      <point x="313" y="1002" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="100" type="line"/>
+      <point x="609" y="954" type="line"/>
+      <point x="1119" y="100" type="line"/>
+      <point x="1185" y="100" type="line"/>
+      <point x="636" y="1003" type="line"/>
+      <point x="636" y="1556" type="line"/>
+      <point x="582" y="1556" type="line"/>
+      <point x="582" y="1003" type="line"/>
+      <point x="33" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrillictic" format="1">
+  <advance width="928"/>
+  <outline>
+    <contour>
+      <point x="738" y="406" type="line"/>
+      <point x="182" y="406" type="line"/>
+      <point x="182" y="-714" type="line"/>
+      <point x="738" y="-714" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="222" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="628" y="0" type="move" name="_left"/>
+    </contour>
+    <contour>
+      <point x="308" y="0" type="move" name="_right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equalsuperior" format="1">
+  <advance width="566"/>
+  <unicode hex="207C"/>
+  <outline>
+    <contour>
+      <point x="546" y="1132" type="line"/>
+      <point x="20" y="1132" type="line"/>
+      <point x="20" y="1078" type="line"/>
+      <point x="546" y="1078" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="875" type="line"/>
+      <point x="20" y="875" type="line"/>
+      <point x="20" y="821" type="line"/>
+      <point x="546" y="821" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA71B" format="1">
+  <advance width="644"/>
+  <unicode hex="A71B"/>
+  <outline>
+    <contour>
+      <point x="346" y="696" type="line"/>
+      <point x="346" y="1402" type="line"/>
+      <point x="292" y="1402" type="line"/>
+      <point x="292" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="1165" type="line"/>
+      <point x="322" y="1466" type="line"/>
+      <point x="296" y="1415" type="line"/>
+      <point x="624" y="1088" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="1089" type="line"/>
+      <point x="348" y="1417" type="line"/>
+      <point x="322" y="1466" type="line"/>
+      <point x="20" y="1165" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

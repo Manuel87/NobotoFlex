@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D0B" format="1">
+  <advance width="1017"/>
+  <unicode hex="1D0B"/>
+  <outline>
+    <contour>
+      <point x="227" y="1182" type="line"/>
+      <point x="172" y="1182" type="line"/>
+      <point x="172" y="100" type="line"/>
+      <point x="227" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="942" y="1182" type="line"/>
+      <point x="864" y="1182" type="line"/>
+      <point x="435" y="682" type="line"/>
+      <point x="208" y="682" type="line"/>
+      <point x="205" y="629" type="line"/>
+      <point x="462" y="629" type="line"/>
+    </contour>
+    <contour>
+      <point x="924" y="100" type="line"/>
+      <point x="1005" y="100" type="line"/>
+      <point x="453" y="684" type="line"/>
+      <point x="421" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="1390" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="472" y="100" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1017" y="1390" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

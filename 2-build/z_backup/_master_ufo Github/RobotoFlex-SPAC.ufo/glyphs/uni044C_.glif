@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044C" format="1">
+  <advance width="960"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="140" y="670" type="line"/>
+      <point x="140" y="616" type="line"/>
+      <point x="520" y="616" type="line"/>
+      <point x="756" y="616"/>
+      <point x="853" y="479"/>
+      <point x="853" y="337" type="curve"/>
+      <point x="853" y="189"/>
+      <point x="756" y="54"/>
+      <point x="520" y="54" type="curve"/>
+      <point x="175" y="54" type="line"/>
+      <point x="175" y="1082" type="line"/>
+      <point x="121" y="1082" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="770" y="0"/>
+      <point x="907" y="141"/>
+      <point x="907" y="335" type="curve"/>
+      <point x="907" y="527"/>
+      <point x="770" y="670"/>
+      <point x="520" y="670" type="curve"/>
+    </contour>
+    <contour>
+      <point x="230" y="889" type="move" name="cross"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

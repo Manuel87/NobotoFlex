@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043C" format="1">
+  <advance width="1519"/>
+  <unicode hex="043C"/>
+  <outline>
+    <contour>
+      <point x="763" y="247" type="line"/>
+      <point x="397" y="1082" type="line"/>
+      <point x="219" y="1082" type="line"/>
+      <point x="699" y="0" type="line"/>
+      <point x="827" y="0" type="line"/>
+      <point x="1309" y="1082" type="line"/>
+      <point x="1131" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="1082" type="line"/>
+      <point x="158" y="1082" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1177" y="0" type="line"/>
+      <point x="1362" y="0" type="line"/>
+      <point x="1362" y="1082" type="line"/>
+      <point x="1177" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="1362" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="751" y="1269" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1519" y="1269" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA756.cn" format="1">
+  <advance width="1244"/>
+  <outline>
+    <contour>
+      <point x="834" y="63" type="line"/>
+      <point x="793" y="25" type="line"/>
+      <point x="1092" y="-263" type="line"/>
+      <point x="1131" y="-228" type="line"/>
+    </contour>
+    <contour>
+      <point x="1269" y="188" type="line"/>
+      <point x="815" y="-266" type="line"/>
+      <point x="853" y="-304" type="line"/>
+      <point x="1307" y="150" type="line"/>
+    </contour>
+    <component base="O.cn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

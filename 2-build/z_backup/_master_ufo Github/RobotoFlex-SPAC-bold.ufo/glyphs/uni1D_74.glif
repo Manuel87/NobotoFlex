@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D74" format="1">
+  <advance width="1027"/>
+  <unicode hex="1D74"/>
+  <outline>
+    <contour>
+      <point x="877" y="695" type="line"/>
+      <point x="877" y="634"/>
+      <point x="840" y="585"/>
+      <point x="768" y="585" type="curve" smooth="yes"/>
+      <point x="719" y="585"/>
+      <point x="626" y="603"/>
+      <point x="529" y="622" type="curve" smooth="yes"/>
+      <point x="416" y="644"/>
+      <point x="297" y="668"/>
+      <point x="234" y="668" type="curve" smooth="yes"/>
+      <point x="86" y="668"/>
+      <point x="-20" y="557"/>
+      <point x="-20" y="435" type="curve"/>
+      <point x="151" y="385" type="line"/>
+      <point x="151" y="446"/>
+      <point x="186" y="495"/>
+      <point x="259" y="495" type="curve" smooth="yes"/>
+      <point x="312" y="495"/>
+      <point x="404" y="476"/>
+      <point x="501" y="456" type="curve" smooth="yes"/>
+      <point x="608" y="434"/>
+      <point x="721" y="411"/>
+      <point x="795" y="411" type="curve" smooth="yes"/>
+      <point x="950" y="411"/>
+      <point x="1047" y="520"/>
+      <point x="1047" y="644" type="curve"/>
+    </contour>
+    <component base="s" xOffset="59"/>
+    <contour>
+      <point x="524" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="524" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1087" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

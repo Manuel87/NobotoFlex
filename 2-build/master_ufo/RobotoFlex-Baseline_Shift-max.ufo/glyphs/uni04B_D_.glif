@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BD" format="1">
+  <advance width="1214"/>
+  <unicode hex="04BD"/>
+  <outline>
+    <contour>
+      <point x="-34" y="1357" type="line"/>
+      <point x="-34" y="1140"/>
+      <point x="87" y="1006"/>
+      <point x="322" y="1006" type="curve"/>
+      <point x="322" y="1141" type="line"/>
+      <point x="177" y="1141"/>
+      <point x="114" y="1227"/>
+      <point x="114" y="1357" type="curve"/>
+    </contour>
+    <component base="e" xOffset="112"/>
+    <contour>
+      <point x="707" y="497" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.smcp" format="1">
+  <advance width="1170"/>
+  <outline>
+    <contour>
+      <point x="588" y="322" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="763" y="0" type="line"/>
+      <point x="1178" y="1165" type="line"/>
+      <point x="841" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="1165" type="line"/>
+      <point x="-9" y="1165" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="639" y="0" type="line"/>
+      <point x="577" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="1170" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1170" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="582" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1170" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="582" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

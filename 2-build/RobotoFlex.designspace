@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="100" maximum="200" minimum="50" name="Scale" tag="SCAL">
+            <labelname xml:lang="en">Scale (alpha)</labelname>
+        </axis>
+        <axis default="500" maximum="1000" minimum="0" name="Baseline_Shift" tag="BASE">
+            <labelname xml:lang="en">Baseline Shift (alpha)</labelname>
+        </axis>
+        <axis default="100" maximum="200" minimum="0" name="Spacing" tag="SPAC">
+            <labelname xml:lang="en">Spacing</labelname>
+        </axis>
+        <axis default="185" maximum="322" minimum="54" name="Weight" tag="wght">
+            <labelname xml:lang="en">Weight</labelname>
+        </axis>
+        <axis default="456" maximum="456" minimum="165" name="Height" tag="HEIG">
+            <labelname xml:lang="en">Height</labelname>
+        </axis>
+        <axis default="20" maximum="100" minimum="0" name="Optical_Lineheight" tag="OPTI">
+            <labelname xml:lang="en">Optical Lineheight</labelname>
+        </axis>
+        <axis default="400" maximum="656" minimum="165" name="Caps_Size" tag="CAPS">
+            <labelname xml:lang="en">&gt; Caps, many</labelname>
+        </axis>
+        <axis default="455" maximum="656" minimum="165" name="Caps_Initial_Size" tag="CAPA">
+            <labelname xml:lang="en">&gt; Caps, single</labelname>
+        </axis>
+        <axis default="166" maximum="656" minimum="165" name="Caps_smcp_Size" tag="CAPB">
+            <labelname xml:lang="en">&gt; Smcp</labelname>
+        </axis>
+        <axis default="456" maximum="1000" minimum="456" name="Ascenders_Height" tag="ASCE">
+            <labelname xml:lang="en">&gt; Ascenders</labelname>
+        </axis>
+        <axis default="456" maximum="1000" minimum="456" name="Descenders_Height" tag="DESC">
+            <labelname xml:lang="en">&gt; Descenders</labelname>
+        </axis>
+        <axis default="0" maximum="100" minimum="0" name="Diacritics_Distance" tag="DIAC">
+            <labelname xml:lang="en">&gt; Diacritics Distance</labelname>
+        </axis>
+        <axis default="0" maximum="100" minimum="0" name="MonoFaux" tag="MONO">
+            <labelname xml:lang="en">Monofaux</labelname>
+        </axis>
+        <axis default="0" maximum="100" minimum="0" name="Curvature" tag="CURV">
+            <labelname xml:lang="en">Curvature</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Baseline_Shift-min.ufo" name="RobotoFlex-Baseline_Shift-min.ufo" stylename="Baseline_Shift-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="0" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Spacing-min.ufo" name="RobotoFlex-Spacing-min.ufo" stylename="Spacing-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="0" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Caps_Size-min.ufo" name="RobotoFlex-Caps_Size-min.ufo" stylename="Caps_Size-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="165" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Ascenders_Height-max.ufo" name="RobotoFlex-Ascenders_Height-max.ufo" stylename="Ascenders_Height-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="1000" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Curvature-max.ufo" name="RobotoFlex-Curvature-max.ufo" stylename="Curvature-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Optical_Lineheight-min.ufo" name="RobotoFlex-Optical_Lineheight-min.ufo" stylename="Optical_Lineheight-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="0" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Diacritics_Distance-max.ufo" name="RobotoFlex-Diacritics_Distance-max.ufo" stylename="Diacritics_Distance-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="100" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Caps_Size-max.ufo" name="RobotoFlex-Caps_Size-max.ufo" stylename="Caps_Size-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="656" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Scale-min.ufo" name="RobotoFlex-Scale-min.ufo" stylename="Scale-min">
+            <location>
+                <dimension name="Scale" xvalue="50" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Height-min.ufo" name="RobotoFlex-Height-min.ufo" stylename="Height-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="165" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Optical_Lineheight-max.ufo" name="RobotoFlex-Optical_Lineheight-max.ufo" stylename="Optical_Lineheight-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="100" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Weight-min.ufo" name="RobotoFlex-Weight-min.ufo" stylename="Weight-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="54" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Scale-max.ufo" name="RobotoFlex-Scale-max.ufo" stylename="Scale-max">
+            <location>
+                <dimension name="Scale" xvalue="200" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Caps_Initial_Size-max.ufo" name="RobotoFlex-Caps_Initial_Size-max.ufo" stylename="Caps_Initial_Size-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="656" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Default.ufo" name="RobotoFlex-Default.ufo" stylename="Default">
+            <info copy="1" />
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Caps_smcp_Size-max.ufo" name="RobotoFlex-Caps_smcp_Size-max.ufo" stylename="Caps_smcp_Size-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="656" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Weight-max.ufo" name="RobotoFlex-Weight-max.ufo" stylename="Weight-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="322" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-MonoFaux-max.ufo" name="RobotoFlex-MonoFaux-max.ufo" stylename="MonoFaux-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="100" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Caps_smcp_Size-min.ufo" name="RobotoFlex-Caps_smcp_Size-min.ufo" stylename="Caps_smcp_Size-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="165" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Caps_Initial_Size-min.ufo" name="RobotoFlex-Caps_Initial_Size-min.ufo" stylename="Caps_Initial_Size-min">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="165" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Descenders_Height-max.ufo" name="RobotoFlex-Descenders_Height-max.ufo" stylename="Descenders_Height-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="1000" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Baseline_Shift-max.ufo" name="RobotoFlex-Baseline_Shift-max.ufo" stylename="Baseline_Shift-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="1000" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Spacing-max.ufo" name="RobotoFlex-Spacing-max.ufo" stylename="Spacing-max">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="200" />
+                <dimension name="Weight" xvalue="185" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="166" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="RobotoFlex" stylename="Light">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="54" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="165" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoFlex" stylename="Regular">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="180" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="400" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="165" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="RobotoFlex" stylename="Bold">
+            <location>
+                <dimension name="Scale" xvalue="100" />
+                <dimension name="Baseline_Shift" xvalue="500" />
+                <dimension name="Spacing" xvalue="100" />
+                <dimension name="Weight" xvalue="322" />
+                <dimension name="Height" xvalue="456" />
+                <dimension name="Optical_Lineheight" xvalue="20" />
+                <dimension name="Caps_Size" xvalue="456" />
+                <dimension name="Caps_Initial_Size" xvalue="455" />
+                <dimension name="Caps_smcp_Size" xvalue="165" />
+                <dimension name="Ascenders_Height" xvalue="456" />
+                <dimension name="Descenders_Height" xvalue="456" />
+                <dimension name="Diacritics_Distance" xvalue="0" />
+                <dimension name="MonoFaux" xvalue="0" />
+                <dimension name="Curvature" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

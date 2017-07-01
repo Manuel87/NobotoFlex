@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E2C" format="1">
+  <advance width="534"/>
+  <unicode hex="1E2C"/>
+  <outline>
+    <component base="I"/>
+    <component base="tilde" xOffset="-133" yOffset="-124"/>
+    <contour>
+      <point x="355" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="335" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="601" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="601" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="336" y="-363" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="601" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="361" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="135" y="1451" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="335" y="1612" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 11:42:04 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

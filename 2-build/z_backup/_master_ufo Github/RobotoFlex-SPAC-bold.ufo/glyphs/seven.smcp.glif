@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.smcp" format="1">
+  <advance width="952"/>
+  <outline>
+    <contour>
+      <point x="935" y="1165" type="line"/>
+      <point x="-17" y="1165" type="line"/>
+      <point x="-17" y="905" type="line"/>
+      <point x="597" y="905" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="935" y="984" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

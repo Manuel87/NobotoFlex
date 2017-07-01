@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA657.cn" format="1">
+  <advance width="1510"/>
+  <outline>
+    <contour>
+      <point x="635" y="880" type="line"/>
+      <point x="287" y="880" type="line"/>
+      <point x="287" y="729" type="line"/>
+      <point x="635" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="1582" type="line"/>
+      <point x="141" y="1582" type="line"/>
+      <point x="141" y="500" type="line"/>
+      <point x="326" y="500" type="line"/>
+    </contour>
+    <component base="a.cn" xOffset="396"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:19 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

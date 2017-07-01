@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A6" format="1">
+  <advance width="1318"/>
+  <unicode hex="04A6"/>
+  <outline>
+    <component base="Pi"/>
+    <component base="largerighthook" xOffset="1302"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

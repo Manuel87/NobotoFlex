@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls.smcp" format="1">
+  <advance width="1022"/>
+  <outline>
+    <contour>
+      <point x="340" y="741" type="line"/>
+      <point x="27" y="741" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="739" type="line"/>
+      <point x="340" y="876"/>
+      <point x="400" y="930"/>
+      <point x="465" y="930" type="curve" smooth="yes"/>
+      <point x="515" y="930"/>
+      <point x="558" y="906"/>
+      <point x="592" y="869" type="curve"/>
+      <point x="438" y="677" type="line"/>
+      <point x="438" y="552" type="line"/>
+      <point x="614" y="543" type="line"/>
+      <point x="938" y="922" type="line"/>
+      <point x="810" y="1092"/>
+      <point x="666" y="1180"/>
+      <point x="470" y="1180" type="curve" smooth="yes"/>
+      <point x="182" y="1180"/>
+      <point x="27" y="1030"/>
+      <point x="27" y="739" type="curve"/>
+    </contour>
+    <contour>
+      <point x="400" y="41" type="line"/>
+      <point x="458" y="7"/>
+      <point x="535" y="-21"/>
+      <point x="648" y="-21" type="curve" smooth="yes"/>
+      <point x="855" y="-21"/>
+      <point x="1033" y="102"/>
+      <point x="1033" y="353" type="curve" smooth="yes"/>
+      <point x="1033" y="573"/>
+      <point x="849" y="693"/>
+      <point x="542" y="693" type="curve"/>
+      <point x="438" y="672" type="line"/>
+      <point x="438" y="483" type="line"/>
+      <point x="519" y="483" type="line" smooth="yes"/>
+      <point x="647" y="483"/>
+      <point x="721" y="449"/>
+      <point x="721" y="353" type="curve" smooth="yes"/>
+      <point x="721" y="275"/>
+      <point x="675" y="229"/>
+      <point x="604" y="229" type="curve" smooth="yes"/>
+      <point x="556" y="229"/>
+      <point x="513" y="258"/>
+      <point x="492" y="275" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

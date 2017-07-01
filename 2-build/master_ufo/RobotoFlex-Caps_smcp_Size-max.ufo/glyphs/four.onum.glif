@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.onum" format="1">
+  <advance width="1231"/>
+  <outline>
+    <contour>
+      <point x="1184" y="151" type="line"/>
+      <point x="279" y="151" type="line"/>
+      <point x="774" y="860" type="line"/>
+      <point x="933" y="1165" type="line"/>
+      <point x="789" y="1165" type="line"/>
+      <point x="62" y="109" type="line"/>
+      <point x="62" y="-1" type="line"/>
+      <point x="1184" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="987" y="1165" type="line"/>
+      <point x="802" y="1165" type="line"/>
+      <point x="802" y="-330" type="line"/>
+      <point x="987" y="-330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dtopbar" format="1">
+  <advance width="1199"/>
+  <unicode hex="018B"/>
+  <outline>
+    <contour>
+      <point x="999" y="100" type="line"/>
+      <point x="999" y="1556" type="line"/>
+      <point x="137" y="1556" type="line"/>
+      <point x="137" y="1502" type="line"/>
+      <point x="945" y="1502" type="line"/>
+      <point x="945" y="888" type="line"/>
+      <point x="576" y="888" type="line" smooth="yes"/>
+      <point x="264" y="888"/>
+      <point x="105" y="726"/>
+      <point x="105" y="494" type="curve" smooth="yes"/>
+      <point x="105" y="262"/>
+      <point x="265" y="100"/>
+      <point x="576" y="100" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="945" y="154" type="line"/>
+      <point x="576" y="154" type="line" smooth="yes"/>
+      <point x="280" y="154"/>
+      <point x="160" y="312"/>
+      <point x="160" y="496" type="curve" smooth="yes"/>
+      <point x="160" y="672"/>
+      <point x="280" y="834"/>
+      <point x="576" y="834" type="curve" smooth="yes"/>
+      <point x="945" y="834" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

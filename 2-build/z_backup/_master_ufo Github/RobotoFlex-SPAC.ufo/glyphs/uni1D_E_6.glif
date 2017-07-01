@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DE6" format="1">
+  <advance width="0"/>
+  <unicode hex="1DE6"/>
+  <outline>
+    <contour>
+      <point x="-408" y="1242" type="line"/>
+      <point x="-830" y="1242" type="line"/>
+      <point x="-830" y="1202" type="line"/>
+      <point x="-408" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-438" y="1713" type="line"/>
+      <point x="-438" y="1754" type="line"/>
+      <point x="-454" y="1754" type="line"/>
+      <point x="-837" y="1241" type="line"/>
+      <point x="-837" y="1202" type="line"/>
+      <point x="-820" y="1202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-450" y="1754" type="line"/>
+      <point x="-822" y="1754" type="line"/>
+      <point x="-822" y="1714" type="line"/>
+      <point x="-450" y="1714" type="line"/>
+    </contour>
+    <contour>
+      <point x="-622" y="1170" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

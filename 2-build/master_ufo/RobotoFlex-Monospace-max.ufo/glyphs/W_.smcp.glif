@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.smcp" format="1">
+  <advance width="1193"/>
+  <outline>
+    <contour>
+      <point x="275" y="278" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="606" y="918" type="line"/>
+      <point x="652" y="1165" type="line"/>
+      <point x="523" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="1165" type="line"/>
+      <point x="-133" y="1165" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="250" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="958" y="297" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="1041" y="0" type="line"/>
+      <point x="1339" y="1165" type="line"/>
+      <point x="1156" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="688" y="1165" type="line"/>
+      <point x="561" y="1165" type="line"/>
+      <point x="608" y="918" type="line"/>
+      <point x="868" y="0" type="line"/>
+      <point x="994" y="0" type="line"/>
+      <point x="932" y="275" type="line"/>
+    </contour>
+    <contour>
+      <point x="1375" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1375" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="604" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1375" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="604" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

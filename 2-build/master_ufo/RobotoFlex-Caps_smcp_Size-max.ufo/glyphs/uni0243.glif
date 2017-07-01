@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0243" format="1">
+  <advance width="1345"/>
+  <unicode hex="0243"/>
+  <outline>
+    <component base="B"/>
+    <component base="crossbar" xOffset="-112" yOffset="-304"/>
+    <contour>
+      <point x="631" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="631" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1345" y="1612" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:54 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="88" maximum="250" minimum="38" name="weight" tag="wght">
+            <labelname xml:lang="en">Weight</labelname>
+        </axis>
+        <axis default="402" maximum="402" minimum="60" name="width" tag="wdth">
+            <labelname xml:lang="en">Width</labelname>
+        </axis>
+        <axis default="14" maximum="72" minimum="10" name="opticalsize" tag="opsz">
+            <labelname xml:lang="en">Optical Size</labelname>
+        </axis>
+        <axis default="88" maximum="500" minimum="5" name="xopaque" tag="XOPQ">
+            <labelname xml:lang="en">x opaque</labelname>
+        </axis>
+        <axis default="402" maximum="402" minimum="42" name="xtransparent" tag="XTRA">
+            <labelname xml:lang="en">x transparent</labelname>
+        </axis>
+        <axis default="50" maximum="85" minimum="4" name="yopaque" tag="YOPQ">
+            <labelname xml:lang="en">y opaque</labelname>
+        </axis>
+        <axis default="500" maximum="600" minimum="445" name="lcytransparent" tag="YTLC">
+            <labelname xml:lang="en">lc y transparent</labelname>
+        </axis>
+        <axis default="18" maximum="48" minimum="0" name="serifheight" tag="YTSE">
+            <labelname xml:lang="en">Serif height</labelname>
+        </axis>
+        <axis default="88" maximum="250" minimum="25" name="grade" tag="GRAD">
+            <labelname xml:lang="en">Grade</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-Default.ufo" name="RobotoFlex-Default.ufo" stylename="Default">
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-wght-min.ufo" name="RobotoFlex-wght-min.ufo" stylename="wght-min">
+            <location>
+                <dimension name="weight" xvalue="38" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-wght-max.ufo" name="RobotoFlex-wght-max.ufo" stylename="wght-max">
+            <location>
+                <dimension name="weight" xvalue="250" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-XOPQ-min.ufo" name="RobotoFlex-XOPQ-min.ufo" stylename="XOPQ-min">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="5" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-XOPQ-max.ufo" name="RobotoFlex-XOPQ-max.ufo" stylename="XOPQ-max">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="500" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-XTRA-min.ufo" name="RobotoFlex-XTRA-min.ufo" stylename="XTRA-min">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="42" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-YOPQ-min.ufo" name="RobotoFlex-YOPQ-min.ufo" stylename="YOPQ-min">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="4" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-YOPQ-max.ufo" name="RobotoFlex-YOPQ-max.ufo" stylename="YOPQ-max">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="85" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-YTLC-min.ufo" name="RobotoFlex-YTLC-min.ufo" stylename="YTLC-min">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="445" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-YTLC-max.ufo" name="RobotoFlex-YTLC-max.ufo" stylename="YTLC-max">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="600" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-YTSE-min.ufo" name="RobotoFlex-YTSE-min.ufo" stylename="YTSE-min">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="0" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-YTSE-max.ufo" name="RobotoFlex-YTSE-max.ufo" stylename="YTSE-max">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="48" />
+                <dimension name="grade" xvalue="88" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-GRAD-min.ufo" name="RobotoFlex-GRAD-min.ufo" stylename="GRAD-min">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="25" />
+            </location>
+        </source>
+        <source familyname="RobotoFlex" filename="master_ufo/RobotoFlex-GRAD-max.ufo" name="RobotoFlex-GRAD-max.ufo" stylename="GRAD-max">
+            <location>
+                <dimension name="weight" xvalue="88" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="yopaque" xvalue="50" />
+                <dimension name="lcytransparent" xvalue="500" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="grade" xvalue="250" />
+            </location>
+        </source>
+    </sources>
+</designspace>

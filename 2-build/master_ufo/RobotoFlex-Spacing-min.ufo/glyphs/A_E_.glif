@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1794"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="910" y="1306" type="line"/>
+      <point x="925" y="1456" type="line"/>
+      <point x="806" y="1456" type="line"/>
+      <point x="-75" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1054" y="528" type="line"/>
+      <point x="312" y="528" type="line"/>
+      <point x="312" y="353" type="line"/>
+      <point x="1054" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="1819" y="152" type="line"/>
+      <point x="1086" y="152" type="line"/>
+      <point x="1086" y="0" type="line"/>
+      <point x="1819" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="1456" type="line"/>
+      <point x="875" y="1456" type="line"/>
+      <point x="936" y="0" type="line"/>
+      <point x="1121" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1676" y="834" type="line"/>
+      <point x="1046" y="834" type="line"/>
+      <point x="1046" y="682" type="line"/>
+      <point x="1676" y="682" type="line"/>
+    </contour>
+    <contour>
+      <point x="1757" y="1456" type="line"/>
+      <point x="1025" y="1456" type="line"/>
+      <point x="1025" y="1304" type="line"/>
+      <point x="1757" y="1304" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1854" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1854" y="1600" type="move" name="top_dd"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii57596" format="1">
+  <advance width="400"/>
+  <unicode hex="200E"/>
+  <outline>
+    <contour>
+      <point x="-614" y="1157" type="line"/>
+      <point x="-124" y="1157" type="line"/>
+      <point x="-124" y="1275" type="line"/>
+      <point x="-614" y="1275" type="line"/>
+    </contour>
+    <contour>
+      <point x="-254" y="994" type="line"/>
+      <point x="-7" y="1215" type="line"/>
+      <point x="-98" y="1271" type="line"/>
+      <point x="-418" y="994" type="line"/>
+    </contour>
+    <contour>
+      <point x="-409" y="1456" type="line"/>
+      <point x="-102" y="1164" type="line"/>
+      <point x="-7" y="1215" type="line"/>
+      <point x="-245" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="-614" y="-200" type="line"/>
+      <point x="-498" y="-200" type="line"/>
+      <point x="-498" y="1275" type="line"/>
+      <point x="-614" y="1275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

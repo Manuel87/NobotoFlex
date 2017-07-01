@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20F0" format="1">
+  <advance width="0"/>
+  <unicode hex="20F0"/>
+  <outline>
+    <contour>
+      <point x="-642" y="751" type="line"/>
+      <point x="-490" y="751" type="line"/>
+      <point x="-497" y="1005" type="line"/>
+      <point x="-276" y="872" type="line"/>
+      <point x="-200" y="1007" type="line"/>
+      <point x="-427" y="1129" type="line"/>
+      <point x="-200" y="1250" type="line"/>
+      <point x="-277" y="1384" type="line"/>
+      <point x="-498" y="1251" type="line"/>
+      <point x="-491" y="1505" type="line"/>
+      <point x="-643" y="1505" type="line"/>
+      <point x="-636" y="1251" type="line"/>
+      <point x="-857" y="1384" type="line"/>
+      <point x="-932" y="1249" type="line"/>
+      <point x="-705" y="1128" type="line"/>
+      <point x="-932" y="1006" type="line"/>
+      <point x="-856" y="872" type="line"/>
+      <point x="-635" y="1005" type="line"/>
+    </contour>
+    <contour>
+      <point x="-569" y="670" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:11 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

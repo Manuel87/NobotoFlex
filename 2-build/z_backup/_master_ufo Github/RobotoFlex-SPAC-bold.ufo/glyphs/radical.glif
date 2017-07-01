@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1006"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="506" y="211" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="1050" y="1456" type="line"/>
+      <point x="810" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="748" type="line"/>
+      <point x="140" y="748" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="555" y="193" type="line"/>
+    </contour>
+    <contour>
+      <point x="-7" y="485" type="line"/>
+      <point x="380" y="485" type="line"/>
+      <point x="380" y="748" type="line"/>
+      <point x="-7" y="748" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042B" format="1">
+  <advance width="1650"/>
+  <unicode hex="042B"/>
+  <outline>
+    <component base="uni042C"/>
+    <component base="I" xOffset="1158"/>
+    <contour>
+      <point x="845" y="1600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1725" y="1600" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 06:49:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

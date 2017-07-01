@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringsubnosp" format="1">
+  <advance width="0"/>
+  <unicode hex="0325"/>
+  <outline>
+    <component base="ring" xOffset="-925" yOffset="-1667"/>
+    <contour>
+      <point x="-588" y="-457" type="move" name="mkmkbottom_acc"/>
+    </contour>
+    <contour>
+      <point x="-588" y="0" type="move" name="_markbottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:11 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

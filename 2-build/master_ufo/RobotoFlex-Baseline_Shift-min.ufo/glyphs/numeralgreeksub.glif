@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numeralgreeksub" format="1">
+  <advance width="456"/>
+  <unicode hex="0375"/>
+  <outline>
+    <contour>
+      <point x="376" y="-565" type="line"/>
+      <point x="261" y="-565" type="line"/>
+      <point x="80" y="-924" type="line"/>
+      <point x="251" y="-924" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:11 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

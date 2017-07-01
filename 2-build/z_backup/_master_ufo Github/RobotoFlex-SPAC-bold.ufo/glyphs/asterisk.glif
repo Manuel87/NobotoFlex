@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="825"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="65" y="684" type="line"/>
+      <point x="233" y="571" type="line"/>
+      <point x="416" y="855" type="line"/>
+      <point x="599" y="561" type="line"/>
+      <point x="767" y="679" type="line"/>
+      <point x="551" y="944" type="line"/>
+      <point x="878" y="1034" type="line"/>
+      <point x="815" y="1225" type="line"/>
+      <point x="507" y="1097" type="line"/>
+      <point x="531" y="1456" type="line"/>
+      <point x="323" y="1456" type="line"/>
+      <point x="346" y="1104" type="line"/>
+      <point x="30" y="1235" type="line"/>
+      <point x="-33" y="1046" type="line"/>
+      <point x="289" y="956" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

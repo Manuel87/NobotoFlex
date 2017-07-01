@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03F5" format="1">
+  <advance width="761"/>
+  <unicode hex="03F5"/>
+  <outline>
+    <contour>
+      <point x="472" y="54" type="line"/>
+      <point x="205" y="54"/>
+      <point x="84" y="249"/>
+      <point x="84" y="520" type="curve" smooth="yes"/>
+      <point x="84" y="562" type="line" smooth="yes"/>
+      <point x="84" y="831"/>
+      <point x="205" y="1028"/>
+      <point x="470" y="1028" type="curve" smooth="yes"/>
+      <point x="776" y="1028" type="line"/>
+      <point x="776" y="1082" type="line"/>
+      <point x="470" y="1082" type="line" smooth="yes"/>
+      <point x="191" y="1082"/>
+      <point x="30" y="879"/>
+      <point x="30" y="562" type="curve" smooth="yes"/>
+      <point x="30" y="520" type="line" smooth="yes"/>
+      <point x="30" y="203"/>
+      <point x="191" y="0"/>
+      <point x="472" y="0" type="curve" smooth="yes"/>
+      <point x="776" y="0" type="line"/>
+      <point x="776" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="570" type="line"/>
+      <point x="70" y="570" type="line"/>
+      <point x="70" y="516" type="line"/>
+      <point x="660" y="516" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

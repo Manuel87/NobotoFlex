@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tpalatalhook" format="1">
+  <advance width="580"/>
+  <unicode hex="01AB"/>
+  <outline>
+    <contour>
+      <point x="391" y="137" type="line"/>
+      <point x="391" y="-57" type="line" smooth="yes"/>
+      <point x="391" y="-167"/>
+      <point x="296" y="-192"/>
+      <point x="220" y="-192" type="curve" smooth="yes"/>
+      <point x="192" y="-192"/>
+      <point x="168" y="-189"/>
+      <point x="140" y="-185" type="curve"/>
+      <point x="140" y="-401" type="line"/>
+      <point x="187" y="-413"/>
+      <point x="225" y="-416"/>
+      <point x="272" y="-416" type="curve" smooth="yes"/>
+      <point x="484" y="-416"/>
+      <point x="612" y="-289"/>
+      <point x="612" y="-57" type="curve" smooth="yes"/>
+      <point x="612" y="10" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

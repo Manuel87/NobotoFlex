@@ -1,0 +1,244 @@
+@UC_ROMAN = [ A - Z Odieresis Adieresis Udieresis ];
+
+@UC_SET1 = [ zero one two three four five six seven eight nine ];
+
+@CAPS_ROMAN = [ A.caps B.caps C.caps D.caps E.caps F.caps G.caps H.caps I.caps J.caps K.caps L.caps M.caps N.caps O.caps P.caps Q.caps R.caps S.caps T.caps U.caps V.caps W.caps X.caps Y.caps Z.caps Odieresis.caps Adieresis.caps Udieresis.caps ];
+
+@CAPS_SET1 = [ zero.caps one.caps two.caps three.caps four.caps five.caps six.caps seven.caps eight.caps nine.caps ];
+
+@SC_ROMAN = [ A.smcp B.smcp C.smcp D.smcp E.smcp F.smcp G.smcp H.smcp I.smcp J.smcp K.smcp L.smcp M.smcp N.smcp O.smcp P.smcp Q.smcp R.smcp S.smcp T.smcp U.smcp V.smcp W.smcp X.smcp Y.smcp Z.smcp Odieresis.smcp Adieresis.smcp Udieresis.smcp ];
+
+@SC_SET1 = [ zero.smcp one.smcp two.smcp three.smcp four.smcp five.smcp six.smcp seven.smcp eight.smcp nine.smcp ];
+
+@SC_SET2 = [ I.smcp ];
+
+@LC_ROMAN = [ a - z odieresis adieresis udieresis ];
+
+@LC_SET2 = [ idotless ];
+
+@LNUM = [ zero one two three four five six seven eight nine ];
+
+@ONUM = [ zero.onum one.onum two.onum three.onum four.onum five.onum six seven.onum eight nine.onum ];
+
+@PNUM = [ zero one.pnum two three four five six seven eight nine ];
+
+@TNUM = [ zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum ];
+
+@frac1 = [ zero one two three four five six seven eight nine ];
+
+@frac2 = [  ];
+
+@frac3 = [  ];
+
+@frac4 = [  ];
+
+@unicase_l = [ a b c d e f g h i j k l m n o p q r s t u v w x y z A E M N U ];
+
+@unicase_r = [ A.unic B C D E.unic F G H I J K L M.unic N.unic O P Q R S T U.unic V W X Y Z A.unic E.unic M.unic N.unic U.unic ];
+
+@ccmp_acc = [  ];
+
+# Prefix: Prefix
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn FRA;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn NAV;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+
+# classes
+
+# kerning classes
+
+
+#....
+# gdef classes
+
+#table GDEF {
+#    GlyphClassDef @GDEF_BASE, @GDEF_LIGATURE, @GDEF_MARK, @GDEF_COMPONENT;
+#} GDEF;
+
+feature cpsp {
+  pos @UC_ROMAN <36 0 72 0>;
+  pos @UC_SET1 <36 0 72 0>;
+  pos @CAPS_ROMAN <36 0 72 0>;
+} cpsp;
+
+feature c2sc {
+sub @UC_ROMAN by @SC_ROMAN;
+sub @UC_SET1 by @SC_SET1;
+pos @SC_ROMAN <20 0 20 0>;
+pos @SC_SET1 <20 0 20 0>;
+pos @SC_SET2 <20 0 20 0>;
+} c2sc;
+
+feature smcp {
+sub @LC_ROMAN by @SC_ROMAN;
+sub @LC_SET2 by @SC_SET2;
+pos @SC_ROMAN <20 0 20 0>;
+pos @SC_SET1 <20 0 20 0>;
+pos @SC_SET2 <20 0 20 0>;
+} smcp;
+
+feature unic {
+  sub @unicase_l by @unicase_r;
+} unic;
+
+feature mark {
+  ;#insert from script mark
+} mark;
+
+feature mkmk {
+  ;#insert from script mkmk
+} mkmk;
+
+feature ccmp {
+
+} ccmp;
+
+feature locl {
+
+} locl;
+
+feature liga {
+
+} liga;
+
+feature dlig {
+
+} dlig;
+
+feature salt {
+  sub K by K.alt;
+  sub g by g.alt;
+} salt;
+
+feature ss01 {
+  sub g by g.alt ;
+} ss01;
+
+feature ss02 {
+
+} ss02;
+
+feature ss03 {
+  sub R by R.alt ;
+} ss03;
+
+feature ss04 {
+  sub K by K.alt;
+  sub k by k.alt;
+} ss04;
+
+feature ss05 {
+  sub k by k.alt2;
+  sub K by K.alt2;
+} ss05;
+
+feature ss06 {
+  sub C by C.ss06;
+  sub D by D.ss06;
+  sub O by O.ss06;
+  sub Q by Q.ss06;
+  sub G by G.ss06;
+  sub [b c d g o p q] by [b.ss06 c.ss06 d.ss06 g.ss06 o.ss06 p.ss06 q.ss06];
+} ss06;
+
+feature ss07 {
+  sub [g e] by [g.ss07 e.ss07];
+  sub [g.ss06] by [g.ss07];
+} ss07;
+
+feature onum {
+
+} onum;
+
+feature pnum {
+
+} pnum;
+
+feature tnum {
+
+} tnum;
+
+feature lnum {
+  sub @TNUM by @LNUM;
+  sub @ONUM by @PNUM;
+} lnum;
+
+feature frac {
+
+} frac;
+
+feature dnom {
+
+} dnom;
+
+feature numr {
+
+} numr;
+
+feature calt {
+sub @UC_ROMAN by @CAPS_ROMAN;
+sub @CAPS_ROMAN' [@LC_ROMAN @LC_SET2] by @UC_ROMAN;
+
+sub @UC_SET1' @UC_SET1 by @CAPS_SET1;
+sub @CAPS_SET1 @UC_SET1' by @CAPS_SET1;
+
+sub @CAPS_ROMAN @UC_SET1' by @CAPS_SET1;
+} calt;
+
+feature aalt {
+# automatic
+feature c2sc;
+feature smcp;
+feature unic;
+feature salt;
+feature ss01;
+feature ss03;
+feature ss04;
+feature ss05;
+feature ss06;
+feature ss07;
+feature lnum;
+feature calt;
+feature subs;
+feature sups;
+feature ordn;
+} aalt;
+
+feature subs {
+# automatic
+sub one by oneinferior;
+sub six by sixinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+} subs;
+
+feature sups {
+# automatic
+sub two by twosuperior;
+sub three by threesuperior;
+sub one by onesuperior;
+sub n by nsuperior;
+sub zero by zerosuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+sub parenleft by parenleftsuperior;
+sub parenright by parenrightsuperior;
+} sups;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+

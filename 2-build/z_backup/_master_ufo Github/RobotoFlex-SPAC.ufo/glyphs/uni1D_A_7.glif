@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DA7" format="1">
+  <advance width="311"/>
+  <unicode hex="1DA7"/>
+  <outline>
+    <contour>
+      <point x="351" y="1156" type="line"/>
+      <point x="-40" y="1156" type="line"/>
+      <point x="-40" y="1102" type="line"/>
+      <point x="351" y="1102" type="line"/>
+    </contour>
+    <component base="uni1DA6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E13" format="1">
+  <advance width="1124"/>
+  <unicode hex="2E13"/>
+  <outline>
+    <contour>
+      <point x="1044" y="1491" type="line"/>
+      <point x="940" y="1557" type="line"/>
+      <point x="80" y="174" type="line"/>
+      <point x="184" y="108" type="line"/>
+    </contour>
+    <component base="dotbelow" xOffset="848" yOffset="1319"/>
+    <component base="dotbelow" xOffset="1434" yOffset="874"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:38 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

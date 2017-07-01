@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044F" format="1">
+  <advance width="1033"/>
+  <unicode hex="044F"/>
+  <outline>
+    <contour>
+      <point x="280" y="551" type="line"/>
+      <point x="-17" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="602" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="1082" type="line"/>
+      <point x="191" y="1082"/>
+      <point x="7" y="925"/>
+      <point x="7" y="709" type="curve"/>
+      <point x="7" y="506"/>
+      <point x="191" y="358"/>
+      <point x="486" y="358" type="curve"/>
+      <point x="773" y="358" type="line"/>
+      <point x="773" y="575" type="line"/>
+      <point x="486" y="575" type="line"/>
+      <point x="381" y="575"/>
+      <point x="329" y="639"/>
+      <point x="329" y="697" type="curve"/>
+      <point x="329" y="757"/>
+      <point x="381" y="824"/>
+      <point x="486" y="824" type="curve"/>
+      <point x="648" y="824" type="line"/>
+      <point x="648" y="0" type="line"/>
+      <point x="969" y="0" type="line"/>
+      <point x="969" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="1269" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1093" y="1269" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

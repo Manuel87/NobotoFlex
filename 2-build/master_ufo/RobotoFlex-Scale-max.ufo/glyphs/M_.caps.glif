@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.caps" format="1">
+  <advance width="3494"/>
+  <outline>
+    <contour>
+      <point x="512" y="2800" type="line"/>
+      <point x="1544" y="0" type="line"/>
+      <point x="1944" y="0" type="line"/>
+      <point x="2978" y="2800" type="line"/>
+      <point x="2480" y="2800" type="line"/>
+      <point x="1746" y="786" type="line"/>
+      <point x="1010" y="2800" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="2800" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="834" y="0" type="line"/>
+      <point x="834" y="758" type="line"/>
+      <point x="746" y="2800" type="line"/>
+    </contour>
+    <contour>
+      <point x="2742" y="2800" type="line"/>
+      <point x="2654" y="758" type="line"/>
+      <point x="2654" y="0" type="line"/>
+      <point x="3232" y="0" type="line"/>
+      <point x="3232" y="2800" type="line"/>
+    </contour>
+    <contour>
+      <point x="3494" y="3088" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="3494" y="3200" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1736" y="3088" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="3494" y="-814" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="3218" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="1748" y="20" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

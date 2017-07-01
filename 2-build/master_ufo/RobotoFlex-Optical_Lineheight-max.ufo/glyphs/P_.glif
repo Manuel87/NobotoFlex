@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="1362"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="743" y="623" type="line"/>
+      <point x="1090" y="623"/>
+      <point x="1279" y="797"/>
+      <point x="1279" y="1098" type="curve"/>
+      <point x="1279" y="1378"/>
+      <point x="1090" y="1576"/>
+      <point x="743" y="1576" type="curve"/>
+      <point x="182" y="1576" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="374" y="1418" type="line"/>
+      <point x="743" y="1418" type="line"/>
+      <point x="987" y="1418"/>
+      <point x="1087" y="1264"/>
+      <point x="1087" y="1095" type="curve"/>
+      <point x="1087" y="913"/>
+      <point x="987" y="781"/>
+      <point x="743" y="781" type="curve"/>
+      <point x="327" y="781" type="line"/>
+      <point x="327" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="1362" y="1732" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1362" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="618" y="1732" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="22" y="1572" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="1362" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="542" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:41 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

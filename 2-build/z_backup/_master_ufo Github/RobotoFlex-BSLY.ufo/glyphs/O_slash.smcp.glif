@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash.smcp" format="1">
+  <advance width="1176"/>
+  <outline>
+    <contour>
+      <point x="1061" y="762" type="line"/>
+      <point x="1061" y="1073"/>
+      <point x="875" y="1281"/>
+      <point x="587" y="1281" type="curve" smooth="yes"/>
+      <point x="298" y="1281"/>
+      <point x="114" y="1073"/>
+      <point x="114" y="762" type="curve"/>
+      <point x="114" y="602" type="line"/>
+      <point x="114" y="291"/>
+      <point x="300" y="84"/>
+      <point x="588" y="84" type="curve" smooth="yes"/>
+      <point x="877" y="84"/>
+      <point x="1061" y="291"/>
+      <point x="1061" y="602" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1008" y="602" type="line"/>
+      <point x="1008" y="326"/>
+      <point x="855" y="138"/>
+      <point x="588" y="138" type="curve" smooth="yes"/>
+      <point x="324" y="138"/>
+      <point x="168" y="326"/>
+      <point x="168" y="602" type="curve" smooth="yes"/>
+      <point x="168" y="764" type="line" smooth="yes"/>
+      <point x="168" y="1038"/>
+      <point x="322" y="1226"/>
+      <point x="587" y="1226" type="curve" smooth="yes"/>
+      <point x="853" y="1226"/>
+      <point x="1008" y="1038"/>
+      <point x="1008" y="764" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1057" y="1315" type="line"/>
+      <point x="1001" y="1315" type="line"/>
+      <point x="142" y="25" type="line"/>
+      <point x="198" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="1176" y="1420" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1176" y="1700" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="583" y="1420" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="139" y="1263" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="1176" y="-307" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="590" y="99" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

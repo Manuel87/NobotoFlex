@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D9F" format="1">
+  <advance width="681"/>
+  <unicode hex="1D9F"/>
+  <outline>
+    <contour>
+      <point x="326" y="636" type="curve" smooth="yes"/>
+      <point x="543" y="636"/>
+      <point x="711" y="726"/>
+      <point x="711" y="877" type="curve" smooth="yes"/>
+      <point x="711" y="968"/>
+      <point x="655" y="1032"/>
+      <point x="558" y="1063" type="curve"/>
+      <point x="644" y="1099"/>
+      <point x="697" y="1161"/>
+      <point x="697" y="1232" type="curve" smooth="yes"/>
+      <point x="697" y="1384"/>
+      <point x="543" y="1466"/>
+      <point x="326" y="1466" type="curve" smooth="yes"/>
+      <point x="138" y="1466"/>
+      <point x="-18" y="1375"/>
+      <point x="-18" y="1219" type="curve"/>
+      <point x="200" y="1219" type="line"/>
+      <point x="200" y="1266"/>
+      <point x="255" y="1288"/>
+      <point x="341" y="1288" type="curve" smooth="yes"/>
+      <point x="438" y="1288"/>
+      <point x="474" y="1247"/>
+      <point x="474" y="1209" type="curve" smooth="yes"/>
+      <point x="474" y="1164"/>
+      <point x="427" y="1137"/>
+      <point x="337" y="1137" type="curve" smooth="yes"/>
+      <point x="204" y="1137" type="line"/>
+      <point x="204" y="984" type="line"/>
+      <point x="337" y="984" type="line" smooth="yes"/>
+      <point x="428" y="984"/>
+      <point x="488" y="962"/>
+      <point x="488" y="899" type="curve" smooth="yes"/>
+      <point x="488" y="857"/>
+      <point x="446" y="814"/>
+      <point x="342" y="814" type="curve" smooth="yes"/>
+      <point x="232" y="814"/>
+      <point x="188" y="847"/>
+      <point x="188" y="888" type="curve"/>
+      <point x="-30" y="888" type="line"/>
+      <point x="-30" y="713"/>
+      <point x="152" y="636"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

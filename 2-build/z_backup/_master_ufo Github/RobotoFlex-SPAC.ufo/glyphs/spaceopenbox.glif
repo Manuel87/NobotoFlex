@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="spaceopenbox" format="1">
+  <advance width="1216"/>
+  <unicode hex="2423"/>
+  <outline>
+    <contour>
+      <point x="20" y="140" type="line"/>
+      <point x="20" y="-251" type="line"/>
+      <point x="1196" y="-251" type="line"/>
+      <point x="1196" y="140" type="line"/>
+      <point x="1142" y="140" type="line"/>
+      <point x="1142" y="-197" type="line"/>
+      <point x="74" y="-197" type="line"/>
+      <point x="74" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

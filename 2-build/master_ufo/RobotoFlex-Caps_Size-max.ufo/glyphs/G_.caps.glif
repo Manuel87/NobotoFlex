@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.caps" format="1">
+  <advance width="1531"/>
+  <outline>
+    <contour>
+      <point x="1362" y="812" type="line"/>
+      <point x="787" y="812" type="line"/>
+      <point x="787" y="655" type="line"/>
+      <point x="1171" y="655" type="line"/>
+      <point x="1171" y="264" type="line"/>
+      <point x="1128" y="211"/>
+      <point x="1032" y="135"/>
+      <point x="801" y="135" type="curve" smooth="yes"/>
+      <point x="521" y="135"/>
+      <point x="334" y="371"/>
+      <point x="334" y="753" type="curve" smooth="yes"/>
+      <point x="334" y="911" type="line" smooth="yes"/>
+      <point x="334" y="1283"/>
+      <point x="477" y="1521"/>
+      <point x="778" y="1521" type="curve" smooth="yes"/>
+      <point x="1033" y="1521"/>
+      <point x="1139" y="1364"/>
+      <point x="1170" y="1178" type="curve"/>
+      <point x="1362" y="1178" type="line"/>
+      <point x="1323" y="1466"/>
+      <point x="1139" y="1679"/>
+      <point x="777" y="1679" type="curve" smooth="yes"/>
+      <point x="372" y="1679"/>
+      <point x="140" y="1389"/>
+      <point x="140" y="909" type="curve" smooth="yes"/>
+      <point x="140" y="753" type="line" smooth="yes"/>
+      <point x="140" y="270"/>
+      <point x="415" y="-23"/>
+      <point x="800" y="-23" type="curve" smooth="yes"/>
+      <point x="1152" y="-23"/>
+      <point x="1303" y="123"/>
+      <point x="1362" y="211" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1531" y="1848" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1531" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="741" y="1848" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1531" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="803" y="-9" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:30 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

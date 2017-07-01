@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.caps" format="1">
+  <advance width="1061"/>
+  <outline>
+    <contour>
+      <point x="970" y="54" type="line"/>
+      <point x="214" y="54" type="line"/>
+      <point x="613" y="489" type="line" smooth="yes"/>
+      <point x="753" y="643"/>
+      <point x="896" y="807"/>
+      <point x="896" y="968" type="curve" smooth="yes"/>
+      <point x="896" y="1194"/>
+      <point x="743" y="1318"/>
+      <point x="512" y="1318" type="curve" smooth="yes"/>
+      <point x="268" y="1318"/>
+      <point x="109" y="1143"/>
+      <point x="109" y="932" type="curve"/>
+      <point x="163" y="932" type="line"/>
+      <point x="163" y="1122"/>
+      <point x="299" y="1263"/>
+      <point x="512" y="1263" type="curve" smooth="yes"/>
+      <point x="730" y="1263"/>
+      <point x="841" y="1149"/>
+      <point x="841" y="968" type="curve" smooth="yes"/>
+      <point x="841" y="853"/>
+      <point x="767" y="728"/>
+      <point x="595" y="543" type="curve" smooth="yes"/>
+      <point x="144" y="52" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="970" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-29 17:19:29 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1658</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

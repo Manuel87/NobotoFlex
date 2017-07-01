@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D1D" format="1">
+  <advance width="1143"/>
+  <unicode hex="1D1D"/>
+  <outline>
+    <contour>
+      <point x="832" y="867" type="line"/>
+      <point x="1082" y="867" type="line"/>
+      <point x="1082" y="922" type="line"/>
+      <point x="0" y="922" type="line"/>
+      <point x="0" y="867" type="line"/>
+    </contour>
+    <contour>
+      <point x="639" y="876" type="line"/>
+      <point x="846" y="876"/>
+      <point x="1049" y="784"/>
+      <point x="1049" y="492" type="curve" smooth="yes"/>
+      <point x="1049" y="319"/>
+      <point x="926" y="192"/>
+      <point x="619" y="192" type="curve" smooth="yes"/>
+      <point x="0" y="192" type="line"/>
+      <point x="0" y="138" type="line"/>
+      <point x="617" y="138" type="line" smooth="yes"/>
+      <point x="961" y="138"/>
+      <point x="1103" y="282"/>
+      <point x="1103" y="494" type="curve" smooth="yes"/>
+      <point x="1103" y="792"/>
+      <point x="905" y="922"/>
+      <point x="637" y="922" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

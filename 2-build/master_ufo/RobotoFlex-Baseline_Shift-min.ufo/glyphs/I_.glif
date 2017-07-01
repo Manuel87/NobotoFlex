@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="557"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="376" y="956" type="line"/>
+      <point x="183" y="956" type="line"/>
+      <point x="183" y="-500" type="line"/>
+      <point x="376" y="-500" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="-500" type="line"/>
+      <point x="376" y="-500" type="line"/>
+      <point x="376" y="-339" type="line"/>
+      <point x="183" y="-339" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="795" type="line"/>
+      <point x="376" y="795" type="line"/>
+      <point x="376" y="956" type="line"/>
+      <point x="183" y="956" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="-500" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="279" y="-491" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="557" y="1100" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="557" y="-907" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="557" y="1112" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="279" y="1112" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-22" y="957" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="371" y="-500" type="move" name="right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:11 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

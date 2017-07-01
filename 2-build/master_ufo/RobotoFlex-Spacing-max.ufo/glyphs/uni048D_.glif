@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni048D" format="1">
+  <advance width="1511"/>
+  <unicode hex="048D"/>
+  <outline>
+    <contour>
+      <point x="491" y="747" type="line"/>
+      <point x="491" y="595" type="line"/>
+      <point x="816" y="595" type="line"/>
+      <point x="977" y="595"/>
+      <point x="1034" y="475"/>
+      <point x="1034" y="370" type="curve"/>
+      <point x="1034" y="260"/>
+      <point x="977" y="152"/>
+      <point x="816" y="152" type="curve"/>
+      <point x="541" y="152" type="line"/>
+      <point x="541" y="1650" type="line"/>
+      <point x="356" y="1650" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="816" y="0" type="line"/>
+      <point x="1078" y="0"/>
+      <point x="1220" y="167"/>
+      <point x="1220" y="378" type="curve"/>
+      <point x="1220" y="591"/>
+      <point x="1078" y="747"/>
+      <point x="816" y="747" type="curve"/>
+    </contour>
+    <contour>
+      <point x="863" y="1456" type="line"/>
+      <point x="164" y="1456" type="line"/>
+      <point x="164" y="1304" type="line"/>
+      <point x="863" y="1304" type="line"/>
+    </contour>
+    <contour>
+      <point x="451" y="895" type="move" name="cross"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevehookcomb" format="1">
+  <advance width="861"/>
+  <outline>
+    <contour>
+      <point x="639" y="1556" type="line"/>
+      <point x="639" y="1472"/>
+      <point x="576" y="1398"/>
+      <point x="421" y="1398" type="curve" smooth="yes"/>
+      <point x="259" y="1398"/>
+      <point x="200" y="1470"/>
+      <point x="200" y="1556" type="curve"/>
+      <point x="147" y="1556" type="line"/>
+      <point x="147" y="1436"/>
+      <point x="250" y="1352"/>
+      <point x="421" y="1352" type="curve" smooth="yes"/>
+      <point x="591" y="1352"/>
+      <point x="694" y="1436"/>
+      <point x="694" y="1556" type="curve"/>
+    </contour>
+    <contour>
+      <point x="446" y="1539" type="line"/>
+      <point x="446" y="1586" type="line"/>
+      <point x="552" y="1594"/>
+      <point x="636" y="1633"/>
+      <point x="636" y="1728" type="curve" smooth="yes"/>
+      <point x="636" y="1817"/>
+      <point x="522" y="1867"/>
+      <point x="362" y="1867" type="curve"/>
+      <point x="355" y="1824" type="line"/>
+      <point x="458" y="1824"/>
+      <point x="582" y="1801"/>
+      <point x="582" y="1728" type="curve" smooth="yes"/>
+      <point x="582" y="1661"/>
+      <point x="527" y="1636"/>
+      <point x="400" y="1628" type="curve"/>
+      <point x="400" y="1539" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="1383" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

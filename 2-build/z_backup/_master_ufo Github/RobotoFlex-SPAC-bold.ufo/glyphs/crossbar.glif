@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="crossbar" format="1">
+  <advance width="876"/>
+  <outline>
+    <contour>
+      <point x="800" y="842" type="line"/>
+      <point x="79" y="842" type="line"/>
+      <point x="79" y="651" type="line"/>
+      <point x="800" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="742" type="move" name="_cross"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

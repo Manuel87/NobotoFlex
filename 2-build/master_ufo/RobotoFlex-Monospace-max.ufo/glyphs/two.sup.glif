@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.sup" format="1">
+  <advance width="1253"/>
+  <outline>
+    <contour>
+      <point x="934" y="129" type="line"/>
+      <point x="535" y="129" type="line"/>
+      <point x="711" y="274" type="line" smooth="yes"/>
+      <point x="828" y="380"/>
+      <point x="903" y="457"/>
+      <point x="903" y="564" type="curve" smooth="yes"/>
+      <point x="903" y="709"/>
+      <point x="795" y="800"/>
+      <point x="617" y="800" type="curve" smooth="yes"/>
+      <point x="429" y="800"/>
+      <point x="317" y="682"/>
+      <point x="317" y="539" type="curve"/>
+      <point x="474" y="539" type="line"/>
+      <point x="474" y="615"/>
+      <point x="521" y="671"/>
+      <point x="620" y="671" type="curve" smooth="yes"/>
+      <point x="700" y="671"/>
+      <point x="745" y="626"/>
+      <point x="745" y="562" type="curve" smooth="yes"/>
+      <point x="745" y="518"/>
+      <point x="714" y="462"/>
+      <point x="624" y="380" type="curve" smooth="yes"/>
+      <point x="336" y="109" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="934" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:16 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

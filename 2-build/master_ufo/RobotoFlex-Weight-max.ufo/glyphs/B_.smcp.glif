@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B.smcp" format="1">
+  <advance width="1146"/>
+  <outline>
+    <contour>
+      <point x="607" y="471" type="line"/>
+      <point x="687" y="558" type="line"/>
+      <point x="958" y="558"/>
+      <point x="1053" y="692"/>
+      <point x="1053" y="835" type="curve"/>
+      <point x="1053" y="1057"/>
+      <point x="868" y="1165"/>
+      <point x="557" y="1165" type="curve"/>
+      <point x="87" y="1165" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="422" y="893" type="line"/>
+      <point x="557" y="893" type="line"/>
+      <point x="672" y="893"/>
+      <point x="719" y="868"/>
+      <point x="719" y="792" type="curve"/>
+      <point x="719" y="734"/>
+      <point x="672" y="701"/>
+      <point x="553" y="701" type="curve"/>
+      <point x="300" y="701" type="line"/>
+      <point x="302" y="471" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="0" type="line"/>
+      <point x="911" y="0"/>
+      <point x="1074" y="116"/>
+      <point x="1074" y="352" type="curve" smooth="yes"/>
+      <point x="1074" y="484"/>
+      <point x="994" y="626"/>
+      <point x="736" y="609" type="curve"/>
+      <point x="656" y="701" type="line"/>
+      <point x="346" y="701" type="line"/>
+      <point x="345" y="471" type="line"/>
+      <point x="607" y="471" type="line" smooth="yes"/>
+      <point x="707" y="471"/>
+      <point x="740" y="436"/>
+      <point x="740" y="357" type="curve" smooth="yes"/>
+      <point x="740" y="314"/>
+      <point x="704" y="270"/>
+      <point x="595" y="270" type="curve" smooth="yes"/>
+      <point x="335" y="270" type="line"/>
+      <point x="213" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1146" y="1320" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1146" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="536" y="1320" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1146" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="535" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

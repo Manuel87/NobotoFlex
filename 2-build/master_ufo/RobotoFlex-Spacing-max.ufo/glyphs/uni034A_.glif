@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni034A" format="1">
+  <advance width="400"/>
+  <unicode hex="034A"/>
+  <outline>
+    <contour>
+      <point x="-334" y="1572" type="curve"/>
+      <point x="-334" y="1572"/>
+      <point x="-524" y="1245"/>
+      <point x="-524" y="1245" type="curve"/>
+      <point x="-432" y="1187" type="line"/>
+      <point x="-432" y="1187"/>
+      <point x="-244" y="1514"/>
+      <point x="-244" y="1514" type="curve"/>
+      <point x="-244" y="1514"/>
+      <point x="-334" y="1572"/>
+    </contour>
+    <component base="tilde" xOffset="-1060"/>
+    <contour>
+      <point x="-383" y="1257" type="move" name="_marktop"/>
+    </contour>
+    <contour>
+      <point x="-383" y="1644" type="move" name="mkmktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

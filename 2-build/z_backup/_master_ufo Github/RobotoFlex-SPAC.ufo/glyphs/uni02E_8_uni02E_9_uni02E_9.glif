@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02E8_uni02E9_uni02E9" format="1">
+  <advance width="980"/>
+  <outline>
+    <contour>
+      <point x="840" y="0" type="line"/>
+      <point x="840" y="1456" type="line"/>
+      <point x="786" y="1456" type="line"/>
+      <point x="786" y="54" type="line"/>
+      <point x="404" y="54" type="line"/>
+      <point x="67" y="406" type="line"/>
+      <point x="30" y="370" type="line"/>
+      <point x="383" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

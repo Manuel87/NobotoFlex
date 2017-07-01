@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0429" format="1">
+  <advance width="2007"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="2010" y="259" type="line"/>
+      <point x="1573" y="259" type="line"/>
+      <point x="1573" y="1" type="line"/>
+      <point x="1688" y="1" type="line"/>
+      <point x="1688" y="-350" type="line"/>
+      <point x="1990" y="-350" type="line"/>
+    </contour>
+    <component base="uni0428"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

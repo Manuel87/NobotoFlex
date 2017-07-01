@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.smcp" format="1">
+  <advance width="1229"/>
+  <outline>
+    <contour>
+      <point x="1139" y="1456" type="line"/>
+      <point x="1085" y="1456" type="line"/>
+      <point x="1085" y="95" type="line"/>
+      <point x="145" y="1456" type="line"/>
+      <point x="90" y="1456" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="1365" type="line"/>
+      <point x="1085" y="0" type="line"/>
+      <point x="1139" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1339" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1339" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="616" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1339" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1139" y="0" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="616" y="10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

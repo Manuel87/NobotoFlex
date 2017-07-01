@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="1">
+  <advance width="698"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <contour>
+      <point x="705" y="773" type="line"/>
+      <point x="705" y="675"/>
+      <point x="679" y="623"/>
+      <point x="576" y="623" type="curve"/>
+      <point x="576" y="577" type="line"/>
+      <point x="710" y="577"/>
+      <point x="759" y="645"/>
+      <point x="759" y="773" type="curve"/>
+    </contour>
+    <component base="U"/>
+    <contour>
+      <point x="340" y="806" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="336" y="-2" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="698" y="806" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

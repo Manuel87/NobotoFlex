@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.smcp" format="1">
+  <advance width="1043"/>
+  <outline>
+    <contour>
+      <point x="762" y="1164" type="line"/>
+      <point x="731" y="1164" type="line"/>
+      <point x="147" y="974" type="line"/>
+      <point x="147" y="718" type="line"/>
+      <point x="440" y="781" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="762" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>721</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>444</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

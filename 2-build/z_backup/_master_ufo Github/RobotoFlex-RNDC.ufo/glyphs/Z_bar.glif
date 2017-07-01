@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zbar" format="1">
+  <advance width="1224"/>
+  <unicode hex="01B5"/>
+  <outline>
+    <contour>
+      <point x="1015" y="783" type="line"/>
+      <point x="188" y="783" type="line"/>
+      <point x="188" y="729" type="line"/>
+      <point x="1015" y="729" type="line"/>
+    </contour>
+    <component base="Z"/>
+    <contour>
+      <point x="609" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="643" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1224" y="1612" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

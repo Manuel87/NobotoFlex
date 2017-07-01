@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.caps" format="1">
+  <advance width="1394"/>
+  <outline>
+    <contour>
+      <point x="1247" y="731" type="line"/>
+      <point x="715" y="731" type="line"/>
+      <point x="715" y="566" type="line"/>
+      <point x="1040" y="566" type="line"/>
+      <point x="1040" y="248" type="line"/>
+      <point x="1002" y="206"/>
+      <point x="934" y="146"/>
+      <point x="731" y="146" type="curve" smooth="yes"/>
+      <point x="489" y="146"/>
+      <point x="326" y="341"/>
+      <point x="326" y="676" type="curve" smooth="yes"/>
+      <point x="326" y="781" type="line" smooth="yes"/>
+      <point x="326" y="1108"/>
+      <point x="440" y="1309"/>
+      <point x="708" y="1309" type="curve" smooth="yes"/>
+      <point x="922" y="1309"/>
+      <point x="1012" y="1181"/>
+      <point x="1039" y="1027" type="curve"/>
+      <point x="1247" y="1027" type="line"/>
+      <point x="1209" y="1287"/>
+      <point x="1042" y="1476"/>
+      <point x="707" y="1476" type="curve" smooth="yes"/>
+      <point x="325" y="1476"/>
+      <point x="117" y="1219"/>
+      <point x="117" y="779" type="curve" smooth="yes"/>
+      <point x="117" y="676" type="line" smooth="yes"/>
+      <point x="117" y="236"/>
+      <point x="373" y="-20"/>
+      <point x="730" y="-20" type="curve" smooth="yes"/>
+      <point x="1061" y="-20"/>
+      <point x="1191" y="114"/>
+      <point x="1247" y="195" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1394" y="1633" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1394" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="668" y="1633" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1394" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="730" y="-10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

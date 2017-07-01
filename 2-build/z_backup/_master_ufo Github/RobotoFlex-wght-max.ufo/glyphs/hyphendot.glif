@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphendot" format="1">
+  <advance width="578"/>
+  <unicode hex="2027"/>
+  <outline>
+    <contour>
+      <point x="110" y="629" type="curve" smooth="yes"/>
+      <point x="110" y="533"/>
+      <point x="182" y="465"/>
+      <point x="289" y="465" type="curve" smooth="yes"/>
+      <point x="396" y="465"/>
+      <point x="468" y="533"/>
+      <point x="468" y="629" type="curve" smooth="yes"/>
+      <point x="468" y="725"/>
+      <point x="396" y="793"/>
+      <point x="289" y="793" type="curve" smooth="yes"/>
+      <point x="182" y="793"/>
+      <point x="110" y="725"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="2290"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="1512" y="518" type="line"/>
+      <point x="1546" y="0" type="line"/>
+      <point x="2068" y="0" type="line"/>
+      <point x="2068" y="2164" type="line"/>
+      <point x="1512" y="2164" type="line"/>
+    </contour>
+    <contour>
+      <point x="1580" y="966" type="line"/>
+      <point x="1580" y="656"/>
+      <point x="1460" y="420"/>
+      <point x="1088" y="420" type="curve" smooth="yes"/>
+      <point x="908" y="420"/>
+      <point x="772" y="510"/>
+      <point x="772" y="760" type="curve"/>
+      <point x="772" y="2164" type="line"/>
+      <point x="216" y="2164" type="line"/>
+      <point x="216" y="764" type="line"/>
+      <point x="216" y="192"/>
+      <point x="508" y="-40"/>
+      <point x="934" y="-40" type="curve" smooth="yes"/>
+      <point x="1494" y="-40"/>
+      <point x="1750" y="388"/>
+      <point x="1750" y="970" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2010" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="2290" y="3200" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1142" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2290" y="-814" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="2290" y="2580" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1852" y="1308" type="move" name="rhotichook"/>
+    </contour>
+    <contour>
+      <point x="952" y="0" type="move" name="bottomu"/>
+    </contour>
+    <contour>
+      <point x="1144" y="2580" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>202</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>547</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

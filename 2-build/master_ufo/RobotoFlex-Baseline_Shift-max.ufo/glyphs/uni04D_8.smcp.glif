@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D8.smcp" format="1">
+  <advance width="1227"/>
+  <outline>
+    <contour>
+      <point x="584" y="1681" type="curve" smooth="yes"/>
+      <point x="390" y="1681"/>
+      <point x="272" y="1624"/>
+      <point x="220" y="1594" type="curve"/>
+      <point x="277" y="1447" type="line"/>
+      <point x="341" y="1478"/>
+      <point x="429" y="1519"/>
+      <point x="568" y="1519" type="curve" smooth="yes"/>
+      <point x="835" y="1519"/>
+      <point x="944" y="1364"/>
+      <point x="944" y="1149" type="curve" smooth="yes"/>
+      <point x="944" y="1019" type="line" smooth="yes"/>
+      <point x="944" y="790"/>
+      <point x="813" y="639"/>
+      <point x="614" y="639" type="curve" smooth="yes"/>
+      <point x="389" y="639"/>
+      <point x="279" y="767"/>
+      <point x="279" y="971" type="curve" smooth="yes"/>
+      <point x="279" y="997" type="line"/>
+      <point x="1004" y="997" type="line"/>
+      <point x="1004" y="1149" type="line"/>
+      <point x="94" y="1149" type="line"/>
+      <point x="94" y="1015" type="line" smooth="yes"/>
+      <point x="94" y="688"/>
+      <point x="272" y="484"/>
+      <point x="614" y="484" type="curve" smooth="yes"/>
+      <point x="909" y="484"/>
+      <point x="1129" y="702"/>
+      <point x="1129" y="1019" type="curve" smooth="yes"/>
+      <point x="1129" y="1149" type="line" smooth="yes"/>
+      <point x="1129" y="1463"/>
+      <point x="923" y="1681"/>
+    </contour>
+    <contour>
+      <point x="585" y="1820" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="595" y="500" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1227" y="1820" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:47:19 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

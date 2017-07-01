@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a_uni02DE" format="1">
+  <advance width="1414"/>
+  <outline>
+    <component base="a"/>
+    <component base="uni02DE" xOffset="1035"/>
+    <contour>
+      <point x="925" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="407" y="22" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="631" y="1290" type="move" name="rhalfring"/>
+    </contour>
+    <contour>
+      <point x="407" y="22" type="move" name="markbottom"/>
+    </contour>
+    <contour>
+      <point x="1031" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1031" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1474" y="1290" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="480" y="1290" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

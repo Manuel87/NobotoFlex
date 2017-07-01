@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2183.cn" format="1">
+  <advance width="1333"/>
+  <outline>
+    <contour>
+      <point x="93" y="463" type="line"/>
+      <point x="112" y="163"/>
+      <point x="296" y="-20"/>
+      <point x="645" y="-20" type="curve" smooth="yes"/>
+      <point x="988" y="-20"/>
+      <point x="1204" y="219"/>
+      <point x="1204" y="594" type="curve" smooth="yes"/>
+      <point x="1204" y="862" type="line" smooth="yes"/>
+      <point x="1204" y="1236"/>
+      <point x="989" y="1476"/>
+      <point x="628" y="1476" type="curve" smooth="yes"/>
+      <point x="299" y="1476"/>
+      <point x="111" y="1302"/>
+      <point x="93" y="989" type="curve"/>
+      <point x="285" y="989" type="line"/>
+      <point x="305" y="1217"/>
+      <point x="403" y="1318"/>
+      <point x="628" y="1318" type="curve" smooth="yes"/>
+      <point x="886" y="1318"/>
+      <point x="1011" y="1139"/>
+      <point x="1011" y="864" type="curve" smooth="yes"/>
+      <point x="1011" y="594" type="line" smooth="yes"/>
+      <point x="1011" y="339"/>
+      <point x="904" y="137"/>
+      <point x="645" y="137" type="curve" smooth="yes"/>
+      <point x="399" y="137"/>
+      <point x="309" y="232"/>
+      <point x="285" y="463" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:38 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1696"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="903" y="1408" type="line"/>
+      <point x="920" y="1456" type="line"/>
+      <point x="871" y="1456" type="line"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="943" y="478" type="line"/>
+      <point x="294" y="478" type="line"/>
+      <point x="294" y="425" type="line"/>
+      <point x="943" y="425" type="line"/>
+    </contour>
+    <contour>
+      <point x="1708" y="54" type="line"/>
+      <point x="975" y="54" type="line"/>
+      <point x="975" y="0" type="line"/>
+      <point x="1708" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="949" y="1456" type="line"/>
+      <point x="895" y="1456" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="1010" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1565" y="786" type="line"/>
+      <point x="935" y="786" type="line"/>
+      <point x="935" y="732" type="line"/>
+      <point x="1565" y="732" type="line"/>
+    </contour>
+    <contour>
+      <point x="1647" y="1456" type="line"/>
+      <point x="914" y="1456" type="line"/>
+      <point x="914" y="1402" type="line"/>
+      <point x="1647" y="1402" type="line"/>
+    </contour>
+    <contour>
+      <point x="911" y="1612" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1756" y="1612" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1756" y="1600" type="move" name="top_dd"/>
+    </contour>
+  </outline>
+</glyph>

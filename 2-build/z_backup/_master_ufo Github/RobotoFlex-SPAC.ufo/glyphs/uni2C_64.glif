@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C64" format="1">
+  <advance width="1220"/>
+  <unicode hex="2C64"/>
+  <outline>
+    <contour>
+      <point x="135" y="142" type="line"/>
+      <point x="135" y="-89" type="line" smooth="yes"/>
+      <point x="135" y="-314"/>
+      <point x="201" y="-437"/>
+      <point x="380" y="-437" type="curve" smooth="yes"/>
+      <point x="421" y="-437"/>
+      <point x="453" y="-430"/>
+      <point x="492" y="-417" type="curve"/>
+      <point x="479" y="-365" type="line"/>
+      <point x="458" y="-373"/>
+      <point x="417" y="-383"/>
+      <point x="380" y="-383" type="curve" smooth="yes"/>
+      <point x="232" y="-383"/>
+      <point x="189" y="-276"/>
+      <point x="189" y="-89" type="curve" smooth="yes"/>
+      <point x="189" y="142" type="line"/>
+    </contour>
+    <component base="R"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

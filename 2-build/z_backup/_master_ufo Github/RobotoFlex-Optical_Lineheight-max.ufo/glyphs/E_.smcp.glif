@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.smcp" format="1">
+  <advance width="1143"/>
+  <outline>
+    <contour>
+      <point x="1065" y="54" type="line"/>
+      <point x="215" y="54" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="1065" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="1365" type="line"/>
+      <point x="196" y="1365" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="965" y="731" type="line"/>
+      <point x="215" y="731" type="line"/>
+      <point x="215" y="677" type="line"/>
+      <point x="965" y="677" type="line"/>
+    </contour>
+    <contour>
+      <point x="1064" y="1365" type="line"/>
+      <point x="215" y="1365" type="line"/>
+      <point x="215" y="1311" type="line"/>
+      <point x="1064" y="1311" type="line"/>
+    </contour>
+    <contour>
+      <point x="1007" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="1143" y="1600" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="607" y="9" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1143" y="-407" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1143" y="1521" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="607" y="1521" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-57" y="1366" type="move" name="tonos"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-29 17:19:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

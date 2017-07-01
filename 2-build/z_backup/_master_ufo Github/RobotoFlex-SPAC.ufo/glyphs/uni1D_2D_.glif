@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D2D" format="1">
+  <advance width="1231"/>
+  <unicode hex="1D2D"/>
+  <outline>
+    <contour>
+      <point x="623" y="1612" type="line"/>
+      <point x="680" y="1728" type="line"/>
+      <point x="632" y="1728" type="line"/>
+      <point x="-20" y="651" type="line"/>
+      <point x="43" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="685" y="1005" type="line"/>
+      <point x="205" y="1005" type="line"/>
+      <point x="205" y="951" type="line"/>
+      <point x="685" y="951" type="line"/>
+    </contour>
+    <contour>
+      <point x="1251" y="705" type="line"/>
+      <point x="709" y="705" type="line"/>
+      <point x="709" y="651" type="line"/>
+      <point x="1251" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="704" y="1728" type="line"/>
+      <point x="650" y="1728" type="line"/>
+      <point x="695" y="651" type="line"/>
+      <point x="749" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="1145" y="1237" type="line"/>
+      <point x="679" y="1237" type="line"/>
+      <point x="679" y="1183" type="line"/>
+      <point x="1145" y="1183" type="line"/>
+    </contour>
+    <contour>
+      <point x="1206" y="1728" type="line"/>
+      <point x="664" y="1728" type="line"/>
+      <point x="664" y="1674" type="line"/>
+      <point x="1206" y="1674" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

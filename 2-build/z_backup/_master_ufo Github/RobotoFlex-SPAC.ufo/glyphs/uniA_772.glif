@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA772" format="1">
+  <advance width="612"/>
+  <unicode hex="A772"/>
+  <outline>
+    <contour>
+      <point x="216" y="1536" type="line"/>
+      <point x="216" y="255" type="line" smooth="yes"/>
+      <point x="216" y="56"/>
+      <point x="350" y="-21"/>
+      <point x="506" y="-21" type="curve"/>
+      <point x="506" y="32" type="line"/>
+      <point x="384" y="32"/>
+      <point x="270" y="83"/>
+      <point x="270" y="255" type="curve" smooth="yes"/>
+      <point x="270" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="652" y="800" type="line"/>
+      <point x="593" y="800" type="line"/>
+      <point x="125" y="-416" type="line"/>
+      <point x="184" y="-416" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

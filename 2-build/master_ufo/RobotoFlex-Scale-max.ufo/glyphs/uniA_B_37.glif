@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB37" format="1">
+  <advance width="1926"/>
+  <unicode hex="AB37"/>
+  <outline>
+    <contour>
+      <point x="558" y="1842" type="curve" smooth="yes"/>
+      <point x="666" y="1842"/>
+      <point x="718" y="1736"/>
+      <point x="808" y="1478" type="curve" smooth="yes"/>
+      <point x="904" y="1196"/>
+      <point x="1060" y="912"/>
+      <point x="1344" y="912" type="curve" smooth="yes"/>
+      <point x="1636" y="912"/>
+      <point x="1830" y="1160"/>
+      <point x="1830" y="1544" type="curve" smooth="yes"/>
+      <point x="1830" y="1968"/>
+      <point x="1646" y="2228"/>
+      <point x="1362" y="2228" type="curve"/>
+      <point x="1362" y="1804" type="line"/>
+      <point x="1462" y="1802"/>
+      <point x="1524" y="1712"/>
+      <point x="1524" y="1542" type="curve" smooth="yes"/>
+      <point x="1524" y="1402"/>
+      <point x="1464" y="1324"/>
+      <point x="1372" y="1324" type="curve" smooth="yes"/>
+      <point x="1268" y="1324"/>
+      <point x="1218" y="1446"/>
+      <point x="1132" y="1678" type="curve" smooth="yes"/>
+      <point x="1012" y="2026"/>
+      <point x="876" y="2258"/>
+      <point x="584" y="2258" type="curve" smooth="yes"/>
+      <point x="290" y="2258"/>
+      <point x="94" y="2024"/>
+      <point x="94" y="1590" type="curve" smooth="yes"/>
+      <point x="94" y="1142"/>
+      <point x="338" y="914"/>
+      <point x="590" y="914" type="curve"/>
+      <point x="590" y="1290" type="line"/>
+      <point x="438" y="1304"/>
+      <point x="404" y="1414"/>
+      <point x="404" y="1602" type="curve" smooth="yes"/>
+      <point x="404" y="1748"/>
+      <point x="458" y="1842"/>
+    </contour>
+    <component base="l" xOffset="217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

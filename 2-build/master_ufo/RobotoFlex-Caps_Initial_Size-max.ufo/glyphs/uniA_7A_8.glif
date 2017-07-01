@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7A8" format="1">
+  <advance width="1412"/>
+  <unicode hex="A7A8"/>
+  <outline>
+    <contour>
+      <point x="1388" y="992" type="line"/>
+      <point x="22" y="622" type="line"/>
+      <point x="23" y="502" type="line"/>
+      <point x="1390" y="871" type="line"/>
+    </contour>
+    <component base="S" xOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:49 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

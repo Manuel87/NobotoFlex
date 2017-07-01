@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won" format="1">
+  <advance width="1476"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="1496" y="949" type="line"/>
+      <point x="-20" y="949" type="line"/>
+      <point x="-20" y="895" type="line"/>
+      <point x="1496" y="895" type="line"/>
+    </contour>
+    <contour>
+      <point x="1496" y="649" type="line"/>
+      <point x="-20" y="649" type="line"/>
+      <point x="-20" y="595" type="line"/>
+      <point x="1496" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="684" y="1102" type="line"/>
+      <point x="767" y="1456" type="line"/>
+      <point x="709" y="1456" type="line"/>
+      <point x="447" y="351" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="1456" type="line"/>
+      <point x="41" y="1456" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="346" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="1051" y="0" type="line"/>
+      <point x="1111" y="0" type="line"/>
+      <point x="1433" y="1456" type="line"/>
+      <point x="1374" y="1456" type="line"/>
+      <point x="1133" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="769" y="1456" type="line"/>
+      <point x="710" y="1456" type="line"/>
+      <point x="793" y="1103" type="line"/>
+      <point x="1050" y="0" type="line"/>
+      <point x="1111" y="0" type="line"/>
+      <point x="1025" y="366" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

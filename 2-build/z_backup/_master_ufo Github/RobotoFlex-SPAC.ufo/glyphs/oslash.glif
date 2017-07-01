@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="1001"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="871" y="1219" type="line"/>
+      <point x="808" y="1219" type="line"/>
+      <point x="145" y="-145" type="line"/>
+      <point x="208" y="-145" type="line"/>
+    </contour>
+    <component base="o" xOffset="-3"/>
+    <contour>
+      <point x="450" y="1289" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1061" y="1289" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1061" y="1600" type="move" name="top_dd"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA65F" format="1">
+  <advance width="2566"/>
+  <unicode hex="A65F"/>
+  <outline>
+    <contour>
+      <point x="2516" y="0" type="line"/>
+      <point x="1936" y="0" type="line"/>
+      <point x="1314" y="1762" type="line"/>
+      <point x="1228" y="2164" type="line"/>
+      <point x="1594" y="2164" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="-40" type="curve"/>
+      <point x="70" y="326" type="line"/>
+      <point x="622" y="860"/>
+      <point x="862" y="1372"/>
+      <point x="1048" y="2164" type="curve"/>
+      <point x="1412" y="2164" type="line"/>
+      <point x="1328" y="1758" type="line"/>
+      <point x="1198" y="1090"/>
+      <point x="1018" y="478"/>
+    </contour>
+    <contour>
+      <point x="1620" y="-834" type="line"/>
+      <point x="1064" y="-834" type="line"/>
+      <point x="1064" y="1862" type="line"/>
+      <point x="1620" y="1862" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

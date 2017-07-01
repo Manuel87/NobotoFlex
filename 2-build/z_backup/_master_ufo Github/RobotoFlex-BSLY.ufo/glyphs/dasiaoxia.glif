@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasiaoxia" format="1">
+  <advance width="775"/>
+  <outline>
+    <contour>
+      <point x="341" y="1255" type="line"/>
+      <point x="393" y="1255" type="line"/>
+      <point x="552" y="1556" type="line"/>
+      <point x="552" y="1577" type="line"/>
+      <point x="493" y="1577" type="line"/>
+      <point x="341" y="1264" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="1254" type="line"/>
+      <point x="237" y="1254" type="line"/>
+      <point x="237" y="1352" type="line" smooth="yes"/>
+      <point x="237" y="1438"/>
+      <point x="269" y="1497"/>
+      <point x="342" y="1541" type="curve"/>
+      <point x="316" y="1582" type="line"/>
+      <point x="232" y="1546"/>
+      <point x="179" y="1457"/>
+      <point x="179" y="1358" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="440" y="1389" type="move" name="_tonos"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

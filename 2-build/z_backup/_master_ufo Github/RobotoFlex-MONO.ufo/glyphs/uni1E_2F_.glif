@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E2F" format="1">
+  <advance width="1229"/>
+  <unicode hex="1E2F"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresisacutecomb.lc" xOffset="1202" yOffset="-24"/>
+    <contour>
+      <point x="308" y="10" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="504" y="1269" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="307" y="1269" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="308" y="1766" type="move" name="mkmktop_acc"/>
+    </contour>
+    <contour>
+      <point x="310" y="654" type="move" name="rhotichook"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-05 06:49:19 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

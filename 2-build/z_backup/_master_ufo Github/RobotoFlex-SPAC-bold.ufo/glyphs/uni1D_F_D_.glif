@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DFD" format="1">
+  <advance width="0"/>
+  <unicode hex="1DFD"/>
+  <outline>
+    <contour>
+      <point x="-433" y="-29" type="line"/>
+      <point x="-433" y="-81"/>
+      <point x="-470" y="-106"/>
+      <point x="-514" y="-106" type="curve" smooth="yes"/>
+      <point x="-612" y="-106"/>
+      <point x="-686" y="-35"/>
+      <point x="-791" y="-35" type="curve" smooth="yes"/>
+      <point x="-925" y="-35"/>
+      <point x="-1020" y="-147"/>
+      <point x="-1020" y="-267" type="curve"/>
+      <point x="-839" y="-276" type="line"/>
+      <point x="-839" y="-224"/>
+      <point x="-804" y="-199"/>
+      <point x="-760" y="-199" type="curve" smooth="yes"/>
+      <point x="-657" y="-199"/>
+      <point x="-608" y="-271"/>
+      <point x="-483" y="-271" type="curve" smooth="yes"/>
+      <point x="-348" y="-271"/>
+      <point x="-253" y="-163"/>
+      <point x="-253" y="-39" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-433" y="-292" type="line"/>
+      <point x="-433" y="-344"/>
+      <point x="-470" y="-369"/>
+      <point x="-514" y="-369" type="curve" smooth="yes"/>
+      <point x="-612" y="-369"/>
+      <point x="-686" y="-298"/>
+      <point x="-791" y="-298" type="curve" smooth="yes"/>
+      <point x="-925" y="-298"/>
+      <point x="-1020" y="-410"/>
+      <point x="-1020" y="-530" type="curve"/>
+      <point x="-839" y="-539" type="line"/>
+      <point x="-839" y="-487"/>
+      <point x="-804" y="-462"/>
+      <point x="-760" y="-462" type="curve" smooth="yes"/>
+      <point x="-657" y="-462"/>
+      <point x="-608" y="-534"/>
+      <point x="-483" y="-534" type="curve" smooth="yes"/>
+      <point x="-348" y="-534"/>
+      <point x="-253" y="-426"/>
+      <point x="-253" y="-302" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-636" y="0" type="move" name="_markbottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta.alt" format="1">
+  <advance width="1121"/>
+  <outline>
+    <contour>
+      <point x="265" y="1556" type="line"/>
+      <point x="265" y="1502" type="line"/>
+      <point x="347" y="1430"/>
+      <point x="604" y="1286"/>
+      <point x="760" y="1130" type="curve"/>
+      <point x="701" y="1149"/>
+      <point x="627" y="1147"/>
+      <point x="606" y="1147" type="curve" smooth="yes"/>
+      <point x="302" y="1147"/>
+      <point x="87" y="935"/>
+      <point x="87" y="642" type="curve" smooth="yes"/>
+      <point x="87" y="600" type="line" smooth="yes"/>
+      <point x="87" y="295"/>
+      <point x="280" y="79"/>
+      <point x="562" y="79" type="curve" smooth="yes"/>
+      <point x="843" y="79"/>
+      <point x="1034" y="295"/>
+      <point x="1034" y="600" type="curve" smooth="yes"/>
+      <point x="1034" y="642" type="line" smooth="yes"/>
+      <point x="1034" y="841"/>
+      <point x="941" y="1035"/>
+      <point x="782" y="1185" type="curve" smooth="yes"/>
+      <point x="601" y="1356"/>
+      <point x="460" y="1420"/>
+      <point x="349" y="1503" type="curve"/>
+      <point x="948" y="1503" type="line"/>
+      <point x="948" y="1556" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="642" type="line"/>
+      <point x="141" y="875"/>
+      <point x="317" y="1093"/>
+      <point x="606" y="1093" type="curve" smooth="yes"/>
+      <point x="659" y="1093"/>
+      <point x="752" y="1080"/>
+      <point x="803" y="1067" type="curve"/>
+      <point x="859" y="1018"/>
+      <point x="980" y="864"/>
+      <point x="980" y="642" type="curve" smooth="yes"/>
+      <point x="980" y="600" type="line" smooth="yes"/>
+      <point x="980" y="352"/>
+      <point x="825" y="133"/>
+      <point x="562" y="133" type="curve" smooth="yes"/>
+      <point x="296" y="133"/>
+      <point x="141" y="352"/>
+      <point x="141" y="600" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

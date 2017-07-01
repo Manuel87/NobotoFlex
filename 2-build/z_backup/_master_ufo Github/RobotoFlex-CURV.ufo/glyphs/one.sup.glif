@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.sup" format="1">
+  <advance width="728"/>
+  <outline>
+    <contour>
+      <point x="433" y="791" type="line"/>
+      <point x="424" y="791" type="line"/>
+      <point x="131" y="694" type="line"/>
+      <point x="131" y="641" type="line"/>
+      <point x="379" y="722" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="433" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

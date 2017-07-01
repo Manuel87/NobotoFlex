@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta.smcp" format="1">
+  <advance width="1092"/>
+  <outline>
+    <contour>
+      <point x="793" y="658" type="line"/>
+      <point x="313" y="658" type="line"/>
+      <point x="313" y="505" type="line"/>
+      <point x="793" y="505" type="line"/>
+    </contour>
+    <component base="O.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

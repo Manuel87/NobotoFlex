@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.smcp" format="1">
+  <advance width="2394"/>
+  <outline>
+    <contour>
+      <point x="2214" y="1274" type="line"/>
+      <point x="1216" y="1274" type="line"/>
+      <point x="1216" y="842" type="line"/>
+      <point x="1638" y="842" type="line"/>
+      <point x="1638" y="522" type="line"/>
+      <point x="1584" y="486"/>
+      <point x="1510" y="440"/>
+      <point x="1278" y="440" type="curve" smooth="yes"/>
+      <point x="916" y="440"/>
+      <point x="726" y="656"/>
+      <point x="726" y="1130" type="curve" smooth="yes"/>
+      <point x="726" y="1188" type="line" smooth="yes"/>
+      <point x="726" y="1662"/>
+      <point x="886" y="1888"/>
+      <point x="1222" y="1888" type="curve" smooth="yes"/>
+      <point x="1500" y="1888"/>
+      <point x="1614" y="1770"/>
+      <point x="1650" y="1560" type="curve"/>
+      <point x="2212" y="1560" type="line"/>
+      <point x="2154" y="2034"/>
+      <point x="1868" y="2364"/>
+      <point x="1208" y="2364" type="curve" smooth="yes"/>
+      <point x="554" y="2364"/>
+      <point x="142" y="1948"/>
+      <point x="142" y="1184" type="curve" smooth="yes"/>
+      <point x="142" y="1130" type="line" smooth="yes"/>
+      <point x="142" y="372"/>
+      <point x="590" y="-32"/>
+      <point x="1248" y="-32" type="curve" smooth="yes"/>
+      <point x="1818" y="-32"/>
+      <point x="2092" y="174"/>
+      <point x="2214" y="316" type="curve"/>
+    </contour>
+    <contour>
+      <point x="2394" y="2596" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="2394" y="3200" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1182" y="2596" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="2394" y="-814" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1242" y="-8" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>721</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>444</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

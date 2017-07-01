@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fhook" format="1">
+  <advance width="1052"/>
+  <unicode hex="0191"/>
+  <outline>
+    <contour>
+      <point x="140" y="1027" type="line"/>
+      <point x="140" y="-89" type="line" smooth="yes"/>
+      <point x="140" y="-277"/>
+      <point x="57" y="-383"/>
+      <point x="-91" y="-383" type="curve" smooth="yes"/>
+      <point x="-128" y="-383"/>
+      <point x="-169" y="-373"/>
+      <point x="-190" y="-365" type="curve"/>
+      <point x="-203" y="-417" type="line"/>
+      <point x="-164" y="-430"/>
+      <point x="-132" y="-437"/>
+      <point x="-91" y="-437" type="curve" smooth="yes"/>
+      <point x="88" y="-437"/>
+      <point x="194" y="-314"/>
+      <point x="194" y="-89" type="curve" smooth="yes"/>
+      <point x="194" y="1027" type="line"/>
+    </contour>
+    <component base="F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

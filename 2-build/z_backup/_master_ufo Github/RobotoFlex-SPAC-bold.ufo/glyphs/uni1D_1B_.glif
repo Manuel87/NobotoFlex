@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D1B" format="1">
+  <advance width="944"/>
+  <unicode hex="1D1B"/>
+  <outline>
+    <component base="uni0442"/>
+    <contour>
+      <point x="476" y="1290" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="476" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1004" y="1290" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-09 11:12:31 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

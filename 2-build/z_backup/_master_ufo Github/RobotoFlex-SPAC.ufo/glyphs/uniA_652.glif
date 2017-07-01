@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA652" format="1">
+  <advance width="1191"/>
+  <unicode hex="A652"/>
+  <outline>
+    <contour>
+      <point x="745" y="1182" type="line"/>
+      <point x="158" y="1182" type="line"/>
+      <point x="158" y="1128" type="line"/>
+      <point x="745" y="1128" type="line"/>
+    </contour>
+    <component base="I" xOffset="-40"/>
+    <component base="uni042C" xOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

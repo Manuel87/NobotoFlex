@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DED" format="1">
+  <advance width="0"/>
+  <unicode hex="1DED"/>
+  <outline>
+    <contour>
+      <point x="-904" y="1068" type="line"/>
+      <point x="-808" y="1012" type="line"/>
+      <point x="-645" y="1275" type="line"/>
+      <point x="-740" y="1331" type="line"/>
+    </contour>
+    <component base="uni0366" xOffset="-21"/>
+    <contour>
+      <point x="-614" y="1170" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:46:30 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
