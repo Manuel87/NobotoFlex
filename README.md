@@ -54,7 +54,7 @@ Direct export from Glyphs is not yet supported, therefore the following workarou
 2. Update the axis setup in ‘build/RobotoFlex_DesignSpace.py’ (if necessary)
 3. Install some python font libraries
 	- [Fontmake](https://github.com/googlei18n/fontmake) (if not already installed)
-	- [designSpaceDocument](https://github.com/LettError/designSpaceDocument) (move the it to your python-packages folder)
+	- [designSpaceDocument](https://github.com/LettError/designSpaceDocument) (move it to your python-packages folder)
 4. execute the build.sh file via Terminal ([instructions](https://apple.stackexchange.com/questions/235128/how-do-i-run-a-sh-or-command-file-in-terminal))
 5. Cross fingers and enjoy :)
 
