@@ -59,3 +59,10 @@ Direct export from Glyphs is not yet supported, therefore the following workarou
 5. Cross fingers and enjoy :)
 
 If it did not work have a look over here: https://github.com/scribbletone/i-can-variable-font)
+
+## License
+[Roboto-License](https://github.com/google/roboto)
+Additions (C) by Manuel von Gebhardi (CC BY-SA)
+
+## Credits
+This project was partially funded by Google Fonts.
