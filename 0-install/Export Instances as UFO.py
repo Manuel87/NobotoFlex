@@ -3,6 +3,8 @@
 __doc__="""
 Exports all active Instances as UFO.
 """
+#author: Manuel von Gebhardi
+
 import GlyphsApp
 import commands
 from types import *

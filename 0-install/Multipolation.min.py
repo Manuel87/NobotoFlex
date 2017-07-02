@@ -1,14 +1,4 @@
-#MenuTitle: Multipolation
-#-*- coding: utf-8 -*-
-# All comments have been removed, as this code is not yet fully opensource
-__doc__ = """
-Advanced interpolation with infinite axes.
-Author: Manuel von Gebhardi (CC-BY-SA)
-Co-Authors: Matthias Visser, ...
 
-TODO: Interface
-
-"""
 
 from Foundation import *
 import GlyphsApp
@@ -266,23 +256,54 @@ def getMasterWithOutChildren(data):  # previous name: getMasterWithChildren
 
 def convert2LocalInterpolation(data):
 
-	if not ("#All" in data["InstancesSetup"]["_fallback_values"]):
+
+
+
+	base_setting = True
+	try:
+		_base_setting = data["InstancesSetup"]["_base_setting"]
+	except:
+		try:
+			data["InstancesSetup"]["_base_setting"] = data["InstancesSetup"]["_fallback_values"]
+		except:
+			try:
+				data["InstancesSetup"]["_base_setting"] = data["InstancesSetup"]["Default"]
+			except:
+				try:
+					data["InstancesSetup"]["_base_setting"] = data["InstancesSetup"]["Regular"]
+				except:
+					base_setting = False
+
+
+
+	if not ("#All" in data["InstancesSetup"]["_base_setting"]):
 		tempdata = copy.deepcopy(data)
-		del data["InstancesSetup"]["_fallback_values"]
-		data["InstancesSetup"]["_fallback_values"] = {}
-		data["InstancesSetup"]["_fallback_values"]["#All"] = tempdata["InstancesSetup"]["_fallback_values"]
+		del data["InstancesSetup"]["_base_setting"]
+		data["InstancesSetup"]["_base_setting"] = {}
+		data["InstancesSetup"]["_base_setting"]["#All"] = tempdata["InstancesSetup"]["_base_setting"]
+
+
+
+
 
 	for instancename in data["InstancesSetup"]:
 
+		forced_Setup_on_all_Groups = False
+
+		for charGroupName in data["InstancesSetup"][instancename]:
+			if charGroupName == "_All_Force":
+
+
+
+				forced_Setup_on_all_Groups = tempdata["InstancesSetup"][instancename]["_All_Force"]
+				forced_Setup_on_all_Groups = copy.deepcopy(forced_Setup_on_all_Groups)
+
+
+
+
+
+
 		if not instancename.startswith("_"):
-
-
-
-
-
-
-
-				 # data["InstancesSetup"][instancename].copy
 
 
 
@@ -292,46 +313,75 @@ def convert2LocalInterpolation(data):
 			if not ("#All" in data["InstancesSetup"][instancename]):
 
 				tempdata = copy.deepcopy(data)
-
 				del data["InstancesSetup"][instancename]
-
 				data["InstancesSetup"][instancename] = {}
+
 				data["InstancesSetup"][instancename]["#All"] = tempdata["InstancesSetup"][instancename]
 
 
 
+			if base_setting:
+				if not (instancename == "_base_setting"):
+					tempdata = copy.deepcopy(data)
+					del data["InstancesSetup"][instancename]["#All"]
+					data["InstancesSetup"][instancename]["#All"] = {}
+
+					data["InstancesSetup"][instancename]["#All"] = tempdata["InstancesSetup"]["_base_setting"]["#All"]
+
+					for mastername in tempdata["InstancesSetup"][instancename]["#All"]:
+						data["InstancesSetup"][instancename]["#All"][mastername] = tempdata["InstancesSetup"][instancename]["#All"][mastername]
 
 
 
-			tempdata = copy.deepcopy(data)
 
 
 
-			if not (instancename == "_fallback_values"):
-				tempdata = copy.deepcopy(data)
 
-				del data["InstancesSetup"][instancename]["#All"]
-				data["InstancesSetup"][instancename]["#All"] = {}
 
-				data["InstancesSetup"][instancename]["#All"] = tempdata["InstancesSetup"]["_fallback_values"]["#All"]
 
-				for mastername in tempdata["InstancesSetup"][instancename]["#All"]:
-					data["InstancesSetup"][instancename]["#All"][mastername] = tempdata["InstancesSetup"][instancename]["#All"][mastername]
+			if base_setting:
+				for charGroupName in data["InstancesSetup"]["_base_setting"]:
+					if not (charGroupName == "#All"):
+
+						tempdata = copy.deepcopy(data)
+						try:
+							del data["InstancesSetup"][instancename][charGroupName]
+							charGroupName_does_exist = True
+						except: #does not exist, assign directly
+							charGroupName_does_exist = False
+							pass
+						data["InstancesSetup"][instancename][charGroupName] = {}
+						data["InstancesSetup"][instancename][charGroupName] = tempdata["InstancesSetup"]["_base_setting"][charGroupName]
+
+
+
+						if charGroupName_does_exist:
+							for mastername in data["InstancesSetup"][instancename][charGroupName]:
+								data["InstancesSetup"][instancename][charGroupName][mastername] = tempdata["InstancesSetup"][instancename][charGroupName][mastername]
+
+
+						if forced_Setup_on_all_Groups:
+							for mastername in forced_Setup_on_all_Groups:
+								data["InstancesSetup"][instancename][charGroupName][mastername] = forced_Setup_on_all_Groups[mastername]
 
 
 
 
 			for charGroupName in data["InstancesSetup"][instancename]:
 				if not (charGroupName == "#All"):
-					tempdata = copy.deepcopy(data)
-					del data["InstancesSetup"][instancename][charGroupName]
-					data["InstancesSetup"][instancename][charGroupName] = {}
-					data["InstancesSetup"][instancename][charGroupName] = tempdata[
-						"InstancesSetup"][instancename]["#All"]
+					if not (charGroupName == "_All_Force"):
+						tempdata = copy.deepcopy(data)
+						del data["InstancesSetup"][instancename][charGroupName]
+						data["InstancesSetup"][instancename][charGroupName] = {}
 
-					for mastername in tempdata["InstancesSetup"][instancename][charGroupName]:
-						data["InstancesSetup"][instancename][charGroupName][mastername] = tempdata[
-							"InstancesSetup"][instancename][charGroupName][mastername]
+						data["InstancesSetup"][instancename][charGroupName] = tempdata[
+							"InstancesSetup"][instancename]["#All"]
+
+						for mastername in tempdata["InstancesSetup"][instancename][charGroupName]:
+							data["InstancesSetup"][instancename][charGroupName][mastername] = tempdata[
+								"InstancesSetup"][instancename][charGroupName][mastername]
+
+
 
 
 def convertNormal2XYinterpolation(data):
@@ -521,7 +571,7 @@ class Multipolation(object):
 	def SliderInterface(self, data):
 		print "\n\n#2 Init Interface"
 		print "----------------------------------------------------------------------"
-		"  no interface yet"
+		print "  There are no sliders, nor a basic interface yet. Please edit the .json"
 
 		self.Interpolation(data)
 
@@ -569,7 +619,7 @@ class Multipolation(object):
 			"Instances_reset_all"]  # False
 
 		Add_Custom_Parameter = len(General_Custom_Parameter_Before) or len(General_Custom_Parameter_After)  # True #eg Filters
-		print "\n\nAdd_Custom_Parameter:", Add_Custom_Parameter, "\n",General_Custom_Parameter_Before, "\n", General_Custom_Parameter_After, "\n"
+
 
 
 
@@ -716,11 +766,15 @@ class Multipolation(object):
 
 
 
-								Instance_Custom_Parameter = [] #reset, otherwise all following instances would get the same
 								for mastername in data["InstancesSetup"][instancename][charGroupName]:
 									if mastername.startswith("_"):
 										if mastername.startswith("_Custom_Parameter"):
 											Instance_Custom_Parameter = data["InstancesSetup"][instancename][charGroupName][mastername]
+										if mastername.startswith("_Active"):
+											if data["InstancesSetup"][instancename]["#All"][mastername] == False:
+												Instance.active = False
+
+
 
 									if not mastername.startswith("_"):
 
@@ -760,8 +814,6 @@ class Multipolation(object):
 												k] += interpolmapvalue_new[k]
 
 
-
-
 										readablevalue = value_original_readable
 
 
@@ -795,8 +847,7 @@ class Multipolation(object):
 
 
 
-									interpolmapvalue = data["InstancesSetup"][
-										instancename][charGroupName][mastername]["map"]
+									interpolmapvalue = data["InstancesSetup"][instancename][charGroupName][mastername]["map"]
 
 
 
@@ -961,11 +1012,12 @@ class Multipolation(object):
 
 
 
-								scope = str(data["InstancesSetup"][instancename][
-											charGroupName]["_Scope"])  # "include:H"
+
+								scope = str(data["InstancesSetup"][instancename][charGroupName]["_Scope"])  # "include:H"
 								LocalGlyphInterpolations[0] = "Local Interpolation::=;" + LocalGlyphInterpolations[0] + scope
 
 
+								AddCustomParameter(Instance, LocalGlyphInterpolations)
 
 
 
@@ -979,7 +1031,6 @@ class Multipolation(object):
 						pass
 
 
-					AddCustomParameter(Instance, LocalGlyphInterpolations)
 
 					AddCustomParameter(Instance, General_Custom_Parameter_After)
 
@@ -996,5 +1047,7 @@ class Multipolation(object):
 
 
 Multipolation()
+
+
 
 
