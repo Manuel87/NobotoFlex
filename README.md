@@ -4,7 +4,7 @@
 
 Preview
 ![robotoflex preview](README_media/Preview.gif)
-[(my custom testing page)](manuel.vongebhardi.de/variable-fonts/testing/)
+[(via my custom testing page)](htttp://manuel.vongebhardi.de/variable-fonts/testing/)
 
 ### Some features currently missing in the font format
 - per-glyph-interpolation axes (the “Height”-subaxes are currently achieved by a workaround)
