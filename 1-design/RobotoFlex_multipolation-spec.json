@@ -14,10 +14,9 @@
 		"_description": "Setup basic relation between masters. Currently every additional master is interpreted as an axis. A Top-Level-Axes setup will be included in the next version.",
 		"_syntax": "['parent_value'[optional: x,y],'master_value'[optional: x,y], ['child master one', 'child master two', ...]",
 		"Regular":			[0,1, "All"],
-		"Light":			[[200, 54],[160,54],["Height","nWidth","Diacritics","MonoFaux","Monospace", "Baselineshift", "Curvature", "CurvatureEqual"]],
+		"Light":			[[200, 54],[160,54],["Height","nWidth","Diacritics","MonoFaux","Monospace", "Curvature", "CurvatureEqual"]],
 			"Height":			[1456, 1165],
 			"Diacritics":		[0, 100],
-			"Baselineshift":	[0, 100],
 			"Monospace":		[0, 100],
 			"MonoFaux":			[0, 100],
 			"Curvature":		[0, 100],
@@ -43,7 +42,6 @@
 				"Height":			"none",
 				"nWidth":			"none",
 				"Diacritics":		"none",
-				"Baselineshift":	"none",
 				"Rounded":			"none",
 				"CurvatureEqual":	"none",
 				"Curvature":		"none",
@@ -216,14 +214,14 @@
 			}
 		},
 		"Scale-min":	{
-			"_Active":		false,
+			"_Active":			false,
 			"_Custom_Parameter": ["Filter::Transformations;ScaleX:50;ScaleY:50;Origin:4;",
 								"Note::Filter is currently not applied to the UFO - needs to be fixed in Glyphs"],
-			"Light": ["185/3*2","152/3*2"],
+			"Light": 			["185/3*2","152/3*2"],
 			"__Light_Note": "value is just guessed, I don't understande the logic here yet"
 		},
 		"Scale-max":	{
-			"_Active":		false,
+			"_Active":			false,
 			"Light":			["none","none"],
 			"Bold":				["185*1.5","152*1.5"],
 			"_Custom_Parameter": ["Filter::Transformations;ScaleX:200;ScaleY:200;Origin:4;",
@@ -236,12 +234,10 @@
 			"Diacritics":		"full+200"
 		},
 		"Baseline_Shift-min":	{
-			"_Custom_Parameter": ["Filter::Transformations;OffsetY:-500;"],
-			"Baselineshift":	"-500"
+			"_Custom_Parameter": ["Filter::Transformations;OffsetY:-500;"]
 		},
 		"Baseline_Shift-max":	{
-			"__doesnotwork_in_UFO_:(__Custom_ParameterOrigin:4;": ["Filter::Transformations;OffsetY:500;"],
-			"Baselineshift":	"500"
+			"__doesnotwork_in_UFO_:(__Custom_ParameterOrigin:4;": ["Filter::Transformations;OffsetY:500;"]
 		},
 		"Rounded":	{
 			"Rounded":			"full"
@@ -332,7 +328,6 @@
 			"Height":			"none",
 			"nWidth":			"none",
 			"Diacritics":		"none",
-			"Baselineshift":	"none",
 			"Rounded":			"none",
 			"CurvatureEqual":	"none",
 			"Curvature":		"none",
