@@ -6,24 +6,12 @@ Preview
 ![robotoflex preview](README_media/Preview.gif)
 [(via my custom testing page)](http://manuel.vongebhardi.de/variable-fonts/testing/)
 
-### Some features currently missing in the font format
-- per-glyph-interpolation axes (the “Height”-subaxes are currently achieved by a workaround)
-- hierachies + math for the slider behaviour to increase usability and decrease filesize (at the moment there are way more masters within this font, than actually needed) 
-- unrestricted interpolation-value-bounds (allow extrapolation, and leave it to the designer to decide when it’s good or bad)
-- possiblity to add a baseline-shift axis without an aditional master (e.g. adding basic transformations)
-- possiblity to add a proportional scale axis without an aditional master (is really difficult to make it work with masters!)
-
-### Bugs / A few known issues
-- this is more a demo than a full release, be aware ;)
-- there are still quite a few incompatible and therefore missing glyphs 
-- Mono-axes does throw an assertion error (why!?) and is therefore exluded for the moment
-- tight spacing is off (maybe a rounding problem?)
-
 ## Basic Setup / Install
 - To handle complex interpolations in Glyphs: [0-install/Multipolation](0-install/)
 - To export Instances as UFOs (to build the variable font): [0-install/Export Instances as UFO](0-install/)
 - To preview: [Fontview](https://github.com/googlei18n/fontview/releases) or http://axis-praxis.org
 
+.
 
 ## Drawing
 ### Files
@@ -66,6 +54,23 @@ Direct export from Glyphs is not yet supported, therefore the following workarou
 5. Cross fingers and enjoy :)
 
 If it did not work have a look over here: https://github.com/scribbletone/i-can-variable-font)
+
+.
+
+## Bugs / Font format issues / ...
+### Some features currently missing in the font format
+- per-glyph-interpolation axes (the “Height”-subaxes are currently achieved by a workaround)
+- hierachies + math for the slider behaviour to increase usability and decrease filesize (at the moment there are way more masters within this font, than actually needed) 
+- unrestricted interpolation-value-bounds (allow extrapolation, and leave it to the designer to decide when it’s good or bad)
+- possiblity to add a baseline-shift axis without an aditional master (e.g. adding basic transformations)
+- possiblity to add a proportional scale axis without an aditional master (is really difficult to make it work with masters!)
+
+### Bugs / A few known issues
+- This is more a demo than a full release, be aware ;)
+- There are still quite a few incompatible and therefore missing glyphs 
+- Mono-axes does throw an assertion error (why!?) and is therefore exluded for the moment
+- Tight spacing is off (maybe a rounding problem?)
+- @Glyphs: exported UFOs ignore the instances custom parameters
 
 ## License
 [Roboto-License](https://github.com/google/roboto), and Additions (C) by Manuel von Gebhardi (CC BY-SA)
