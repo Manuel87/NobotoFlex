@@ -4,7 +4,7 @@
 
 Preview
 ![robotoflex preview](README_media/Preview.gif)
-[(via my custom testing page)](http://manuel.vongebhardi.de/variable-fonts/testing/)
+[(via external testing page)](http://manuel.vongebhardi.de/variable-fonts/testing/)
 
 ## Basic Setup / Install
 - To handle complex interpolations in Glyphs: [0-install/Multipolation](0-install/)
