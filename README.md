@@ -72,3 +72,8 @@ If it did not work have a look over here: https://github.com/scribbletone/i-can-
 
 ## Credits
 This project was partially funded by Google Fonts.
+
+## Related
+- https://github.com/Manuel87/CrimVarious
+- https://github.com/Manuel87/TypeVariables/
+- https://github.com/Manuel87/ExperimentalParametricTypeface
