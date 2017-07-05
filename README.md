@@ -4,7 +4,7 @@
 
 Preview
 ![robotoflex preview](README_media/Preview.gif)
-[testing page](manuel.vongebhardi.de/variable-fonts/testing/)
+[(testing page)](manuel.vongebhardi.de/variable-fonts/testing/)
 
 ### Some features currently missing in the font format
 - per-glyph-interpolation axes (the “Height”-subaxes are currently achieved by a workaround)
@@ -68,8 +68,7 @@ Direct export from Glyphs is not yet supported, therefore the following workarou
 If it did not work have a look over here: https://github.com/scribbletone/i-can-variable-font)
 
 ## License
-[Roboto-License](https://github.com/google/roboto)
-Additions (C) by Manuel von Gebhardi (CC BY-SA)
+[Roboto-License](https://github.com/google/roboto), and Additions (C) by Manuel von Gebhardi (CC BY-SA)
 
 ## Credits
 This project was partially funded by Google Fonts.
