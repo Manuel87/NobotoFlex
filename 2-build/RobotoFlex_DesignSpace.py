@@ -14,10 +14,10 @@ def init():
 		{"Spacing" : 			{ 	"min": "source", 	"max":	"source" }},
 
 		{"Weight": { 				"min": "source",	"max":	"source" }},  # registered
+		{"Optical_Lineheight" : { 	"min": "source", 	"max":	"source", "labelName_en": "Optical Line Height"  }},
 		{"Height" : { 				"min": "source", 	"max":	"default"}},
-		{"Optical_Lineheight" : { 	"min": "source", 	"max":	"source" }},
-		{"Caps_Size" : { 			"min": "source", 	"max":	"source", "labelName_en": "> Caps, many"  }},
 		{"Caps_Initial_Size" : { 	"min": "source", 	"max":	"source", "labelName_en": "> Caps, single"  }},
+		{"Caps_Size" : { 			"min": "source", 	"max":	"source", "labelName_en": "> Caps, many"  }},
 		{"Caps_smcp_Size" : { 		"min": "source", 	"max":	"source", "labelName_en": "> Smcp"  }},
 		{"Ascenders_Height" : { 	"min": "source", 	"max":	"source", "labelName_en": "> Ascenders" }},
 		{"Descenders_Height" : { 	"min": "source", 	"max":	"source", "labelName_en": "> Descenders" }},
@@ -35,7 +35,7 @@ def init():
 		# need to differ from min/max otherwise it will not build / fonttools error
 
 
-		"Scale":				100,
+		"Scale":			100,
 		"Baseline_Shift": 	500, #at 0
 		"Spacing": 			100,
 
