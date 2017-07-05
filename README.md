@@ -61,7 +61,7 @@ If it did not work have a look over here: https://github.com/scribbletone/i-can-
 ### Some features currently missing in the font format
 - per-glyph-interpolation axes (the “Height”-subaxes are currently achieved by a workaround)
 - hierachies + math for the slider behaviour to increase usability and decrease filesize (at the moment there are way more masters within this font, than actually needed) 
-- please remove the restricted interpolation-value-bounds (allow extrapolation, and leave it to the designer to decide when it’s good or bad)
+- please remove restricted interpolation-value-bounds (allow extrapolation, and leave it to the designer to decide when it’s good or bad)
 - possiblity to add a baseline-shift axis without an aditional master (e.g. adding basic transformations)
 - possiblity to add a proportional scale axis without an aditional master (is really difficult to make it work with masters!)
 
