@@ -82,3 +82,4 @@ This project was partially funded by Google Fonts.
 - https://github.com/Manuel87/CrimVarious
 - https://github.com/Manuel87/TypeVariables/
 - https://github.com/Manuel87/ExperimentalParametricTypeface
+- https://github.com/Manuel87/TypeMultiverse
