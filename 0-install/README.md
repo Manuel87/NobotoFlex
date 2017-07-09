@@ -3,8 +3,8 @@ In order to user the multipolation designspace file you need to install this lit
 
 ### Install
 
-1. Move the “multipolation.min.py” to the script folder of Glyphs.
-2. Now it is executable in Glyphs via: Script > Metapolation :)
+1. Move the two python scripts to the scripts folder of Glyphs. (Glyphs > Script > Open Scripts Folder)
+2. Now it is executable in Glyphs via: Script > “Metapolation” / “Export Instances as UFO” :)
 
 ### Feautres
 - Infinte numbers of Axes
