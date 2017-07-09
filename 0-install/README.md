@@ -17,5 +17,5 @@ In order to user the multipolation designspace file you need to install this lit
 - Extrapolation
 - ...
 
-### Latest version
+### Latest version of the multipolation script
 https://github.com/Manuel87/GlyphsApp-Multipolation
