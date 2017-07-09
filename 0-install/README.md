@@ -1,4 +1,5 @@
-In order to user the multipolation designspace file you need to install this litle script.
+In order to user the multipolation designspace file you need to install this little script.
+
 
 ### Install
 
@@ -15,3 +16,6 @@ In order to user the multipolation designspace file you need to install this lit
 - Local interpolations (allowing different interpolation values for specified glyphs)
 - Extrapolation
 - ...
+
+### Latest version
+https://github.com/Manuel87/GlyphsApp-Multipolation
