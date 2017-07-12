@@ -1,3 +1,21 @@
+#MenuTitle: Multipolation
+#-*- coding: utf-8 -*-
+__doc__ = """
+Advanced interpolation with infinite axes.
+"""
+#Author: Manuel von Gebhardi (CC-BY-SA)
+#Co-Authors: Matthias Visser, ...
+
+#No Comments: Duo copyright issues all descriptive comments for the code have been removed!
+#Get in touch if you would like to contribute to this.
+
+
+#TODO:
+#o Integration as a Custom Parameter in Glyphs Font Info (getting rid of the extra spec file)
+#o Interface (Setup, Slider, Knobs, ...)
+#o Full integration of complex axes (axes relations, math, switches, ...)
+#o Direct export as a variable  font (though the variable font spec has to catch up with features)
+
 
 
 from Foundation import *
@@ -14,11 +32,11 @@ from pprint import pprint
 import copy
 
 from random import randint
-import ast  # string to list
+import ast
 
 
 Doc = Glyphs.currentDocument
-Font = Glyphs.font  # frontmost font
+Font = Glyphs.font
 
 jsonfilename = "_multipolation-spec.json"
 
@@ -73,8 +91,8 @@ def func(a, b, c):
 
 def AddInstance(myname, myfilters=False):
 	newInstance = GSInstance()
-	newInstance.active = True  # Activate_New_Instances
-	newInstance.name = myname  # prefix + "{0:.0f}".format( thisWeight )
+	newInstance.active = True
+	newInstance.name = myname
 	newInstance.weightValue = 1
 	newInstance.widthValue = 1
 	newInstance.isItalic = False
@@ -114,7 +132,7 @@ def getGSObjectIndex(thisArray, name):
 
 
 def sumSelDictValues(thisArray, selectionArray, childsvalue):
-	sum = [0.0, 0.0]  # xy
+	sum = [0.0, 0.0]
 	sum_string = ["", ""]
 
 	for selection in selectionArray:
@@ -146,7 +164,7 @@ def CheckIfValuesSequel(thisArray):
 	return sum
 
 
-def getMasterNames(excludeStr):  # * #excludeStr="whatever"
+def getMasterNames(excludeStr):
 	MasterNameArray = []
 	excludeStr = [excludeStr]
 	for k in range(len(Font.masters)):
@@ -205,18 +223,18 @@ def getInstanceMasterValuesCalcOrder(data):
 	return MastersWithoutChildsArray + OrderAsArray
 
 
-def getMasterWithChildren(data):  # previous name: getMasterWithChildren
+def getMasterWithChildren(data):
 	MasterWithChildren = {}
 	k = 0
 	for mastername in data["MasterSetupMapping"]:
-		if not mastername.startswith("_"):  # exclude comments, etc.
+		if not mastername.startswith("_"):
 
 
 
 
 
 
-			if (len(data["MasterSetupMapping"][mastername]) > 2):  # only the ones with children
+			if (len(data["MasterSetupMapping"][mastername]) > 2):
 				children = data["MasterSetupMapping"][mastername][2]
 
 
@@ -228,8 +246,8 @@ def getMasterWithChildren(data):  # previous name: getMasterWithChildren
 
 
 
-				MasterWithChildren.update({mastername: k})  # k
-				k += 1  # initial random order
+				MasterWithChildren.update({mastername: k})
+				k += 1
 
 
 
@@ -239,11 +257,11 @@ def getMasterWithChildren(data):  # previous name: getMasterWithChildren
 	return MasterWithChildren
 
 
-def getMasterWithOutChildren(data):  # previous name: getMasterWithChildren
+def getMasterWithOutChildren(data):
 	MasterWithOutChildrenArray = []
 	k = 0
 	for mastername in data["MasterSetupMapping"]:
-		if not mastername.startswith("_"):  # exclude comments, etc.
+		if not mastername.startswith("_"):
 
 			if (not len(data["MasterSetupMapping"][mastername]) > 2):
 				MasterWithOutChildrenArray += [str(mastername)]
@@ -347,7 +365,7 @@ def convert2LocalInterpolation(data):
 						try:
 							del data["InstancesSetup"][instancename][charGroupName]
 							charGroupName_does_exist = True
-						except: #does not exist, assign directly
+						except:
 							charGroupName_does_exist = False
 							pass
 						data["InstancesSetup"][instancename][charGroupName] = {}
@@ -393,7 +411,7 @@ def convertNormal2XYinterpolation(data):
 
 		if not mastername.startswith("_"):
 			values = data["MasterSetupMapping"][mastername]
-			if (len(values) > 2):  # gets childs
+			if (len(values) > 2):
 				childs = values.pop(-1)
 
 			else:
@@ -563,7 +581,7 @@ class Multipolation(object):
 		with open(jsonpath) as data_file:
 			data = json.load(data_file)
 
-			data = byteify(data)  # convert unicode
+			data = byteify(data)
 
 
 		self.SliderInterface(data)
@@ -616,9 +634,9 @@ class Multipolation(object):
 
 
 		Instances_reset_all = data["GeneralSetup"][
-			"Instances_reset_all"]  # False
+			"Instances_reset_all"]
 
-		Add_Custom_Parameter = len(General_Custom_Parameter_Before) or len(General_Custom_Parameter_After)  # True #eg Filters
+		Add_Custom_Parameter = len(General_Custom_Parameter_Before) or len(General_Custom_Parameter_After)
 
 
 
@@ -638,7 +656,7 @@ class Multipolation(object):
 
 		for k in range(0, Master_Count - 1, 1):
 			Instance_reset_Values = Instance_reset_Values + \
-				[0.0]  # .append(0.0)
+				[0.0]
 
 
 
@@ -652,9 +670,9 @@ class Multipolation(object):
 
 
 
-			for j in range(1, Master_Count, 1):  # 0, Master_Count-1, 1)
+			for j in range(1, Master_Count, 1):
 				interpol_array.append(Instance_reset_Values[
-									  :])  # use as a copy
+									  :])
 				interpol_array[-1][j - 1] = 1.0
 
 				interpol_array[-1].append(Masters[j].name)
@@ -663,7 +681,7 @@ class Multipolation(object):
 
 
 
-		def process(interpol_array):  # slider,
+		def process(interpol_array):
 
 
 
@@ -681,7 +699,7 @@ class Multipolation(object):
 
 
 			MasterNamesCalcOrderArray = getInstanceMasterValuesCalcOrder(
-				data)  # format is: {"Name of Master":1}
+				data)
 			print "	- MasterNames", MasterNamesCalcOrderArray
 
 
@@ -759,10 +777,10 @@ class Multipolation(object):
 
 							if not instancename.startswith("_"):
 
-								InstanceName = instancename  # Todo clean up
+								InstanceName = instancename
 
 								finaloverallcalcsum = [0.0, 0.0]
-								interpol_sum = [0.0, 0.0]  # clear to zero
+								interpol_sum = [0.0, 0.0]
 
 
 
@@ -1013,7 +1031,7 @@ class Multipolation(object):
 
 
 
-								scope = str(data["InstancesSetup"][instancename][charGroupName]["_Scope"])  # "include:H"
+								scope = str(data["InstancesSetup"][instancename][charGroupName]["_Scope"])
 								LocalGlyphInterpolations[0] = "Local Interpolation::=;" + LocalGlyphInterpolations[0] + scope
 
 
