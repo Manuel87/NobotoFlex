@@ -374,7 +374,7 @@ def convert2LocalInterpolation(data):
 
 
 						if charGroupName_does_exist:
-							for mastername in data["InstancesSetup"][instancename][charGroupName]:
+							for mastername in tempdata["InstancesSetup"][instancename][charGroupName]:
 								data["InstancesSetup"][instancename][charGroupName][mastername] = tempdata["InstancesSetup"][instancename][charGroupName][mastername]
 
 
@@ -589,7 +589,7 @@ class Multipolation(object):
 	def SliderInterface(self, data):
 		print "\n\n#2 Init Interface"
 		print "----------------------------------------------------------------------"
-		print "  There are no sliders, nor a basic interface yet. Please edit the .json"
+		print "  There are no sliders, nor a basic interface yet. Please edit the .json."
 
 		self.Interpolation(data)
 
@@ -784,6 +784,7 @@ class Multipolation(object):
 
 
 
+								Instance_Custom_Parameter = []
 								for mastername in data["InstancesSetup"][instancename][charGroupName]:
 									if mastername.startswith("_"):
 										if mastername.startswith("_Custom_Parameter"):
@@ -830,6 +831,8 @@ class Multipolation(object):
 
 											interpol_sum[
 												k] += interpolmapvalue_new[k]
+
+
 
 
 										readablevalue = value_original_readable
