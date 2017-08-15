@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA685" format="1">
+  <advance width="976"/>
+  <unicode hex="A685"/>
+  <outline>
+    <contour>
+      <point x="591" y="541" type="line"/>
+      <point x="530" y="541" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="591" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="947" y="541" type="line"/>
+      <point x="870" y="541" type="line"/>
+      <point x="673" y="301" type="line"/>
+      <point x="325" y="301" type="line"/>
+      <point x="331" y="249" type="line"/>
+      <point x="699" y="249" type="line"/>
+    </contour>
+    <contour>
+      <point x="891" y="0" type="line"/>
+      <point x="972" y="0" type="line"/>
+      <point x="705" y="302" type="line"/>
+      <point x="667" y="257" type="line"/>
+    </contour>
+    <component base="uni0437" xOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

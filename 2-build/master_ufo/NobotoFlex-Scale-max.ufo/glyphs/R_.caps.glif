@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R.caps" format="1">
+  <advance width="2526"/>
+  <outline>
+    <contour>
+      <point x="258" y="2800" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="836" y="0" type="line"/>
+      <point x="836" y="2324" type="line"/>
+      <point x="1302" y="2324" type="line" smooth="yes"/>
+      <point x="1624" y="2324"/>
+      <point x="1770" y="2160"/>
+      <point x="1770" y="1906" type="curve" smooth="yes"/>
+      <point x="1770" y="1658"/>
+      <point x="1612" y="1498"/>
+      <point x="1300" y="1498" type="curve" smooth="yes"/>
+      <point x="646" y="1498" type="line"/>
+      <point x="650" y="1022" type="line"/>
+      <point x="1544" y="1022" type="line"/>
+      <point x="1724" y="1124" type="line"/>
+      <point x="2106" y="1254"/>
+      <point x="2348" y="1498"/>
+      <point x="2348" y="1948" type="curve" smooth="yes"/>
+      <point x="2348" y="2502"/>
+      <point x="1958" y="2800"/>
+      <point x="1302" y="2800" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1838" y="0" type="line"/>
+      <point x="2456" y="0" type="line"/>
+      <point x="2456" y="26" type="line"/>
+      <point x="1800" y="1250" type="line"/>
+      <point x="1192" y="1248" type="line"/>
+    </contour>
+    <contour>
+      <point x="2526" y="3088" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="2526" y="3200" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1166" y="3088" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="2526" y="-814" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1192" y="20" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

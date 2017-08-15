@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U.smcp" format="1">
+  <advance width="2328"/>
+  <outline>
+    <contour>
+      <point x="1580" y="2330" type="line"/>
+      <point x="1580" y="816" type="line" smooth="yes"/>
+      <point x="1580" y="538"/>
+      <point x="1432" y="422"/>
+      <point x="1166" y="422" type="curve" smooth="yes"/>
+      <point x="902" y="422"/>
+      <point x="748" y="538"/>
+      <point x="748" y="816" type="curve" smooth="yes"/>
+      <point x="748" y="2330" type="line"/>
+      <point x="192" y="2330" type="line"/>
+      <point x="192" y="816" type="line"/>
+      <point x="192" y="266"/>
+      <point x="592" y="-32"/>
+      <point x="1166" y="-32" type="curve" smooth="yes"/>
+      <point x="1738" y="-32"/>
+      <point x="2136" y="266"/>
+      <point x="2136" y="816" type="curve"/>
+      <point x="2136" y="2330" type="line"/>
+    </contour>
+    <contour>
+      <point x="1726" y="116" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="2328" y="3200" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1156" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2328" y="-814" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="2328" y="2640" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1156" y="2640" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1438" y="0" type="move" name="right"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>721</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>444</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

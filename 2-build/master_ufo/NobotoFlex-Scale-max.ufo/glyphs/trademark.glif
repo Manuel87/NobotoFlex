@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="2586"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="2026" y="1830" type="line"/>
+      <point x="2274" y="1830" type="line"/>
+      <point x="2274" y="2912" type="line"/>
+      <point x="1982" y="2912" type="line"/>
+      <point x="1728" y="2174" type="line"/>
+      <point x="1486" y="2912" type="line"/>
+      <point x="1182" y="2912" type="line"/>
+      <point x="1182" y="1830" type="line"/>
+      <point x="1430" y="1830" type="line"/>
+      <point x="1430" y="2542" type="line"/>
+      <point x="1658" y="1830" type="line"/>
+      <point x="1798" y="1830" type="line"/>
+      <point x="2026" y="2538" type="line"/>
+    </contour>
+    <contour>
+      <point x="1038" y="2912" type="line"/>
+      <point x="230" y="2912" type="line"/>
+      <point x="230" y="2702" type="line"/>
+      <point x="504" y="2702" type="line"/>
+      <point x="504" y="1836" type="line"/>
+      <point x="776" y="1836" type="line"/>
+      <point x="776" y="2702" type="line"/>
+      <point x="1038" y="2702" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

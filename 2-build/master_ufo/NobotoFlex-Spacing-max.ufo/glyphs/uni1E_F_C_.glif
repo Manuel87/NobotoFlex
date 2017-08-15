@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EFC" format="1">
+  <advance width="1560"/>
+  <unicode hex="1EFC"/>
+  <outline>
+    <contour>
+      <point x="784" y="821" type="line"/>
+      <point x="928" y="779"/>
+      <point x="1057" y="663"/>
+      <point x="1057" y="434" type="curve" smooth="yes"/>
+      <point x="1057" y="248"/>
+      <point x="959" y="134"/>
+      <point x="787" y="134" type="curve" smooth="yes"/>
+      <point x="642" y="134"/>
+      <point x="507" y="274"/>
+      <point x="507" y="534" type="curve" smooth="yes"/>
+      <point x="507" y="666" type="line" smooth="yes"/>
+      <point x="507" y="1019"/>
+      <point x="650" y="1234"/>
+      <point x="977" y="1300" type="curve"/>
+      <point x="947" y="1458" type="line"/>
+      <point x="450" y="1368"/>
+      <point x="321" y="1035"/>
+      <point x="321" y="601" type="curve" smooth="yes"/>
+      <point x="321" y="539" type="line" smooth="yes"/>
+      <point x="321" y="269"/>
+      <point x="474" y="-20"/>
+      <point x="787" y="-20" type="curve" smooth="yes"/>
+      <point x="1082" y="-20"/>
+      <point x="1239" y="166"/>
+      <point x="1239" y="448" type="curve" smooth="yes"/>
+      <point x="1239" y="711"/>
+      <point x="1075" y="912"/>
+      <point x="833" y="973" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

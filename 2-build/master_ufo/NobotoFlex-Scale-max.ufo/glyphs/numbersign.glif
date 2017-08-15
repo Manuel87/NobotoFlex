@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="2456"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="454" y="0" type="line"/>
+      <point x="812" y="0" type="line"/>
+      <point x="1332" y="2912" type="line"/>
+      <point x="974" y="2912" type="line"/>
+    </contour>
+    <contour>
+      <point x="1214" y="0" type="line"/>
+      <point x="1572" y="0" type="line"/>
+      <point x="2092" y="2912" type="line"/>
+      <point x="1734" y="2912" type="line"/>
+    </contour>
+    <contour>
+      <point x="2376" y="1738" type="line"/>
+      <point x="2376" y="2080" type="line"/>
+      <point x="296" y="2080" type="line"/>
+      <point x="296" y="1738" type="line"/>
+    </contour>
+    <contour>
+      <point x="2226" y="820" type="line"/>
+      <point x="2226" y="1162" type="line"/>
+      <point x="144" y="1162" type="line"/>
+      <point x="144" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

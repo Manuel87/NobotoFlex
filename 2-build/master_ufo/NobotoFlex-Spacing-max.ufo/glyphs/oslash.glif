@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="1560"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="1183" y="1209" type="line"/>
+      <point x="1060" y="1209" type="line"/>
+      <point x="397" y="-135" type="line"/>
+      <point x="520" y="-135" type="line"/>
+    </contour>
+    <component base="o"/>
+    <contour>
+      <point x="737" y="1289" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1360" y="1289" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1360" y="1600" type="move" name="top_dd"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

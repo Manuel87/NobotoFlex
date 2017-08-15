@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA758" format="1">
+  <advance width="3598"/>
+  <unicode hex="A758"/>
+  <outline>
+    <contour>
+      <point x="2056" y="1388" type="line"/>
+      <point x="2056" y="778"/>
+      <point x="1824" y="444"/>
+      <point x="1410" y="444" type="curve" smooth="yes"/>
+      <point x="1000" y="444"/>
+      <point x="756" y="778"/>
+      <point x="756" y="1388" type="curve" smooth="yes"/>
+      <point x="756" y="1526" type="line" smooth="yes"/>
+      <point x="756" y="2138"/>
+      <point x="996" y="2466"/>
+      <point x="1406" y="2466" type="curve" smooth="yes"/>
+      <point x="1818" y="2466"/>
+      <point x="2056" y="2138"/>
+      <point x="2056" y="1526" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="2640" y="1522" type="line"/>
+      <point x="2640" y="2408"/>
+      <point x="2136" y="2952"/>
+      <point x="1406" y="2952" type="curve" smooth="yes"/>
+      <point x="680" y="2952"/>
+      <point x="174" y="2408"/>
+      <point x="174" y="1522" type="curve" smooth="yes"/>
+      <point x="174" y="1388" type="line" smooth="yes"/>
+      <point x="174" y="502"/>
+      <point x="684" y="-40"/>
+      <point x="1410" y="-40" type="curve" smooth="yes"/>
+      <point x="2140" y="-40"/>
+      <point x="2640" y="502"/>
+      <point x="2640" y="1388" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1840" y="440" type="line"/>
+      <point x="1486" y="104" type="line"/>
+      <point x="2528" y="-736" type="line"/>
+      <point x="2888" y="-398" type="line"/>
+    </contour>
+    <contour>
+      <point x="2870" y="1576" type="line"/>
+      <point x="3052" y="1334"/>
+      <point x="3296" y="1050"/>
+      <point x="2854" y="608" type="curve"/>
+      <point x="1734" y="-512" type="line"/>
+      <point x="2008" y="-784" type="line"/>
+      <point x="3118" y="328" type="line" smooth="yes"/>
+      <point x="3662" y="872"/>
+      <point x="3646" y="1282"/>
+      <point x="3202" y="1832" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

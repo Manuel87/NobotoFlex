@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="1590"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="1327" y="0" type="line"/>
+      <point x="1328" y="158" type="line"/>
+      <point x="295" y="158" type="line"/>
+      <point x="295" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="963" y="623" type="line"/>
+      <point x="963" y="780" type="line"/>
+      <point x="291" y="780" type="line"/>
+      <point x="291" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="1039" type="line"/>
+      <point x="635" y="1219"/>
+      <point x="739" y="1318"/>
+      <point x="871" y="1318" type="curve" smooth="yes"/>
+      <point x="995" y="1318"/>
+      <point x="1108" y="1254"/>
+      <point x="1108" y="1087" type="curve"/>
+      <point x="1300" y="1087" type="line"/>
+      <point x="1300" y="1319"/>
+      <point x="1148" y="1476"/>
+      <point x="887" y="1476" type="curve" smooth="yes"/>
+      <point x="632" y="1476"/>
+      <point x="443" y="1315"/>
+      <point x="443" y="1039" type="curve" smooth="yes"/>
+      <point x="465" y="402" type="line" smooth="yes"/>
+      <point x="465" y="313"/>
+      <point x="442" y="175"/>
+      <point x="372" y="158" type="curve"/>
+      <point x="546" y="104" type="line"/>
+      <point x="621" y="160"/>
+      <point x="657" y="278"/>
+      <point x="657" y="403" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

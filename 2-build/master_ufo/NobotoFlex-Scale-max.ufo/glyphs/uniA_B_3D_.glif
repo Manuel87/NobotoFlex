@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB3D" format="1">
+  <advance width="2130"/>
+  <unicode hex="AB3D"/>
+  <outline>
+    <contour>
+      <point x="230" y="1754" type="line"/>
+      <point x="230" y="130" type="line"/>
+      <point x="1346" y="-40" type="line"/>
+      <point x="1502" y="434" type="line"/>
+      <point x="784" y="564" type="line"/>
+      <point x="784" y="2204" type="line"/>
+    </contour>
+    <contour>
+      <point x="1900" y="410" type="line"/>
+      <point x="1900" y="2034" type="line"/>
+      <point x="784" y="2204" type="line"/>
+      <point x="630" y="1732" type="line"/>
+      <point x="1346" y="1600" type="line"/>
+      <point x="1346" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

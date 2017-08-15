@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="response" format="1">
+  <advance width="652"/>
+  <unicode hex="211F"/>
+  <outline>
+    <contour>
+      <point x="522" y="795" type="line"/>
+      <point x="361" y="879" type="line"/>
+      <point x="336" y="829" type="line"/>
+      <point x="455" y="769" type="line"/>
+      <point x="98" y="-177" type="line"/>
+      <point x="153" y="-177" type="line"/>
+    </contour>
+    <component base="R" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

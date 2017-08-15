@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="2982"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="1666" y="2664" type="line"/>
+      <point x="1536" y="2912" type="line"/>
+      <point x="1214" y="2912" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="648" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2344" y="0" type="line"/>
+      <point x="2948" y="0" type="line"/>
+      <point x="1802" y="2912" type="line"/>
+      <point x="1478" y="2912" type="line"/>
+      <point x="1344" y="2682" type="line"/>
+    </contour>
+    <contour>
+      <point x="2416" y="474" type="line"/>
+      <point x="508" y="474" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="2416" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>901</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>555</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

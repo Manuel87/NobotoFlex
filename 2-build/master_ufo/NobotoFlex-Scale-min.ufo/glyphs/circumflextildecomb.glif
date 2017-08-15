@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflextildecomb" format="1">
+  <advance width="447"/>
+  <outline>
+    <contour>
+      <point x="243" y="743" type="line"/>
+      <point x="195" y="743" type="line"/>
+      <point x="55" y="626" type="line"/>
+      <point x="119" y="626" type="line"/>
+      <point x="219" y="713" type="line"/>
+      <point x="319" y="626" type="line"/>
+      <point x="384" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="854" type="line"/>
+      <point x="317" y="829"/>
+      <point x="299" y="811"/>
+      <point x="276" y="811" type="curve" smooth="yes"/>
+      <point x="236" y="811"/>
+      <point x="219" y="856"/>
+      <point x="172" y="856" type="curve" smooth="yes"/>
+      <point x="132" y="856"/>
+      <point x="100" y="817"/>
+      <point x="100" y="777" type="curve"/>
+      <point x="132" y="770" type="line"/>
+      <point x="132" y="796"/>
+      <point x="150" y="818"/>
+      <point x="172" y="818" type="curve" smooth="yes"/>
+      <point x="214" y="818"/>
+      <point x="225" y="773"/>
+      <point x="276" y="773" type="curve" smooth="yes"/>
+      <point x="317" y="773"/>
+      <point x="349" y="806"/>
+      <point x="349" y="847" type="curve"/>
+    </contour>
+    <contour>
+      <point x="220" y="660" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

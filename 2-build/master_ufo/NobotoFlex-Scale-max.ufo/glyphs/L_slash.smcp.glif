@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash.smcp" format="1">
+  <advance width="1946"/>
+  <outline>
+    <contour>
+      <point x="1878" y="454" type="line"/>
+      <point x="616" y="454" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="1878" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="804" y="2330" type="line"/>
+      <point x="248" y="2330" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="804" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1294" y="1684" type="line"/>
+      <point x="12" y="1310" type="line"/>
+      <point x="12" y="984" type="line"/>
+      <point x="1294" y="1358" type="line"/>
+    </contour>
+    <contour>
+      <point x="1946" y="3200" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="1060" y="16" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1946" y="-814" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="1946" y="2640" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="1058" y="2336" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="544" y="2640" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1058" y="1378" type="move" name="dot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

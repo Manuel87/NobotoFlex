@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ysmallcap" format="1">
+  <advance width="2178"/>
+  <unicode hex="028F"/>
+  <outline>
+    <contour>
+      <point x="964" y="928" type="line"/>
+      <point x="1030" y="642" type="line"/>
+      <point x="1330" y="642" type="line"/>
+      <point x="2168" y="2164" type="line"/>
+      <point x="1564" y="2164" type="line"/>
+    </contour>
+    <contour>
+      <point x="614" y="2164" type="line"/>
+      <point x="8" y="2164" type="line"/>
+      <point x="846" y="642" type="line"/>
+      <point x="1148" y="642" type="line"/>
+      <point x="1220" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="1360" y="976" type="line"/>
+      <point x="806" y="976" type="line"/>
+      <point x="806" y="0" type="line"/>
+      <point x="1360" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1090" y="2580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1090" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2178" y="2580" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.779</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

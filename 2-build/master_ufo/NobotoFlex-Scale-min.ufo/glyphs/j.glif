@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="234"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="83" y="541" type="line"/>
+      <point x="83" y="-109" type="line"/>
+      <point x="83" y="-177"/>
+      <point x="51" y="-211"/>
+      <point x="-6" y="-211" type="curve" smooth="yes"/>
+      <point x="-21" y="-211"/>
+      <point x="-39" y="-208"/>
+      <point x="-51" y="-205" type="curve"/>
+      <point x="-52" y="-253" type="line"/>
+      <point x="-36" y="-259"/>
+      <point x="-16" y="-263"/>
+      <point x="2" y="-263" type="curve" smooth="yes"/>
+      <point x="94" y="-263"/>
+      <point x="144" y="-208"/>
+      <point x="144" y="-109" type="curve"/>
+      <point x="144" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="698" type="curve" smooth="yes"/>
+      <point x="72" y="676"/>
+      <point x="88" y="659"/>
+      <point x="114" y="659" type="curve" smooth="yes"/>
+      <point x="140" y="659"/>
+      <point x="156" y="676"/>
+      <point x="156" y="698" type="curve" smooth="yes"/>
+      <point x="156" y="721"/>
+      <point x="140" y="738"/>
+      <point x="114" y="738" type="curve" smooth="yes"/>
+      <point x="88" y="738"/>
+      <point x="72" y="721"/>
+    </contour>
+    <contour>
+      <point x="83" y="489" type="line"/>
+      <point x="144" y="489" type="line"/>
+      <point x="144" y="541" type="line"/>
+      <point x="83" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="800" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="234" y="800" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="112" y="800" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="234" y="-203" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="95" y="-229" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>659</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>1005</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

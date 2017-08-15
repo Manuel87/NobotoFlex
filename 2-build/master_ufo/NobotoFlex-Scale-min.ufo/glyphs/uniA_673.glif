@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA673" format="1">
+  <advance width="475"/>
+  <unicode hex="A673"/>
+  <outline>
+    <contour>
+      <point x="172" y="541" type="line"/>
+      <point x="238" y="656" type="line"/>
+      <point x="304" y="541" type="line"/>
+      <point x="435" y="541" type="line"/>
+      <point x="369" y="427" type="line"/>
+      <point x="435" y="314" type="line"/>
+      <point x="304" y="314" type="line"/>
+      <point x="238" y="199" type="line"/>
+      <point x="172" y="314" type="line"/>
+      <point x="40" y="314" type="line"/>
+      <point x="106" y="427" type="line"/>
+      <point x="40" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="355" type="line"/>
+      <point x="197" y="355" type="line"/>
+      <point x="238" y="283" type="line"/>
+      <point x="280" y="355" type="line"/>
+      <point x="361" y="355" type="line"/>
+      <point x="320" y="427" type="line"/>
+      <point x="361" y="499" type="line"/>
+      <point x="280" y="499" type="line"/>
+      <point x="238" y="572" type="line"/>
+      <point x="197" y="499" type="line"/>
+      <point x="117" y="499" type="line"/>
+      <point x="156" y="427" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>457</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

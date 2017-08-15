@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DE6" format="1">
+  <advance width="0"/>
+  <unicode hex="1DE6"/>
+  <outline>
+    <contour>
+      <point x="-704" y="2652" type="line"/>
+      <point x="-1536" y="2652" type="line"/>
+      <point x="-1536" y="2402" type="line"/>
+      <point x="-704" y="2402" type="line"/>
+    </contour>
+    <contour>
+      <point x="-724" y="3318" type="line"/>
+      <point x="-724" y="3506" type="line"/>
+      <point x="-914" y="3506" type="line"/>
+      <point x="-1616" y="2596" type="line"/>
+      <point x="-1616" y="2402" type="line"/>
+      <point x="-1422" y="2402" type="line"/>
+    </contour>
+    <contour>
+      <point x="-826" y="3506" type="line"/>
+      <point x="-1602" y="3506" type="line"/>
+      <point x="-1602" y="3256" type="line"/>
+      <point x="-826" y="3256" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1160" y="2340" type="move" name="_marktop"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

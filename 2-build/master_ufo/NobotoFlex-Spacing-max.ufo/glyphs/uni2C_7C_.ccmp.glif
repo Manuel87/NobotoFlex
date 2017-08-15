@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C7C.ccmp" format="1">
+  <advance width="857"/>
+  <outline>
+    <contour>
+      <point x="374" y="601" type="line"/>
+      <point x="374" y="-229" type="line" smooth="yes"/>
+      <point x="374" y="-333"/>
+      <point x="351" y="-369"/>
+      <point x="282" y="-369" type="curve" smooth="yes"/>
+      <point x="268" y="-369"/>
+      <point x="247" y="-368"/>
+      <point x="232" y="-363" type="curve"/>
+      <point x="231" y="-510" type="line"/>
+      <point x="255" y="-518"/>
+      <point x="291" y="-523"/>
+      <point x="317" y="-523" type="curve" smooth="yes"/>
+      <point x="483" y="-523"/>
+      <point x="544" y="-397"/>
+      <point x="544" y="-229" type="curve" smooth="yes"/>
+      <point x="544" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="800" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:14 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

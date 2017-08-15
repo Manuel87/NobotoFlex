@@ -1,0 +1,353 @@
+{
+  "GeneralSetup": {
+  	"description": 				"General Setup for the Multipolation",
+	"Read_Instances": 			"TRUE",
+	"Read_Masternames": 		"TRUE",
+	"Instances_reset_all": 		"TRUE",
+	"Custom_Parameter_before": 	["Instance Preview::R.smcp, R.caps, R, h, a, n, o, t, e, r, i, 3, 9"],
+	"Custom_Parameter_after": ["Keep Glyphs::a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,space, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, grave, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, g.alt, R.alt, K.alt, k.alt, K.alt2, k.alt2, C.ss06, G.ss06, D.ss06, O.ss06, Q.ss06, b.ss06, c.ss06, d.ss06, g.ss06, o.ss06, p.ss06, q.ss06, e.ss07, g.ss07, A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, exclam, quotedbl, numbersign, dollar, percent, ampersand, quotesingle, parenleft, parenright, asterisk, plus, comma, hyphen, period, slash, zero, one, two, three, four, five, six, seven, eight, nine, colon, semicolon, less, equal, greater, question, germandbls"],
+	"Slider_preset": "True (Variable not in use yet!)",
+	"Slider_preset_limit_extrapolation": "*1.2 (Variable not in use yet!)"
+	},
+
+	"MasterSetupMapping": {
+		"_description": "Setup basic relation between masters. Currently every additional master is interpreted as an axis. A Top-Level-Axes setup will be included in the next version.",
+		"_syntax": "['parent_value'[optional: x,y],'master_value'[optional: x,y], ['child master one', 'child master two', ...]",
+		"Regular":			[0,1, "All"],
+		"Light":			[[200, 54],[160,54],["Height","nWidth","Diacritics","MonoFaux","Monospace", "Curvature", "CurvatureEqual"]],
+			"Height":			[1456, 1165],
+			"Diacritics":		[0, 100],
+			"Monospace":		[0, 100],
+			"MonoFaux":			[0, 100],
+			"Curvature":		[0, 100],
+			"CurvatureEqual":	[0, 100],
+			"nWidth":			[782, 882],
+		"Bold":			[[200, 322],[160,260], ["Tight", "Rounded"]],
+			"Rounded":			[0, 100],
+			"Tight":			[100, 0],
+		"_info": {
+			"description": "MasterName, Map_0/[x_0, x_1], Map_1/[y_0, y_1], ['Child(s)'], Instance Math, Characters Changed [[180,150],[180,150]] Ascender 1536 Descender -416 Regular: stroke-values of original ttf supplied via googlefonts",
+			"default": 		[0,1]
+			}
+	},
+	"InstancesSetup": {
+		"_description": "Instance Setup with Instance name, master-axis and vlaue. Names starting with '#' mark local interpolations with a defined character scope ('_Scope'). Generally, nmes starting with underscore are getting ignored while processing the follwoing data. Only the following names are interpreted as variables: '_base_setting', '_Scope', '_Custom_Parameter'.",
+		"_base_setting":	{
+			"#All": {
+				"_description": 	"This setting gets applied to all other Instances as a basis setup",
+				"Regular":			"full",
+				"Light":			["full","full"],
+				"Light":			[185,152],
+				"Bold":				["none","none"],
+				"Height":			"none",
+				"nWidth":			"none",
+				"Diacritics":		"none",
+				"Rounded":			"none",
+				"CurvatureEqual":	"none",
+				"Curvature":		"none",
+				"MonoFaux":			"none",
+				"Monospace":		"none",
+				"Tight":			"none",
+				"_Custom_Parameter": []
+			},
+			"#Smallcaps": {
+				"_Scope": "include: A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, zero.smcp, one.smcp, two.smcp, three.smcp, four.smcp, five.smcp, six.smcp, seven.smcp, eight.smcp, nine.smcp",
+				"Height":	"1165"
+			},
+			"#Caps": {
+				"_Scope": "include: A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, zero.caps, one.caps, two.caps, three.caps, four.caps, five.caps, six.caps, seven.caps, eight.caps, nine.caps",
+				"Height":	"1400"
+			},
+
+			"#Ascenders": {
+				"_Scope": "include: l, h, b, d, k, f, germandbls, t",
+				"Height":	"1536"
+			},
+			"#Descenders": {
+				"_Scope": "include: p,q,g,y,j",
+				"Height":	"none+120"
+			}
+		},
+		"Default":	{
+			"_Custom_Parameter": [	"Name Table Entry::1 3 1 1033;NobotoFlex",
+									"Name Table Entry::4 3 1 1033;NobotoFlex",
+									"Name Table Entry::16 3 1 1033;NobotoFlex",
+									"Name Table Entry::18 3 1 1033;NobotoFlex"]
+		},
+		"Optical_Lineheight-min":	{
+			"#Uppercase": {
+				"_Scope": "include: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, zero, one, two, three, four, five, six, seven, eight, nine",
+				"Height":	"1406",
+				"__Height":	"1356"
+			},
+			"#Smallcaps": {
+				"_Scope": "include: A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, zero.smcp, one.smcp, two.smcp, three.smcp, four.smcp, five.smcp, six.smcp, seven.smcp, eight.smcp, nine.smcp",
+				"Height":	"1105"
+			},
+			"#Caps": {
+				"_Scope": "include: A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, zero.caps, one.caps, two.caps, three.caps, four.caps, five.caps, six.caps, seven.caps, eight.caps, nine.caps",
+				"Height":	"1300"
+			},
+
+			"#Ascenders": {
+				"_Scope": "include: l, h, b, d, k, f, germandbls, t, i, j",
+				"Height":	"1436"
+			},
+			"#Descenders": {
+				"_Scope": "include: p,q,g,y,j",
+				"Height":	"none-20"
+			},
+
+			"#All": {
+				"Height":			"none"
+			}
+		},
+		"Optical_Lineheight-max":	{
+			"#Uppercase": {
+				"_Scope": "include: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, zero, one, two, three, four, five, six, seven, eight, nine",
+				"Height":	"1576"
+			},
+			"#Smallcaps": {
+				"_Scope": "include: A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, zero.smcp, one.smcp, two.smcp, three.smcp, four.smcp, five.smcp, six.smcp, seven.smcp, eight.smcp, nine.smcp",
+				"Height":	"1365"
+			},
+			"#Caps": {
+				"_Scope": "include: A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, zero.caps, one.caps, two.caps, three.caps, four.caps, five.caps, six.caps, seven.caps, eight.caps, nine.caps",
+				"Height":	"1556"
+			},
+
+			"#Ascenders": {
+				"_Scope": "include: l, h, b, d, k, f, germandbls, t, i, j",
+				"Height":	"1706"
+			},
+			"#Descenders": {
+				"_Scope": "include: p,q,g,y,j",
+				"Height":	"none+200"
+			},
+
+			"#All": {
+				"Height":			"none",
+				"nWidth":			"none+70",
+				"Diacritics":		"none+100"
+			}
+		},
+
+		"Weight-min":	{
+			"Light":			["full","full"],
+			"Bold":				["none","none"]
+		},
+		"Weight-max":	{
+			"Light":			["none","none"],
+			"Bold":				["full","full"]
+		},
+		"Height-min":	{
+			"#All": {
+				"Height":			"full"
+			},
+			"_All_Force": {
+				"Height":			"full"
+			}
+		},
+		"Caps_Initial_Size-min":	{
+			"#All": {
+			},
+			"#Uppercase": {
+				"_Scope": "include: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, zero, one, two, three, four, five, six, seven, eight, nine",
+				"Height":	1165
+			}
+		},
+		"Caps_Initial_Size-max":	{
+			"#All": {
+			},
+			"#Uppercase": {
+				"_Scope": "include: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, zero, one, two, three, four, five, six, seven, eight, nine",
+				"Height":	"1456+200",
+				"__Bold": 	["none+10", "none+10"]
+			}
+		},
+		"Caps_smcp_Size-min":	{
+			"#All": {
+			},
+			"#Smallcaps": {
+				"_Scope": "include: A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, zero.smcp, one.smcp, two.smcp, three.smcp, four.smcp, five.smcp, six.smcp, seven.smcp, eight.smcp, nine.smcp",
+				"Height":	1165
+			}
+		},
+		"Caps_smcp_Size-max":	{
+			"#All": {
+			},
+			"#Smallcaps": {
+				"_Scope": "include: A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, zero.smcp, one.smcp, two.smcp, three.smcp, four.smcp, five.smcp, six.smcp, seven.smcp, eight.smcp, nine.smcp",
+				"Height":	"1456+200"
+			}
+		},
+		"Caps_Size-min":	{
+			"#All": {
+			},
+			"#Caps": {
+				"_Scope": "include: A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, zero.caps, one.caps, two.caps, three.caps, four.caps, five.caps, six.caps, seven.caps, eight.caps, nine.caps",
+				"Height":	1165
+			}
+		},
+		"Caps_Size-max":	{
+			"#All": {
+			},
+			"#Caps": {
+				"_Scope": "include: A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, zero.caps, one.caps, two.caps, three.caps, four.caps, five.caps, six.caps, seven.caps, eight.caps, nine.caps",
+				"Height":	"1456+200"
+			}
+		},
+		"Ascenders_Height-max":	{
+			"#All": {
+			},
+			"#Ascenders": {
+				"_Scope": "include: l, h, b, d, k, f, t, germandbls",
+				"Height":	"2000"
+			}
+		},
+		"Descenders_Height-max":	{
+			"#All": {
+			},
+			"#Descenders": {
+				"_Scope": "include: p,q,g,y,j",
+				"Height":	"2000"
+			}
+		},
+		"Scale-min":	{
+			"_Active":			false,
+			"_Custom_Parameter": ["Filter::Transformations;ScaleX:50;ScaleY:50;Origin:4;",
+								"Note::Filter is currently not applied to the UFO - needs to be fixed in Glyphs"],
+			"Light": 			["185/3*2","152/3*2"],
+			"__Light_Note": "value is just guessed, I don't understande the logic here yet"
+		},
+		"Scale-max":	{
+			"_Active":			false,
+			"Light":			["none","none"],
+			"Bold":				["185*1.5","152*1.5"],
+			"_Custom_Parameter": ["Filter::Transformations;ScaleX:200;ScaleY:200;Origin:4;",
+									"Note::Filter is currently not applied to the UFO - needs to be fixed in Glyphs"]
+		},
+		"n_Width-max":	{
+			"nWidth":			"full"
+		},
+		"Diacritics_Distance-max":	{
+			"Diacritics":		"full+200"
+		},
+		"Baseline_Shift-min":	{
+			"_Custom_Parameter": ["Filter::Transformations;OffsetY:-500;"]
+		},
+		"Baseline_Shift-max":	{
+			"__doesnotwork_in_UFO_:(__Custom_ParameterOrigin:4;": ["Filter::Transformations;OffsetY:500;"]
+		},
+		"Rounded":	{
+			"Rounded":			"full"
+		},
+		"CurvatureEqual-max":	{
+			"CurvatureEqual":	"full"
+		},
+		"Curvature-max":	{
+			"Curvature":		"full"
+		},
+		"MonoFaux-max":	{
+			"MonoFaux":			"full"
+		},
+		"Monospace-max":	{
+			"Monospace":		"full"
+		},
+		"Spacing-min":	{
+			"Tight":			"full"
+		},
+		"Spacing-max":	{
+			"_Active":		false,
+			"_Custom_Parameter": ["Filter::Transformations;LSB:+100.0;RSB:+100.0;",
+								"Note::Filter is currently not applied to the UFO - needs to be fixed in Glyphs"]
+		},
+
+		"_Light Loose":	{
+			"#Uppercase": {
+				"_Scope": "include: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, zero, one, two, three, four, five, six, seven, eight, nine",
+				"Height":	"1556"
+			},
+			"#Smallcaps": {
+				"_Scope": "include: A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, zero.smcp, one.smcp, two.smcp, three.smcp, four.smcp, five.smcp, six.smcp, seven.smcp, eight.smcp, nine.smcp",
+				"Height":	"1265"
+			},
+			"#Caps": {
+				"_Scope": "include: A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, zero.caps, one.caps, two.caps, three.caps, four.caps, five.caps, six.caps, seven.caps, eight.caps, nine.caps",
+				"Height":	"1500"
+			},
+
+			"#Ascenders": {
+				"_Scope": "include: l, h, b, d, k, f, germandbls, t, i, j",
+				"Height":	"1636"
+			},
+			"#Descenders": {
+				"_Scope": "include: p,q,g,y,j",
+				"Height":	"none+200"
+			},
+
+			"#All": {
+				"Light":			"full"
+			}
+		},
+		"_Thin Display Tight":	{
+			"#Uppercase": {
+				"_Scope": "include: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, zero, one, two, three, four, five, six, seven, eight, nine",
+				"Height":	"1406",
+				"__Height":	"1356"
+			},
+			"#Smallcaps": {
+				"_Scope": "include: A.smcp, B.smcp, C.smcp, D.smcp, E.smcp, F.smcp, G.smcp, H.smcp, I.smcp, J.smcp, K.smcp, L.smcp, M.smcp, N.smcp, O.smcp, P.smcp, Q.smcp, R.smcp, S.smcp, T.smcp, U.smcp, V.smcp, W.smcp, X.smcp, Y.smcp, Z.smcp, zero.smcp, one.smcp, two.smcp, three.smcp, four.smcp, five.smcp, six.smcp, seven.smcp, eight.smcp, nine.smcp",
+				"Height":	"1105"
+			},
+			"#Caps": {
+				"_Scope": "include: A.caps, B.caps, C.caps, D.caps, E.caps, F.caps, G.caps, H.caps, I.caps, J.caps, K.caps, L.caps, M.caps, N.caps, O.caps, P.caps, Q.caps, R.caps, S.caps, T.caps, U.caps, V.caps, W.caps, X.caps, Y.caps, Z.caps, zero.caps, one.caps, two.caps, three.caps, four.caps, five.caps, six.caps, seven.caps, eight.caps, nine.caps",
+				"Height":	"1300"
+			},
+
+			"#Ascenders": {
+				"_Scope": "include: l, h, b, d, k, f, germandbls, t, i, j",
+				"Height":	"1436-20"
+			},
+			"#Descenders": {
+				"_Scope": "include: p,q,g,y,j, comma",
+				"Height":	"none-40-40"
+			},
+
+			"#All": {
+				"Light":			["full","full"],
+				"Diacritics":		"none-100",
+				"Tight":			"full"
+			}
+		},
+		"____base_setting":	{
+			"Regular":			"full",
+			"Light":			["full","full"],
+			"Light":			[185,152],
+			"Bold":				["none","none"],
+			"Height":			"none",
+			"nWidth":			"none",
+			"Diacritics":		"none",
+			"Rounded":			"none",
+			"CurvatureEqual":	"none",
+			"Curvature":		"none",
+			"MonoFaux":			"none",
+			"Monospace":		"none",
+			"Tight":			"none",
+			"_Custom_Parameter": []
+		},
+		"_info": {
+			"description": "Instance Basis Values (currently not in use for anything)",
+			"default": 		{
+				"_Value":		"min",
+				"_ExtraSliders":	false,
+				"_Custom Parameters":	[],
+				"_isActive":		true,
+				"_CSSWeight":	400,
+				"_CSSnWidth":		5
+				}
+			}
+		}
+	}
+
+

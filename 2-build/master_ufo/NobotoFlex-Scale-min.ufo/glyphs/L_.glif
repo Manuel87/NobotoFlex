@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="541"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="514" y="52" type="line"/>
+      <point x="137" y="52" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="514" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="728" type="line"/>
+      <point x="92" y="728" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="800" type="move" name="top_dd"/>
+    </contour>
+    <contour>
+      <point x="311" y="5" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="541" y="-203" type="move" name="bottom_dd"/>
+    </contour>
+    <contour>
+      <point x="541" y="786" type="move" name="top0315"/>
+    </contour>
+    <contour>
+      <point x="294" y="728" type="move" name="caron"/>
+    </contour>
+    <contour>
+      <point x="124" y="786" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="301" y="386" type="move" name="dot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dyogh" format="1">
+  <advance width="3794"/>
+  <unicode hex="02A4"/>
+  <outline>
+    <contour>
+      <point x="1724" y="2164" type="line"/>
+      <point x="1724" y="1708" type="line"/>
+      <point x="2954" y="1708" type="line"/>
+      <point x="2260" y="904" type="line"/>
+      <point x="2260" y="654" type="line"/>
+      <point x="2636" y="654" type="line"/>
+      <point x="3594" y="1794" type="line"/>
+      <point x="3592" y="2164" type="line"/>
+    </contour>
+    <contour>
+      <point x="2260" y="894" type="line"/>
+      <point x="2260" y="538" type="line"/>
+      <point x="2532" y="538" type="line" smooth="yes"/>
+      <point x="2906" y="538"/>
+      <point x="3106" y="382"/>
+      <point x="3106" y="32" type="curve" smooth="yes"/>
+      <point x="3106" y="-238"/>
+      <point x="2922" y="-416"/>
+      <point x="2596" y="-416" type="curve" smooth="yes"/>
+      <point x="2290" y="-416"/>
+      <point x="2140" y="-306"/>
+      <point x="2076" y="-142" type="curve"/>
+      <point x="1520" y="-142" type="line"/>
+      <point x="1642" y="-718"/>
+      <point x="2116" y="-872"/>
+      <point x="2608" y="-872" type="curve" smooth="yes"/>
+      <point x="3220" y="-872"/>
+      <point x="3660" y="-560"/>
+      <point x="3660" y="4" type="curve" smooth="yes"/>
+      <point x="3660" y="590"/>
+      <point x="3272" y="924"/>
+      <point x="2604" y="924" type="curve"/>
+    </contour>
+    <component base="d"/>
+    <contour>
+      <point x="2594" y="3200" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="2594" y="-894" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="3794" y="3200" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

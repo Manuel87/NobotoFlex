@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tavdages" format="1">
+  <advance width="1179"/>
+  <unicode hex="02E2"/>
+  <outline>
+    <contour>
+      <point x="747" y="864" type="curve" smooth="yes"/>
+      <point x="747" y="813"/>
+      <point x="696" y="781"/>
+      <point x="615" y="781" type="curve" smooth="yes"/>
+      <point x="526" y="781"/>
+      <point x="444" y="805"/>
+      <point x="427" y="898" type="curve"/>
+      <point x="262" y="898" type="line"/>
+      <point x="262" y="764"/>
+      <point x="375" y="636"/>
+      <point x="610" y="636" type="curve" smooth="yes"/>
+      <point x="805" y="636"/>
+      <point x="917" y="718"/>
+      <point x="917" y="874" type="curve"/>
+      <point x="917" y="1021"/>
+      <point x="809" y="1086"/>
+      <point x="617" y="1131" type="curve" smooth="yes"/>
+      <point x="512" y="1155"/>
+      <point x="459" y="1177"/>
+      <point x="459" y="1236" type="curve" smooth="yes"/>
+      <point x="459" y="1279"/>
+      <point x="493" y="1320"/>
+      <point x="595" y="1320" type="curve" smooth="yes"/>
+      <point x="702" y="1320"/>
+      <point x="740" y="1270"/>
+      <point x="743" y="1217" type="curve"/>
+      <point x="908" y="1217" type="line"/>
+      <point x="908" y="1354"/>
+      <point x="786" y="1466"/>
+      <point x="582" y="1466" type="curve" smooth="yes"/>
+      <point x="417" y="1466"/>
+      <point x="289" y="1379"/>
+      <point x="289" y="1235" type="curve" smooth="yes"/>
+      <point x="289" y="1094"/>
+      <point x="384" y="1028"/>
+      <point x="565" y="985" type="curve" smooth="yes"/>
+      <point x="690" y="956"/>
+      <point x="747" y="924"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:13 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.967</real>
+        <real>0.6</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

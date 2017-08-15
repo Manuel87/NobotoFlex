@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sampi" format="1">
+  <advance width="674"/>
+  <unicode hex="03E1"/>
+  <outline>
+    <contour>
+      <point x="48" y="757" type="line"/>
+      <point x="463" y="543"/>
+      <point x="591" y="273"/>
+      <point x="591" y="-218" type="curve"/>
+      <point x="647" y="-189" type="line"/>
+      <point x="647" y="290"/>
+      <point x="510" y="576"/>
+      <point x="103" y="786" type="curve"/>
+    </contour>
+    <contour>
+      <point x="449" y="469" type="line"/>
+      <point x="424" y="512" type="line"/>
+      <point x="32" y="285" type="line"/>
+      <point x="57" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="217" type="line"/>
+      <point x="547" y="260" type="line"/>
+      <point x="155" y="33" type="line"/>
+      <point x="180" y="-10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

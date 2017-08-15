@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.ss06" format="1">
+  <advance width="701"/>
+  <outline>
+    <contour>
+      <point x="295" y="0" type="line"/>
+      <point x="492" y="0"/>
+      <point x="636" y="140"/>
+      <point x="636" y="351" type="curve"/>
+      <point x="636" y="377" type="line"/>
+      <point x="636" y="589"/>
+      <point x="491" y="728"/>
+      <point x="299" y="728" type="curve"/>
+      <point x="126" y="728" type="line"/>
+      <point x="126" y="677" type="line"/>
+      <point x="299" y="677" type="line"/>
+      <point x="459" y="677"/>
+      <point x="573" y="559"/>
+      <point x="573" y="378" type="curve"/>
+      <point x="573" y="351" type="line" smooth="yes"/>
+      <point x="573" y="174"/>
+      <point x="460" y="52"/>
+      <point x="295" y="52" type="curve"/>
+      <point x="130" y="52" type="line"/>
+      <point x="129" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="728" type="line"/>
+      <point x="95" y="728" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.609</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

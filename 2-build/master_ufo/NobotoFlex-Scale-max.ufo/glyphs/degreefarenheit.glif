@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degreefarenheit" format="1">
+  <advance width="3370"/>
+  <unicode hex="2109"/>
+  <outline>
+    <contour>
+      <point x="80" y="2402" type="curve"/>
+      <point x="80" y="2102"/>
+      <point x="326" y="1860"/>
+      <point x="620" y="1860" type="curve" smooth="yes"/>
+      <point x="912" y="1860"/>
+      <point x="1152" y="2102"/>
+      <point x="1152" y="2402" type="curve" smooth="yes"/>
+      <point x="1152" y="2704"/>
+      <point x="912" y="2952"/>
+      <point x="620" y="2952" type="curve" smooth="yes"/>
+      <point x="326" y="2952"/>
+      <point x="80" y="2704"/>
+    </contour>
+    <contour>
+      <point x="370" y="2402" type="curve"/>
+      <point x="370" y="2548"/>
+      <point x="484" y="2658"/>
+      <point x="620" y="2658" type="curve" smooth="yes"/>
+      <point x="758" y="2658"/>
+      <point x="864" y="2548"/>
+      <point x="864" y="2402" type="curve" smooth="yes"/>
+      <point x="864" y="2260"/>
+      <point x="758" y="2154"/>
+      <point x="620" y="2154" type="curve" smooth="yes"/>
+      <point x="484" y="2154"/>
+      <point x="370" y="2260"/>
+    </contour>
+    <contour>
+      <point x="1938" y="2912" type="line"/>
+      <point x="1360" y="2912" type="line"/>
+      <point x="1360" y="0" type="line"/>
+      <point x="1938" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="3094" y="1670" type="line"/>
+      <point x="1788" y="1670" type="line"/>
+      <point x="1788" y="1196" type="line"/>
+      <point x="3094" y="1196" type="line"/>
+    </contour>
+    <contour>
+      <point x="3246" y="2912" type="line"/>
+      <point x="1788" y="2912" type="line"/>
+      <point x="1788" y="2436" type="line"/>
+      <point x="3246" y="2436" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.939</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni046D" format="1">
+  <advance width="4112"/>
+  <unicode hex="046D"/>
+  <outline>
+    <contour>
+      <point x="2470" y="1226" type="line"/>
+      <point x="472" y="1226" type="line"/>
+      <point x="472" y="808" type="line"/>
+      <point x="2470" y="808" type="line"/>
+    </contour>
+    <component base="idotless"/>
+    <component base="uni046B" xOffset="551"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

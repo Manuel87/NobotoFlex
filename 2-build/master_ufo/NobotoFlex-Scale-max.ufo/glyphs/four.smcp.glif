@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.smcp" format="1">
+  <advance width="2086"/>
+  <outline>
+    <contour>
+      <point x="2018" y="918" type="line"/>
+      <point x="642" y="918" type="line"/>
+      <point x="1162" y="1552" type="line"/>
+      <point x="1610" y="2330" type="line"/>
+      <point x="1172" y="2330" type="line"/>
+      <point x="90" y="820" type="line"/>
+      <point x="114" y="460" type="line"/>
+      <point x="2018" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="1734" y="2330" type="line"/>
+      <point x="1180" y="2330" type="line"/>
+      <point x="1180" y="0" type="line"/>
+      <point x="1734" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:53:10 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>721</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>521</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

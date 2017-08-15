@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="265"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="253" y="465" type="line"/>
+      <point x="13" y="372" type="line"/>
+      <point x="13" y="327" type="line"/>
+      <point x="253" y="421" type="line"/>
+    </contour>
+    <component base="l" xOffset="34"/>
+    <contour>
+      <point x="135" y="842" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="135" y="5" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="265" y="842" type="move" name="top0315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-07-01 06:52:50 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.798</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
