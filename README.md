@@ -1,6 +1,7 @@
 # RobotoFlex
 - experiment to test the capabilities of the new variable font-format
 - work in progress
+- based on Roboto
 
 Preview
 ![robotoflex preview](README_media/Preview.gif)
