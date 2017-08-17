@@ -71,7 +71,7 @@ If it did not work have a look over here: https://github.com/scribbletone/i-can-
 - @Glyphs: exported UFOs ignore the instances custom parameters
 
 ## License
-[Noboto-License](https://github.com/google/roboto), and Additions (C) by Manuel von Gebhardi (CC BY-SA)
+[Roboto-License](https://github.com/google/roboto), and Additions (C) by Manuel von Gebhardi (CC BY-SA)
 
 ## Credits
 This project was partially funded by Google Fonts.
