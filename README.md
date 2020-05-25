@@ -8,7 +8,7 @@ Preview
 [(via external testing page)](http://manuel.vongebhardi.de/variable-fonts/testing/)
 
 ## Note on a few unconventional axes (scale + baseline shift)
-Especially the scale and the baseline shift axis isn't really anything I would recommend adding to your variable font. I believe that this should actually be an extra feature embedded within any variable font and could be optionally turned on or off in an UI. These two axes are fundamentally important if you want to mix different fonts inline (e.g. upright + italic of a different font) and bekommes even more important if you mix fonts accross different scripts. And yes, some applications like Indesign allow for scaling and there are tricks to get the baselines aligned. But this will be never implemented across all software, which makes it almost impossible to mix different fonts for a corporate identity.
+Especially the scale and the baseline shift axis isn't really anything I would recommend adding to your variable font. I believe that this should actually be an extra feature embedded within any variable font and could be optionally turned on or off in an UI. These two axes are fundamentally important if you want to mix different fonts inline (e.g. upright + italic of a different font) and becomes even more important if you mix fonts accross different scripts. And yes, some applications like Indesign allow for scaling and there are tricks to get the baselines aligned. But this will be never implemented across all software, which makes it almost impossible to mix different fonts for a corporate identity.
 
 ## Basic Setup / Install
 - To handle complex interpolations in Glyphs: [0-install/Multipolation](0-install/)
